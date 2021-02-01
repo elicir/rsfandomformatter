@@ -20,6 +20,11 @@
 * requires youtube-dl, ffmpeg, and imagemagick
 * creates frames/cropped and dumps cropped images in there, then you need to go in and sort and delete unnecessary images before running caps2transcript
 
+**nameline.sh usage:**
+* ./nameline.sh
+* requires imagemagick
+* looks in a directory frames/cropped for all cropped images to be double cropped, makes directory frames/cropped/crop2 and dumps final files in there
+
 **caps2transcript.py usage:**
 * python3 caps2transcript.py
 * outputs to output.txt
