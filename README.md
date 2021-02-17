@@ -12,6 +12,8 @@
   * |Bond Level 15 Talk
   * |Bond Level 30 Talk
   * \>subheading
+  * \>|subheading but next to main title
+  * \>.empty line (br)
   * <no speaker
   * Name\Line
 

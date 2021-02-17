@@ -30,6 +30,8 @@ for line in f:
     elif line[0] == ">":
         if line[1] == "|":
             new = title2[2:] + line[2:] + title_end
+        elif line[1] == ".":
+            new = "<br>"
         else:
             new = subtitle1 + line[1:] + title_end
     elif line[0] == "<":
@@ -42,6 +44,8 @@ for line in f:
         if b != -1:
             speech = "'''(" + name[b+1:] + "'''<br>" + speech
             name = name[:b-1]
+        if name == "Mei Fan":
+            name = "Meifan"
         new = chartalk1 + name + "|" + speech + chartalk2
     with open('transcript.txt', 'a') as transcript:
         transcript.write(new + '\n')
