@@ -2,21 +2,42 @@
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Net.Http.Headers;
-using System.Text.Json;
 using System.Threading.Tasks;
-using Codeplex.Data;
-
+using Newtonsoft.Json.Linq;
 
 namespace t2f
 {
     class Program
     {
+        // init constants
+        static string chartalk1 = "{{CharTalk|";
+        static string endCurlyBraces = "}}";
+        static string new_part = "|-|\n";
+        static string title1 = "Chapter ";
+        static string title1e = "Part ";
+        static string title1final = "Final Part";
+        static string title2 = "=\n<span style=\"font-weight: bold; font-size: 20px;\" >";
+        static string title_end = "</span>";
+        static string subtitle1 = "<br><span style=\"font-weight: bold; font-size: 16px;\" >";
+        static string quoteHead = "{{Quote|";
+        static string category = "[[Category:";
+        static string endSquareBraces = "]]";
+        static string tabber1 = "<tabber>";
+        static string tabber2 = "</tabber>";
+        static string bondStories = "Bond Stories";
+        static string mainStories = "Main Stories";
+        static string eventStories = "Event Stories";
+        static string stories = "Stories";
+        static string transcripts = "Transcripts";
+        static string arcana = "''(Part 1 and Part 2 of [[Shōjo☆Kageki Revue Starlight: Re LIVE/Story#Third Part: Arcana Arcadia|Arcana Arcadia]] Stage Girl bond stories are viewable in the Gallery under [[Shōjo☆Kageki Revue Starlight: Re LIVE/Story#Intermission|Arcana Arcadia - Intermission]].)''";
+
+
         #region Private Properties
         private static readonly HttpClient client = new HttpClient();
         #endregion
 
         #region API Methods
-        private static async Task<DynamicJson> GetJson(string url)
+        private static async Task<dynamic> GetJson(string url)
         {
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(
@@ -25,23 +46,23 @@ namespace t2f
 
             var stringTask = client.GetStringAsync(url);
             var json = await stringTask;
-            return DynamicJson.Parse(json);
+            return JObject.Parse(json);
         }
 
 
-        private static async Task<DynamicJson> GetStory(string code)
+        private static async Task<dynamic> GetStory(string code)
         {
             var json = await GetJson("https://karth.top/api/adventure/ww/" + code + ".json");
             return json;
         }
 
-        private static async Task<DynamicJson> GetCharaNames()
+        private static async Task<dynamic> GetCharaNames()
         {
             var json = await GetJson("https://karth.top/api/adventure_chara_name.json");
             return json;
         }
 
-        private static async Task<DynamicJson> GetDress(string code)
+        private static async Task<dynamic> GetDress(string code)
         {
             var json = await GetJson("https://karth.top/api/dress/" + code + ".json");
             return json;
@@ -57,9 +78,31 @@ namespace t2f
 
         private static async void ProcessScript(dynamic story, dynamic charaNames)
         {
-            foreach (KeyValuePair<string, dynamic> item in story)
+            string outputLine = "";
+            foreach (var item in story.script)
             {
-                Console.WriteLine(item.Key + ":" + item.Value); // foo:json, bar:100
+                JObject line = item.Value;
+                if (line.HasValues)
+                {
+                    if (line["type"] == "message")
+                    {
+                        var nameId = line["args"]["nameId"];
+                        if (nameId != 0)
+                        {
+                            string name = charaNames[Convert.ToString(nameId)]["en"];
+                            string speech = line["args"]["body"]["en"];
+                            int b = name.IndexOf('(');
+                            if (b != -1)
+                            {
+                                speech = "'''(" + name[(b + 1)..] + "'''<br>" + speech;
+                                name = name[..(b - 1)];
+                            }
+                            if (name.Contains("Mei Fan")) name.Replace("Mei Fan", "Meifan");
+                            outputLine = chartalk1 + name + "|" + speech + endCurlyBraces;
+                            Console.WriteLine(outputLine);
+                        }
+                    }
+                }
             }
         }
 
@@ -147,27 +190,7 @@ namespace t2f
             }
             
 
-            // init constants
-            string chartalk1 = "{{CharTalk|";
-            string endCurlyBraces = "}}";
-            string new_part = "|-|\n";
-            string title1 = mode == "b" ? "Chapter " : "Part ";
-            string title1final = "Final Part";
-            string title2 = "=\n<span style=\"font-weight: bold; font-size: 20px;\" >";
-            string title_end = "</span>";
-            string subtitle1 = "<br><span style=\"font-weight: bold; font-size: 16px;\" >";
-            string quoteHead = "{{Quote|";
-            string category = "[[Category:";
-            string endSquareBraces = "]]";
-            string tabber1 = "<tabber>";
-            string tabber2 = "</tabber>";
-            string bondStories = "Bond Stories";
-            string mainStories = "Main Stories";
-            string eventStories = "Event Stories";
-            string stories = "Stories";
-            string transcripts = "Transcripts";
-            string arcana = "''(Part 1 and Part 2 of [[Shōjo☆Kageki Revue Starlight: Re LIVE/Story#Third Part: Arcana Arcadia|Arcana Arcadia]] Stage Girl bond stories are viewable in the Gallery under [[Shōjo☆Kageki Revue Starlight: Re LIVE/Story#Intermission|Arcana Arcadia - Intermission]].)''";
-
+            
             // create/overwrite transcript.txt to empty
             System.IO.File.Create("transcript.txt").Close();
 
