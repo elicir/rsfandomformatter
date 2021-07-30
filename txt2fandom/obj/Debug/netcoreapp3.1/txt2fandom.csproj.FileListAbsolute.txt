@@ -1,0 +1,13 @@
+C:\Users\Frog\source\repos\txt2fandom\bin\Debug\netcoreapp3.1\txt2fandom.exe
+C:\Users\Frog\source\repos\txt2fandom\bin\Debug\netcoreapp3.1\txt2fandom.deps.json
+C:\Users\Frog\source\repos\txt2fandom\bin\Debug\netcoreapp3.1\txt2fandom.runtimeconfig.json
+C:\Users\Frog\source\repos\txt2fandom\bin\Debug\netcoreapp3.1\txt2fandom.runtimeconfig.dev.json
+C:\Users\Frog\source\repos\txt2fandom\bin\Debug\netcoreapp3.1\txt2fandom.dll
+C:\Users\Frog\source\repos\txt2fandom\bin\Debug\netcoreapp3.1\txt2fandom.pdb
+C:\Users\Frog\source\repos\txt2fandom\obj\Debug\netcoreapp3.1\txt2fandom.csprojAssemblyReference.cache
+C:\Users\Frog\source\repos\txt2fandom\obj\Debug\netcoreapp3.1\txt2fandom.AssemblyInfoInputs.cache
+C:\Users\Frog\source\repos\txt2fandom\obj\Debug\netcoreapp3.1\txt2fandom.AssemblyInfo.cs
+C:\Users\Frog\source\repos\txt2fandom\obj\Debug\netcoreapp3.1\txt2fandom.csproj.CoreCompileInputs.cache
+C:\Users\Frog\source\repos\txt2fandom\obj\Debug\netcoreapp3.1\txt2fandom.dll
+C:\Users\Frog\source\repos\txt2fandom\obj\Debug\netcoreapp3.1\txt2fandom.pdb
+C:\Users\Frog\source\repos\txt2fandom\obj\Debug\netcoreapp3.1\txt2fandom.genruntimeconfig.cache

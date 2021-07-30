@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "t2f/1.0.0": {
+      "txt2fandom/1.0.0": {
         "runtime": {
-          "t2f.dll": {}
+          "txt2fandom.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "t2f/1.0.0": {
+    "txt2fandom/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
