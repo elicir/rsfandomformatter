@@ -81,16 +81,16 @@ namespace t2f
             string outputLine = "";
             foreach (var item in story.script)
             {
-                JObject line = item.Value;
+                JToken line = item.Value;
                 if (line.HasValues)
                 {
-                    if (line["type"] == "message")
+                    if ((string)line["type"] == "message")
                     {
-                        var nameId = line["args"]["nameId"];
-                        if (nameId != 0)
+                        string nameId = (string)line["args"]["nameId"];
+                        if ((string)nameId != "0")
                         {
-                            string name = charaNames[Convert.ToString(nameId)]["en"];
-                            string speech = line["args"]["body"]["en"];
+                            string name = (string)charaNames[Convert.ToString(nameId)]["en"];
+                            string speech = (string)line["args"]["body"]["en"];
                             int b = name.IndexOf('(');
                             if (b != -1)
                             {
