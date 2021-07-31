@@ -17,7 +17,7 @@ namespace t2f
         static string title1e = "Part ";
         static string title1final = "Final Part";
         static string title2 = "=\n<span style=\"font-weight: bold; font-size: 20px;\" >";
-        static string title_end = "</span>";
+        static string titleEnd = "</span>";
         static string subtitle1 = "<br><span style=\"font-weight: bold; font-size: 16px;\" >";
         static string quoteHead = "{{Quote|";
         static string category = "[[Category:";
@@ -84,7 +84,8 @@ namespace t2f
                 JToken line = item.Value;
                 if (line.HasValues)
                 {
-                    if ((string)line["type"] == "message")
+                    string type = (string)line["type"];
+                    if (type == "message")
                     {
                         string nameId = (string)line["args"]["nameId"];
                         if ((string)nameId != "0")
@@ -101,6 +102,13 @@ namespace t2f
                             outputLine = chartalk1 + name + "|" + speech + endCurlyBraces;
                             Console.WriteLine(outputLine);
                         }
+                    } 
+                    else if (type == "showTitle")
+                    {
+                        var tempTitle = subtitle1;
+                        if (item.Name == "3") tempTitle = title2;
+                        outputLine = tempTitle + (string)line["args"]["body"]["en"] + titleEnd;
+                        Console.WriteLine(outputLine);
                     }
                 }
             }
@@ -214,11 +222,11 @@ namespace t2f
                     char num = line[1];
                     if (num == 'F' && line[2] == ' ')
                     {
-                        newstr = new_part + title1final + title2 + line[3..] + title_end;
+                        newstr = new_part + title1final + title2 + line[3..] + titleEnd;
                     }
                     else if (int.TryParse(num.ToString(), out _))
                     {
-                        newstr = new_part + title1 + num + title2 + line[3..] + title_end;
+                        newstr = new_part + title1 + num + title2 + line[3..] + titleEnd;
                     }
                     else 
                     {
@@ -229,7 +237,7 @@ namespace t2f
                 {
                     if (line[1] == '|')
                     {
-                        newstr = subtitle1[4..] + line[2..] + title_end;
+                        newstr = subtitle1[4..] + line[2..] + titleEnd;
                     }
                     else if (line[1] == '.')
                     {
@@ -237,7 +245,7 @@ namespace t2f
                     }
                     else
                     {
-                        newstr = subtitle1 + line[1..] + title_end;
+                        newstr = subtitle1 + line[1..] + titleEnd;
                     }
                 }
                 else if (line[0] == '<')
