@@ -1,249 +1,72 @@
-<tabber>
-|-|
-Part 1=
-<span style="font-weight: bold; font-size: 20px;" >Where Are The Stars</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 1</span>
-{{CharTalk|Elle|"Play A (Tentative Title)"—.}}
-{{CharTalk|Elle|"Timeless Play" – it brims with love for every story that has ever existed and will be handed down for all eternity.}}
-{{CharTalk|Elle|But this play doesn't exist yet.}}
-{{CharTalk|Elle|An insatiable appetite for writing and the power to write a magnificent play – those are qualities she doesn't have yet at her young age.}}
-{{CharTalk|Elle|That's why...we have to devote our attention to it. In order to complete "Play A".}}
-{{CharTalk|Elle|As fuel to help the "girl" who will write this play reach the future.}}
-{{CharTalk|Elle|The heated and intense brilliance from the stage girls.}}
-{{CharTalk|Elle|"Play A (Tentative Title)". A play about the stage girls' way of life.}}
-{{CharTalk|Elle|Charming those who watch with an overflow of brilliance. Every time they stand on stage, they revive and continue to shine.}}
-{{CharTalk|Elle|To live for the stage and be alive on the stage – Stage Girls.}}
-{{CharTalk|Elle|To aim for the "Shapeless Play" and "Unknown Lead"...}}
-{{CharTalk|Elle|Sing, dance, and compete. The curtain rises for the stage girls' Revue.}}
-{{CharTalk|Elle|We will show you an inspiring performance.}}
-{{CharTalk|Elle|"Play A (Tentative Title)". This play...}}
-{{CharTalk|Elle|...has yet to receive a proper title.}}
-<br><span style="font-weight: bold; font-size: 16px;" >Arcana Arcadia</span>
-<br><span style="font-weight: bold; font-size: 16px;" >Act 3 "Where Are the Stars"</span>
-{{CharTalk|Nana|"You've finally arrived... 'Fool'."}}
-{{CharTalk|Nana|"This is the end of your journey."}}
-{{CharTalk|Mahiru|"This is the end you've been searching for... The Garden of Truth."}}
-{{CharTalk|Yachiyo|"Truth... you say?"}}
-{{CharTalk|Yachiyo|"You're saying that this desolate desert... This garden, where anything and everything is dead, is the truth I've been searching for?"}}
-{{CharTalk|Nana|"Even if you continue to walk in search of your truth. Continue to fight for your justice—"}}
-{{CharTalk|Nana|"There's no guarantee you will find something at the end of it all."}}
-{{CharTalk|Mahiru|"That is also another truth."}}
-{{CharTalk|Yachiyo|"That is also another..."}}
-{{CharTalk|Yachiyo|"This... is my..."}}
-{{CharTalk|Yachiyo|"..."}}
-{{CharTalk|Yachiyo|"Pfft... Hahaha!"}}
-{{CharTalk|Mahiru & Nana|"...!?"}}
-{{CharTalk|Yachiyo|"In which case... This isn't my final destination."}}
-{{CharTalk|Yachiyo|"Because you see... I have yet to seize anything with these hands of mine!"}}
-{{CharTalk|Yachiyo|"Justice, you say? That's got nothing to do with me. Truth, you say? That's not something that can be seen nor touched!"}}
-{{CharTalk|Yachiyo|"I'm still in the middle of my journey. And my journey shall not end until I have something solid in these hands!"}}
-{{CharTalk|Yachiyo|"O 'Sun'! Light up the path that I must go down!"}}
-{{CharTalk|Ichie|......}}
-{{CharTalk|Ichie|......}}
-{{CharTalk|Yachiyo|...?}}
-{{CharTalk|Yachiyo|"Excuse me... 'Sun'?"}}
-{{CharTalk|Ichie|"Roger that!"}}
-{{CharTalk|Yachiyo|Whoa?!}}
-{{CharTalk|Ichie|"'Fool's' next destination – a bright future!"}}
-{{CharTalk|Ichie|"As the idol of the skies, the one who shines in the sky, I will light it up for you!"}}
-{{CharTalk|Mahiru & Nana|...?}}
-{{CharTalk|Claudine & Tamao|...?!}}
-{{CharTalk|Junna|Wait a minute...!}}
-{{CharTalk|Hikari|Yep, ad-lib.}}
-{{CharTalk|Karen|I knew it! Ichie-chan's... line as the "Sun" is—}}
-{{CharTalk|Junna|It should have been, "Very well. As the 'Sun', I shall light your path until the end of the horizon!"}}
-{{CharTalk|Karen|Right? That surprised me!}}
-{{CharTalk|Junna|I mean, Tamao-san has put in ad-libs before in past script readings, but...}}
-{{CharTalk|Hikari|This is the first time... a line has changed so much.}}
-{{CharTalk|Hikari|But...}}
-{{CharTalk|Hikari|But that "Sun" is...}}
-{{CharTalk|Yachiyo|Heh heh...}}
-{{CharTalk|Yachiyo|"I expected nothing less from you, 'Sun'!"}}
-{{CharTalk|Yachiyo|"Now dispel the darkness of twilight and end the evening! Direct me down my new path with that smile of yours!"}}
-{{CharTalk|Ichie|"Consider it done! All right, 'Fool', where to?"}}
-{{CharTalk|Ichie|"North, east, west, south! Past and future! A traveler can go wherever they please!"}}
-{{CharTalk|Yachiyo|"Yes, I can go anywhere!"}}
-{{CharTalk|Junna|Whoa... Tsuruhime-san ad-libbed too...!}}
-{{CharTalk|Hikari|It's an ad-lib exchange, but... But...}}
-{{CharTalk|Fumi|......!}}
-{{CharTalk|Fumi|Ugh...!}}
-{{CharTalk|Junna|Wait, huh? Yumeoji-san?!}}
-{{CharTalk|Karen|Why are you standing up all of a sudden?}}
-{{CharTalk|Fumi|I can't stand to watch this any longer... I'm going to stop them.}}
-{{CharTalk|Karen & Junna|What?}}
-{{CharTalk|Fumi|We've finally gotten to this point after numerous script readings... Thanks to Ichie's ad-lib, it's all messed up.}}
-{{CharTalk|Fumi|I have to stop them now—!}}
-{{CharTalk|Shiori|—N-no, you can't!}}
-{{CharTalk|Fumi|What... Sh-Shiori?!}}
-{{CharTalk|Shiori|...Fumi, you can't.}}
-{{CharTalk|Fumi|Shiori. Step aside.}}
-{{CharTalk|Shiori|...No.}}
-{{CharTalk|Shiori|Because... Yachiyo-senpai and Otonashi-san's improv— their stage isn't over yet.}}
-{{CharTalk|Shiori|I won't allow you, as an outsider who's not standing on that stage, to cut the performance short.}}
-{{CharTalk|Fumi|Shiori...}}
-{{CharTalk|Shiori|Let's continue watching until the performance ends.}}
-{{CharTalk|Fumi|But this kind of performance...!}}
-{{CharTalk|Maya|It is an ad-lib exchange, but starting with the "Sun", all these characters have never existed...}}
-{{CharTalk|Hikari|—They're alive.}}
-{{CharTalk|Maya|Exactly.}}
-{{CharTalk|Fumi|Huh...?}}
-{{CharTalk|Maya|They've read and analyzed the flow of the script and having understood their lines, they're now exploring the boundaries of their own characters and playing around with it.}}
-{{CharTalk|Maya|Which means...}}
-{{CharTalk|Akira|Yes... They've broken down and digested the personalities of the characters written in the script...}}
-{{CharTalk|Akira|And made the characters into their own.}}
-{{CharTalk|Fumi|......!}}
-{{CharTalk|Mahiru|Um, that's...}}
-{{CharTalk|Mahiru|"Ahem. Then allow me to give you a piece of advice."}}
-{{CharTalk|Yachiyo|"Oh? The great 'Hermit' has advice for me?"}}
-{{CharTalk|Mahiru|"Head for the west, young one."}}
-{{CharTalk|Mahiru|"At the end of the mainland is a small village. Once a year, they hold a 'Star Festival' to give praise to the stars in the night sky."}}
-{{CharTalk|Mahiru|"They say the one who can catch the two stars that shine beautifully in the sky will have eternal hope in their hands."}}
-{{CharTalk|Yachiyo|"Catch a star... That might be the real light I should be aiming for..."}}
-{{CharTalk|Yachiyo|"Okay, I've decided. It's the start of a new journey!"}}
-{{CharTalk|Yachiyo|"Haha... Once again, I decide by myself to go on a reckless and outrageous journey."}}
-{{CharTalk|Yachiyo|"Nevertheless... Will you still come along, my dear?"}}
-{{CharTalk|Claudine|"Heh heh... Of course."}}
-{{CharTalk|Claudine|"Without me, you won't be able to wash that shirt of yours or even boil water!"}}
-{{CharTalk|Claudine|"I'll come too."}}
-{{CharTalk|Claudine|"Because I want to be there with you... to share the joy of the moment you've grasped something solid with your hands."}}
-{{CharTalk|Claudine|"Also... your contract with her will not end until your journey is finished."}}
-{{CharTalk|Claudine|"Am I right, 'Death'?"}}
-{{CharTalk|Tamao|...Heh heh.}}
-{{CharTalk|Tamao|"If the journey ends, the soul of the 'Fool' will be sacrificed. However... if the journey doesn't end, neither will the contract."}}
-{{CharTalk|Tamao|"It's a bit of a bother, but... well, I suppose that's just the way it has to be."}}
-{{CharTalk|Tamao|"Because without your soul, I can't return to Yomi."}}
-{{CharTalk|Tamao|"I shall accompany you on your journey for now."}}
-{{CharTalk|Yachiyo|"Please do, 'Death'. If you were to go, I would feel lonely."}}
-{{CharTalk|Nana|"But... is this okay?"}}
-{{CharTalk|Yachiyo|"Hm?"}}
-{{CharTalk|Nana|"Things like changing the path and the destination... Is that really something we're allowed to do?"}}
-{{CharTalk|Yachiyo|"...Obviously."}}
-{{CharTalk|Yachiyo|"We're humans. Humans continue to change."}}
-{{CharTalk|Yachiyo|"Which means, so will our destinations as well as our paths."}}
-{{CharTalk|Yachiyo|"It's fine to change. Nothing in this world can remain the same."}}
-{{CharTalk|Ichie|"Even for I, who shine in the sky – a day will come when I will burn out."}}
-{{CharTalk|Nana|"..."}}
-{{CharTalk|Yachiyo|"Go down the path illuminated by the 'Sun' and attend the Star Festival. This is the start of my magnificent journey. How fitting."}}
-{{CharTalk|Ichie|"Is everybody ready?"}}
-{{CharTalk|Ichie|"Let's head off on our brand new journey!"}}
-{{CharTalk|Ichie|"'Sun'! What are we to do if you're leading?!"}}
-{{CharTalk|Ichie|"Right, I'm supposed to be lighting the path! Sorry!"}}
-{{CharTalk|Yachiyo|Pfft...!}}
-{{CharTalk|Ichie|Heh heh...}}
-{{CharTalk|Ichie & Yachiyo|Hahahaha!}}
-{{CharTalk|Claudine & Ichie & Yachiyo|Hahahaha!}}
-{{CharTalk|Masai|All right, all right! Let's stop there!}}
-|-|
-Part 2=
-<span style="font-weight: bold; font-size: 20px;" >Where Are The Stars</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 2</span>
-{{CharTalk|Masai|Great work, everyone!}}
-{{CharTalk|Ichie|*huff*... *huff*...}}
-{{CharTalk|Ichie|I'm so sorry, everyone!}}
-{{CharTalk|Ichie|I couldn't stop ad-libbing!}}
-{{CharTalk|Masai|No, no, no. That was wonderful!}}
-{{CharTalk|Ichie|But the lines changed so much...}}
-{{CharTalk|Masai|Hmm. What do you think, Shion-chan?}}
-{{CharTalk|Amemiya|Good.}}
-{{CharTalk|Amemiya|It was really good...!}}
-{{CharTalk|Amemiya|I would never have come up with such lines for the "Sun"...}}
-{{CharTalk|Ichie|Well, you know how you and the script team had come up with that kind of character for Shiori-chan's "Chariot" in the last draft?}}
-{{CharTalk|Shiori|Th-That kind of...! I think the "Chariot" is very cute!}}
-{{CharTalk|Ichie|Yeah, I think so too!}}
-{{CharTalk|Ichie|That's why, instead of having the "Sun" acting all important up in the sky...}}
-{{CharTalk|Ichie|I thought we could make it a bright and sunny character who's close to the "Fool".}}
-{{CharTalk|Amemiya|Yes... Yeah! Good, it was great!}}
-{{CharTalk|Amemiya|It really stood out... Something the stage has never seen before!}}
-{{CharTalk|Masai|Yes, I agree!}}
-{{CharTalk|Ichie|I'm so glad!}}
-{{CharTalk|Masai|Thank you, everyone! Let's take a break!}}
-{{CharTalk|Ichie|Whew...!}}
-{{CharTalk|Ichie|You're amazing, Yachiyo-chan.}}
-{{CharTalk|Yachiyo|Huh?}}
-{{CharTalk|Ichie|You returned all of my ad-libs!}}
-{{CharTalk|Yachiyo|Not at all. It's thanks to how carefully you set up your ad-libs.}}
-{{CharTalk|Yachiyo|It may appear to be a mess, but the nuance is actually the same as the original lines...}}
-{{CharTalk|Yachiyo|You even made sure that it would connect well to my next lines, didn't you?}}
-{{CharTalk|Ichie|I didn't think that far!}}
-{{CharTalk|Mahiru|Really? In which case... that's amazing. That means your "Sun" moved on its own accord.}}
-{{CharTalk|Claudine|It definitely turned into a "Sun" that only Ichie could pull off.}}
-{{CharTalk|Ichie|Aw, it really wasn't that big a deal!}}
-{{CharTalk|Shiori|......}}
-{{CharTalk|Shiori|Wow...}}
-{{CharTalk|Shiori|The exchange between Otonashi-san's "Sun" and Yachiyo-senpai's "Fool" has heated up the play so much...}}
-{{CharTalk|Shiori|My heart is racing just from watching it...}}
-{{CharTalk|Shiori|...I'm glad it wasn't stopped.}}
-{{CharTalk|Fumi|......!}}
-{{CharTalk|Shiori|...I also...}}
-{{CharTalk|Shiori|I also... want to put on such a lively performance.}}
-{{CharTalk|Shiori|I want to stand on that stage soon.}}
-{{CharTalk|Shiori|Fumi... What do you think?}}
-{{CharTalk|Fumi|......}}
-{{CharTalk|Fumi|The ad-libs just happened to go down well, that's all.}}
-{{CharTalk|Fumi|This doesn't mean things will go down the same way on the day of the "Performance Festival".}}
-{{CharTalk|Shiori|Fumi...}}
-{{CharTalk|Masai|Great work, everyone!}}
-{{CharTalk|Masai|This marks the end of the script readings for creating the characters!}}
-{{CharTalk|Amemiya & Masai|Thank you very much for all of your time!}}
-{{CharTalk|All|Thank you!}}
-{{CharTalk|Masai|We'll be polishing the script and finishing up the final draft based on all the script readings we've had so far.}}
-{{CharTalk|Amemiya|Um... Look forward to it!}}
-{{CharTalk|All|Okay!}}
-{{CharTalk|Yachiyo|Oh, um!}}
-{{CharTalk|Masai|Yes, Tsuruhime-san!}}
-{{CharTalk|Yachiyo|Can I ask a question?}}
-{{CharTalk|Masai|Sure, go ahead!}}
-{{CharTalk|Yachiyo|About this play...}}
-{{CharTalk|Yachiyo|The characters are the twenty-two Arcana from the Marseille and Waite versions of tarot cards...}}
-{{CharTalk|Yachiyo|Plus the three Arcana from the Visconti-Sforza version. An Arcana series original to the "Performance Festival," right?}}
-{{CharTalk|Masai|That's right!}}
-{{CharTalk|Yachiyo|But...}}
-{{CharTalk|Yachiyo|The casting for the "Star" Arcana – it's still blank, right? What's the meaning...?}}
-{{CharTalk|Masai|Oh, well...}}
-{{CharTalk|Amemiya|We made it blank on purpose.}}
-{{CharTalk|Amemiya|This play is an epic that transcends both time and place...}}
-{{CharTalk|Amemiya|What the characters desire and what they're living for...}}
-{{CharTalk|Amemiya|The "Star"... We want it to symbolize the thing, place, person – whatever people are aiming for.}}
-{{CharTalk|Yachiyo|Oh, I see. That's why it's blank...}}
-{{CharTalk|Yachiyo|I understand now.}}
-{{CharTalk|Amemiya|Um... Many amazing performers have gathered together for this "Performance Festival".}}
-{{CharTalk|Amemiya|So we'll make this script into one that will make sure each and every one of you can shine your very brightest.}}
-{{CharTalk|Amemiya|Of course, everyone at Frontier too.}}
-{{CharTalk|Masai|So, please look forward to the final draft!}}
-{{CharTalk|Masai|Good work today!}}
-{{CharTalk|All|Thank you!}}
-{{CharTalk|Karen|Ahh, that was fun!}}
-{{CharTalk|Hikari|Yes... It was.}}
-{{CharTalk|Junna|Seriously. It was so intense you wouldn't have thought it was just a script reading.}}
-{{CharTalk|Maya|It looked like Amemiya-san got a lot of inspiration too... I'm excited for the finished script.}}
-{{CharTalk|Karen|Yeah!}}
-{{CharTalk|Karen|But, oh... I wish they could've seen it. Today's improv and ad-lib battle.}}
-{{CharTalk|Karen|—Everyone at Frontier.}}
-{{CharTalk|Claudine|...I wonder if they're okay. It's the last script reading and none of them joined.}}
-{{CharTalk|Maya|Ebisu-san contacted me and said they'll be fine and not to worry...}}
-{{CharTalk|Claudine|I hope that's the case.}}
-{{CharTalk|Karen|......}}
-{{CharTalk|Karen|Aruru-chan.....}}
-{{CharTalk|Maya|Let's just believe in them and wait.}}
-{{CharTalk|Claudine|You're right. We felt their determination at the last script reading too.}}
-{{CharTalk|Mahiru|I'm sure we'll all be on that stage together by the time the final draft is finished—}}
-{{CharTalk|Akira|Final draft... huh.}}
-{{CharTalk|Michiru|Well, the performance date is already set in stone, so it has to be finished.}}
-{{CharTalk|Michiru|But... that script...}}
-{{CharTalk|Akira|Michiru, you noticed too?}}
-{{CharTalk|Michiru|Well, yes.}}
-{{CharTalk|Michiru|"We want to make it into a story where everyone aims for their own 'Star'."}}
-{{CharTalk|Michiru|I can understand how the script team feels, but...}}
-{{CharTalk|Michiru|When "their own" stands out so much, the elements of an ensemble cast become stronger...}}
-{{CharTalk|Akira|Without an axis to hold the play together—}}
-{{CharTalk|Michiru|The link between the chapters become weak and it may end up giving off a vague impression?}}
-{{CharTalk|Akira|Exactly.}}
-{{CharTalk|Akira|To have all the performers on stage shine.}}
-{{CharTalk|Akira|Of course, that would be ideal, but—}}
-{{CharTalk|Michiru|It's necessary.}}
-{{CharTalk|Akira|Yes, it's necessary.}}
-{{CharTalk|Akira|The stage... It needs a strong existence that penetrates the center of the play, shines right in the middle of the stage...}}
-{{CharTalk|Michiru|Rouses the creator, guides the performers, and captivates the audience.}}
-</tabber>
-[[Category:Main Stories]]
-[[Category:Transcripts]]
+=
+<span style="font-weight: bold; font-size: 20px;" >Expectation and Result</span>
+{{CharTalk|Hikari|What if baseball girl Hikari Kagura said she wanted to go for a stroll around the neighborhood?}}
+{{CharTalk|Hikari|A short play that branches off from this theme—}}
+{{CharTalk|Karen|Hikari-chan! Over here! Look at this!!}}
+{{CharTalk|Hikari|What... is this? A small cat statue??}}
+{{CharTalk|Karen|It's the mascot for this shopping district! Cute, right?}}
+{{CharTalk|Hikari|...Mr. White is cuter.}}
+{{CharTalk|Karen|Haha, don't say that. You should grow to like this cat too!}}
+{{CharTalk|Karen|Because from now on, you'll be shopping here all the time.}}
+{{CharTalk|Hikari|Okay... I'll do my best.}}
+{{CharTalk|Karen|Heh heh, hearing you say that makes me being your guide a worthwhile job... Oh!}}
+{{CharTalk|Claudine|Oh, hello.}}
+{{CharTalk|Futaba|Hey, it's Karen and Kagura!}}
+{{CharTalk|Karen|What's the matter, you two?!}}
+{{CharTalk|Futaba|Nothing's the matter. Today is our turn to do the shopping.}}
+{{CharTalk|Karen|Oh, right...}}
+{{CharTalk|Hikari|You're carrying a lot of stuff.}}
+{{CharTalk|Futaba|Yeah, we got a lot of freebies! Everyone's rooting for the Seisho baseball team.}}
+{{CharTalk|Claudine|This happy weight is the expectations of the people in this shopping district.}}
+{{CharTalk|Karen|But it looks heavy... We'll help you carry some.}}
+{{CharTalk|Hikari|Yes, I can take that.}}
+{{CharTalk|Claudine|C'est bon, this is nothing. Don't you know how much training I do?}}
+{{CharTalk|Claudine|But if you really want to help... Here, take this.}}
+{{CharTalk|Karen|This is...}}
+{{CharTalk|Hikari|"Ticket to Play"??}}
+{{CharTalk|Claudine|I got it when I was shopping. It's a ticket for a chance to win something at the giveaway over there.}}
+{{CharTalk|Futaba|Yeah, we've got our hands full, so why don't you two go and win something nice.}}
+{{CharTalk|Karen|Oh, but this game...}}
+{{CharTalk|Futaba|Exactly! So we're counting on you, Kagura.}}
+{{CharTalk|Hikari|Me?}}
+{{CharTalk|Claudine|Yes. You're the only one we can count on.}}
+{{CharTalk|Karen|Let's see, the game area is...}}
+{{CharTalk|Booth Owner|Oh, if it isn't Karen-chan!}}
+{{CharTalk|Karen|Hello!!}}
+{{CharTalk|Booth Owner|Are you here to try the game? Oh, but Karen-chan...}}
+{{CharTalk|Hikari|That's been bugging me this whole time. Only I can be counted on...}}
+{{CharTalk|Hikari|Why can't you play?}}
+{{CharTalk|Karen|Heh heh... Well as you can see, you knock down the prize you want in this game...}}
+{{CharTalk|Karen|When I did it before, I pretty much ended up hitting everything...!}}
+{{CharTalk|Booth Owner|Haha! That's right. So Karen-chan got put into the hall of fame!}}
+{{CharTalk|Hikari|Oh, I get it now.}}
+{{CharTalk|Karen|Yeah! So it's all on you, Hikari-chan!!}}
+{{CharTalk|Hikari|Okay... But it's quite far.}}
+{{CharTalk|Hikari|The ball is a light bean bag. This will be tricky to control... Ah!}}
+{{CharTalk|Karen|W-What is it?!}}
+{{CharTalk|Hikari|That's... a Mr. White beach ball...?!}}
+{{CharTalk|Hikari|I've never seen that before. It must be a limited item only available in Japan...}}
+{{CharTalk|Hikari|I need that!!}}
+{{CharTalk|Karen|H-Hikari-chan, your eyes are on fire!!}}
+{{CharTalk|Hikari|HAAAAH...!}}
+{{CharTalk||*clang* *clang*}}
+{{CharTalk|Hikari|Heh heh, it's so cute...!}}
+{{CharTalk|Karen|Amazing! I can't believe you managed to hit one that was so far away!!}}
+{{CharTalk|Karen|I was able to introduce you to everyone in the shopping district today too. This is perfect...}}
+{{CharTalk|Hikari|Oh...}}
+{{CharTalk|Karen|Huh, what's wrong? Hikari-chan, why do you look so down?!}}
+{{CharTalk|Hikari|This is the only prize I got.}}
+{{CharTalk|Hikari|They asked me to get something good... But I only got something for myself...}}
+{{CharTalk|Karen|Oh, wait a minute! Hikari-chan!}}
+{{CharTalk|Hikari|What is it?}}
+{{CharTalk|Karen|That Mr. White... It might not be a beach ball... Isn't it too big?}}
+{{CharTalk|Hikari|You're right... Let's see...}}
+{{CharTalk||*rustle* *rustle*}}
+{{CharTalk|Hikari|It's an inflatable balance ball...!}}
+{{CharTalk|Karen|Training equipment!!}}
+{{CharTalk|Karen|Wow, that's great! Everyone can use this!!}}
+{{CharTalk|Hikari|You're right... I was able to fulfill what was asked of me.}}
+{{CharTalk|Hikari|...But during the other times, can we keep this in our room?}}
+{{CharTalk|Karen|Haha, I'll ask everyone together with you!}}
+{{CharTalk|Karen|...This is wonderful, Hikari-chan!}}
+{{CharTalk|Hikari|Yeah...!}}

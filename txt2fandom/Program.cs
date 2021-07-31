@@ -79,37 +79,50 @@ namespace t2f
         private static async void ProcessScript(dynamic story, dynamic charaNames)
         {
             string outputLine = "";
+            using var outfile = System.IO.File.AppendText("transcript.txt");
             foreach (var item in story.script)
             {
+                outputLine = "";
                 JToken line = item.Value;
                 if (line.HasValues)
                 {
                     string type = (string)line["type"];
+                    JToken args = line["args"];
+                    if (args.Type == JTokenType.Array) 
+                        continue;
+                    JToken characterId = args["characterId"];
                     if (type == "message")
                     {
-                        string nameId = (string)line["args"]["nameId"];
+                        string nameId = (string)args["nameId"];
                         if ((string)nameId != "0")
                         {
                             string name = (string)charaNames[Convert.ToString(nameId)]["en"];
-                            string speech = (string)line["args"]["body"]["en"];
+                            string speech = (string)args["body"]["en"];
                             int b = name.IndexOf('(');
                             if (b != -1)
                             {
                                 speech = "'''(" + name[(b + 1)..] + "'''<br>" + speech;
                                 name = name[..(b - 1)];
                             }
-                            if (name.Contains("Mei Fan")) name.Replace("Mei Fan", "Meifan");
+                            if (name.Contains("Mei Fan")) 
+                                name.Replace("Mei Fan", "Meifan");
                             outputLine = chartalk1 + name + "|" + speech + endCurlyBraces;
-                            Console.WriteLine(outputLine);
+                        }
+                        else if (characterId.Type == JTokenType.Integer && (int)characterId == 0)
+                        {
+                            outputLine = chartalk1 + "|" + (string)args["body"]["en"] + endCurlyBraces;
                         }
                     } 
                     else if (type == "showTitle")
                     {
                         var tempTitle = subtitle1;
-                        if (item.Name == "3") tempTitle = title2;
-                        outputLine = tempTitle + (string)line["args"]["body"]["en"] + titleEnd;
-                        Console.WriteLine(outputLine);
+                        if (item.Name == "3") 
+                            tempTitle = title2;
+                        outputLine = tempTitle + (string)args["body"]["en"] + titleEnd;
+                        
                     }
+                    if (outputLine != "")
+                        outfile.WriteLine(outputLine);
                 }
             }
         }
@@ -120,6 +133,7 @@ namespace t2f
             string code = args[0];
             var story = await GetStory(code);
             var charaNames = await GetCharaNames();
+            System.IO.File.Create("transcript.txt").Close();
             ProcessScript(story, charaNames);
         }
 
