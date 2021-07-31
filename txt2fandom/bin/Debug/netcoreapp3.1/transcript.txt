@@ -1,72 +1,88 @@
 =
-<span style="font-weight: bold; font-size: 20px;" >Expectation and Result</span>
-{{CharTalk|Hikari|What if baseball girl Hikari Kagura said she wanted to go for a stroll around the neighborhood?}}
-{{CharTalk|Hikari|A short play that branches off from this theme—}}
-{{CharTalk|Karen|Hikari-chan! Over here! Look at this!!}}
-{{CharTalk|Hikari|What... is this? A small cat statue??}}
-{{CharTalk|Karen|It's the mascot for this shopping district! Cute, right?}}
-{{CharTalk|Hikari|...Mr. White is cuter.}}
-{{CharTalk|Karen|Haha, don't say that. You should grow to like this cat too!}}
-{{CharTalk|Karen|Because from now on, you'll be shopping here all the time.}}
-{{CharTalk|Hikari|Okay... I'll do my best.}}
-{{CharTalk|Karen|Heh heh, hearing you say that makes me being your guide a worthwhile job... Oh!}}
-{{CharTalk|Claudine|Oh, hello.}}
-{{CharTalk|Futaba|Hey, it's Karen and Kagura!}}
-{{CharTalk|Karen|What's the matter, you two?!}}
-{{CharTalk|Futaba|Nothing's the matter. Today is our turn to do the shopping.}}
-{{CharTalk|Karen|Oh, right...}}
-{{CharTalk|Hikari|You're carrying a lot of stuff.}}
-{{CharTalk|Futaba|Yeah, we got a lot of freebies! Everyone's rooting for the Seisho baseball team.}}
-{{CharTalk|Claudine|This happy weight is the expectations of the people in this shopping district.}}
-{{CharTalk|Karen|But it looks heavy... We'll help you carry some.}}
-{{CharTalk|Hikari|Yes, I can take that.}}
-{{CharTalk|Claudine|C'est bon, this is nothing. Don't you know how much training I do?}}
-{{CharTalk|Claudine|But if you really want to help... Here, take this.}}
-{{CharTalk|Karen|This is...}}
-{{CharTalk|Hikari|"Ticket to Play"??}}
-{{CharTalk|Claudine|I got it when I was shopping. It's a ticket for a chance to win something at the giveaway over there.}}
-{{CharTalk|Futaba|Yeah, we've got our hands full, so why don't you two go and win something nice.}}
-{{CharTalk|Karen|Oh, but this game...}}
-{{CharTalk|Futaba|Exactly! So we're counting on you, Kagura.}}
-{{CharTalk|Hikari|Me?}}
-{{CharTalk|Claudine|Yes. You're the only one we can count on.}}
-{{CharTalk|Karen|Let's see, the game area is...}}
-{{CharTalk|Booth Owner|Oh, if it isn't Karen-chan!}}
-{{CharTalk|Karen|Hello!!}}
-{{CharTalk|Booth Owner|Are you here to try the game? Oh, but Karen-chan...}}
-{{CharTalk|Hikari|That's been bugging me this whole time. Only I can be counted on...}}
-{{CharTalk|Hikari|Why can't you play?}}
-{{CharTalk|Karen|Heh heh... Well as you can see, you knock down the prize you want in this game...}}
-{{CharTalk|Karen|When I did it before, I pretty much ended up hitting everything...!}}
-{{CharTalk|Booth Owner|Haha! That's right. So Karen-chan got put into the hall of fame!}}
-{{CharTalk|Hikari|Oh, I get it now.}}
-{{CharTalk|Karen|Yeah! So it's all on you, Hikari-chan!!}}
-{{CharTalk|Hikari|Okay... But it's quite far.}}
-{{CharTalk|Hikari|The ball is a light bean bag. This will be tricky to control... Ah!}}
-{{CharTalk|Karen|W-What is it?!}}
-{{CharTalk|Hikari|That's... a Mr. White beach ball...?!}}
-{{CharTalk|Hikari|I've never seen that before. It must be a limited item only available in Japan...}}
-{{CharTalk|Hikari|I need that!!}}
-{{CharTalk|Karen|H-Hikari-chan, your eyes are on fire!!}}
-{{CharTalk|Hikari|HAAAAH...!}}
-{{CharTalk||*clang* *clang*}}
-{{CharTalk|Hikari|Heh heh, it's so cute...!}}
-{{CharTalk|Karen|Amazing! I can't believe you managed to hit one that was so far away!!}}
-{{CharTalk|Karen|I was able to introduce you to everyone in the shopping district today too. This is perfect...}}
-{{CharTalk|Hikari|Oh...}}
-{{CharTalk|Karen|Huh, what's wrong? Hikari-chan, why do you look so down?!}}
-{{CharTalk|Hikari|This is the only prize I got.}}
-{{CharTalk|Hikari|They asked me to get something good... But I only got something for myself...}}
-{{CharTalk|Karen|Oh, wait a minute! Hikari-chan!}}
+<span style="font-weight: bold; font-size: 20px;" >Baseball Girl</span>
+{{CharTalk|Junna|...No matter how it turns out, this is it.}}
+{{CharTalk|Mahiru|Oh, sorry...! Before we start the match, can I say something first?}}
 {{CharTalk|Hikari|What is it?}}
-{{CharTalk|Karen|That Mr. White... It might not be a beach ball... Isn't it too big?}}
-{{CharTalk|Hikari|You're right... Let's see...}}
-{{CharTalk||*rustle* *rustle*}}
-{{CharTalk|Hikari|It's an inflatable balance ball...!}}
-{{CharTalk|Karen|Training equipment!!}}
-{{CharTalk|Karen|Wow, that's great! Everyone can use this!!}}
-{{CharTalk|Hikari|You're right... I was able to fulfill what was asked of me.}}
-{{CharTalk|Hikari|...But during the other times, can we keep this in our room?}}
-{{CharTalk|Karen|Haha, I'll ask everyone together with you!}}
-{{CharTalk|Karen|...This is wonderful, Hikari-chan!}}
-{{CharTalk|Hikari|Yeah...!}}
+{{CharTalk|Mahiru|Um, thank you for today!}}
+{{CharTalk|Mahiru|And... Sorry if I sound rude, but...}}
+{{CharTalk|Mahiru|I won't give up! I'll show you the kind of baseball girl I am through this match!!}}
+{{CharTalk|Hikari|Hm... Sure. All right then...}}
+{{CharTalk|Karen|Play ball!!}}
+<hr>
+{{CharTalk|Claudine|Hi-yah!}}
+{{CharTalk||*CLINK*}}
+{{CharTalk|Maya|Over there, Hoshimi-san!}}
+{{CharTalk|Kaoruko|What a shot! ...Oh no, she's not gonna make it!}}
+{{CharTalk|Junna|Ngh!!}}
+{{CharTalk||*slide*}}
+{{CharTalk|Kaoruko|No way, she caught it...!}}
+{{CharTalk|Junna|Heh heh, it's hard to beat a person who never gives up...  A quote by Babe Ruth.}}
+{{CharTalk|Claudine|Argh... I thought it'd be a home run!}}
+{{CharTalk|Futaba|No points since it was caught. Their movements have improved from last time.}}
+{{CharTalk|Futaba|Moreover, I can't read Karen's pitches! Is this...}}
+{{CharTalk|Nana|The result of their special training?}}
+{{CharTalk|Hikari|...That's not all there is to it.}}
+{{CharTalk|Hikari|There's no holding back or hesitation in her lead. She can read what pitches everyone is bad at or excels at.}}
+{{CharTalk|Claudine|Hmm. Meaning something has changed with her?}}
+{{CharTalk|Futaba|Looks like it. So this is what she meant...}}
+{{CharTalk|Futaba|This is Mahiru Tsuyuzaki's baseball girl!!}}
+{{CharTalk|Kaoruko|All right, final inning and we're in the lead by 1 point...! Captain, Karen-han, we're counting on you. Don't let them hit it!}}
+{{CharTalk|Claudine|Non! Not so fast. The bases are loaded.}}
+{{CharTalk|Futaba|The next batter up is...}}
+{{CharTalk|Hikari|......}}
+{{CharTalk|Nana|Hikari-chan...!}}
+{{CharTalk||*swish*}}
+{{CharTalk|Hikari|...Come at me.}}
+{{CharTalk|Karen|HAAAH!}}
+{{CharTalk||*CLINK*}}
+{{CharTalk|Kaoruko|She hit it?!}}
+{{CharTalk|Junna|Wait, look at the ball!}}
+{{CharTalk|Maya|Yes, it's a foul.}}
+{{CharTalk|Maya|But look at how far it went. If she got the timing right, it might've been a long hit...!}}
+{{CharTalk|Karen|*huff* *huff*}}
+{{CharTalk|Mahiru|(Strike, strike, foul... Let's make the next pitch the last one, Karen-chan!)}}
+{{CharTalk|Karen|(Okay... But based on the current flow, a straight pitch might let Hikari-chan hit!)}}
+{{CharTalk|Karen|(So I should do a curve for the last one too...)}}
+{{CharTalk|Mahiru|(You can't, Karen-chan! Kagura-san definitely knows how Karen-chan feels.)}}
+{{CharTalk|Mahiru|(You mustn't throw a curve ball out of worry!)}}
+{{CharTalk|Karen|(But...)}}
+{{CharTalk|Mahiru|(Don't worry, I know you're an exceptional pitcher, that's why...)}}
+{{CharTalk|Mahiru|(Let's win this together!!)}}
+{{CharTalk|Karen|...!}}
+{{CharTalk||*swish*}}
+{{CharTalk|Junna|(She's winding up!!)}}
+{{CharTalk|Maya|(That form... A straight pitch?!)}}
+{{CharTalk|Kaoruko|(Right in the center? Is she for real?!)}}
+{{CharTalk||*THWAP*}}
+{{CharTalk|Nana|S-Strike...}}
+{{CharTalk|Junna|Batter out...!}}
+{{CharTalk|Karen|It's over!!}}
+{{CharTalk|All|Whoa...!!!}}
+{{CharTalk|Futaba|You did it! Congrats!!}}
+{{CharTalk|Kaoruko|Hey, we're your opponents. You shouldn't be congratulating us.}}
+{{CharTalk|Junna|Heh heh yeah, but...}}
+{{CharTalk|Karen|Yeah! That was so fun!!}}
+{{CharTalk|Mahiru|Thank you... It's all thanks to everyone...}}
+{{CharTalk|Junna|You don't need to thank us.}}
+{{CharTalk|Junna|We did it for ourselves... We showed brilliance for the team.}}
+{{CharTalk|Hikari|...I'll accept the result of today's match, but I have no intention of losing.}}
+{{CharTalk|Hikari|I haven't given up on being the catcher... being Karen's catcher.}}
+{{CharTalk|Mahiru|Heh heh, bring it on!}}
+{{CharTalk|Claudine|Then are we good?}}
+{{CharTalk|Claudine|I want to start practice already. Look out on the field... The first years are waiting.}}
+{{CharTalk|Karen|Oh...!!}}
+{{CharTalk|Junna|She's right... Captain?}}
+{{CharTalk|Mahiru|Okay! Gather 'round...!!}}
+<hr>
+{{CharTalk|Junna|(The hot, melting sun beams down.)}}
+{{CharTalk|Hikari|(Burning heat that makes it difficult to breathe.)}}
+{{CharTalk|Mahiru|(Our overflowing feelings are all sucked up by the field, becoming one...)}}
+{{CharTalk|Mahiru & Hikari & https://karth.top/costume/101008?type=dlc |(That's right. The field "you" stand on is where I belong...)}}
+<hr>
+{{CharTalk|Andrew|...Hm. This is such a hot and sweaty script!}}
+{{CharTalk|Elle|Andrew, here's a handkerchief for your tears.}}
+{{CharTalk|Andrew|*sniff* Ahem... I could be the baseball mascot at the very least for the next professional baseball piece!}}
+{{CharTalk|Elle|Heh heh, a new story like that might exist somewhere.}}
+{{CharTalk|Elle|Stage girls who compete for one thing have become baseball girls who fight to become one...}}
+{{CharTalk|Elle|With everything combined, this signals the end of this play.}}
+{{CharTalk|Elle|Everyone, please be careful on your way back...}}

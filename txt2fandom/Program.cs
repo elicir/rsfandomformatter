@@ -19,6 +19,7 @@ namespace t2f
         static string title2 = "=\n<span style=\"font-weight: bold; font-size: 20px;\" >";
         static string titleEnd = "</span>";
         static string subtitle1 = "<br><span style=\"font-weight: bold; font-size: 16px;\" >";
+        static string divider = "<hr>";
         static string quoteHead = "{{Quote|";
         static string category = "[[Category:";
         static string endSquareBraces = "]]";
@@ -76,7 +77,7 @@ namespace t2f
             return Console.ReadLine();
         }
 
-        private static async void ProcessScript(dynamic story, dynamic charaNames)
+        private static async Task<bool> ProcessScript(dynamic story, dynamic charaNames)
         {
             string outputLine = "";
             using var outfile = System.IO.File.AppendText("transcript.txt");
@@ -108,9 +109,30 @@ namespace t2f
                                 name.Replace("Mei Fan", "Meifan");
                             outputLine = chartalk1 + name + "|" + speech + endCurlyBraces;
                         }
-                        else if (characterId.Type == JTokenType.Integer && (int)characterId == 0)
+                        else if (characterId.Type == JTokenType.Integer)
                         {
-                            outputLine = chartalk1 + "|" + (string)args["body"]["en"] + endCurlyBraces;
+                            if ((int)characterId == 0)
+                            {
+                                outputLine = chartalk1 + "|" + (string)args["body"]["en"] + endCurlyBraces;
+                            }
+                            else
+                            {
+                                string name = await GetNameFromCharacterId((int)characterId, charaNames, story.setting);
+                                if (name.Contains("Mei Fan"))
+                                    name.Replace("Mei Fan", "Meifan");
+                                outputLine = chartalk1 + name + "|" + (string)args["body"]["en"] + endCurlyBraces;
+                            }
+                        }
+                        else if (characterId.Type == JTokenType.Array)
+                        {
+                            string name = "";
+                            foreach (var chara in characterId)
+                            {
+                                string charaName = await GetNameFromCharacterId((int)chara, charaNames, story.setting);
+                                name += charaName + " & ";
+
+                            }
+                            outputLine = chartalk1 + name[..^3] + "|" + (string)args["body"]["en"] + endCurlyBraces;
                         }
                     } 
                     else if (type == "showTitle")
@@ -121,9 +143,28 @@ namespace t2f
                         outputLine = tempTitle + (string)args["body"]["en"] + titleEnd;
                         
                     }
+                    else if (type == "fadeOut")
+                    {
+                        outputLine = divider;
+                    }
                     if (outputLine != "")
                         outfile.WriteLine(outputLine);
                 }
+            }
+            return true;
+        }
+
+        private static async Task<string> GetNameFromCharacterId(int characterId, dynamic charaNames, JObject setting)
+        {
+            string dressCode = (string)setting["character"][characterId];
+            if (dressCode.Length > 6)
+            {
+                var dress = await GetDress((string)dressCode);
+                return (string)charaNames[(string)dress["basicInfo"]["character"]]["en"];
+            }
+            else
+            {
+                return "https://karth.top/costume/" + dressCode + "?type=dlc ";
             }
         }
 
@@ -134,7 +175,7 @@ namespace t2f
             var story = await GetStory(code);
             var charaNames = await GetCharaNames();
             System.IO.File.Create("transcript.txt").Close();
-            ProcessScript(story, charaNames);
+            await ProcessScript(story, charaNames);
         }
 
 
