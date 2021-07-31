@@ -9,6 +9,7 @@ namespace t2f
 {
     class Program
     {
+        #region Constants
         // init constants
         static string chartalk1 = "{{CharTalk|";
         static string endCurlyBraces = "}}";
@@ -32,6 +33,39 @@ namespace t2f
         static string transcripts = "Transcripts";
         static string arcana = "''(Part 1 and Part 2 of [[Shōjo☆Kageki Revue Starlight: Re LIVE/Story#Third Part: Arcana Arcadia|Arcana Arcadia]] Stage Girl bond stories are viewable in the Gallery under [[Shōjo☆Kageki Revue Starlight: Re LIVE/Story#Intermission|Arcana Arcadia - Intermission]].)''";
 
+        static Dictionary<int, string> charaCodes = new Dictionary<int, string> { 
+            { 101, "Karen" },
+            { 102, "Hikari" },
+            { 103, "Mahiru" },
+            { 104, "Claudine" },
+            { 105, "Maya" },
+            { 106, "Junna" },
+            { 107, "Nana" },
+            { 108, "Futaba" },
+            { 109, "Kaoruko" },
+            { 201, "Tamao" },
+            { 202, "Ichie" },
+            { 203, "Fumi" },
+            { 204, "Rui" },
+            { 205, "Yuyuko" },
+            { 301, "Aruru" },
+            { 302, "Misora" },
+            { 303, "Lalafin" },
+            { 304, "Tsukasa" },
+            { 305, "Shizuha" },
+            { 401, "Akira" },
+            { 402, "Michiru" },
+            { 403, "Meifan" },
+            { 404, "Shiori" },
+            { 405, "Yachiyo" },
+            { 501, "Koharu" },
+            { 502, "Suzu" },
+            { 503, "Hisame" },
+            { 802, "Elle" },
+            { 803, "Andrew" }
+        };
+
+        #endregion
 
         #region Private Properties
         private static readonly HttpClient client = new HttpClient();
@@ -77,8 +111,10 @@ namespace t2f
             return Console.ReadLine();
         }
 
-        private static async Task<bool> ProcessScript(dynamic story, dynamic charaNames)
+        private static async Task<bool> ProcessScript(string code)
         {
+            var story = await GetStory(code);
+            var charaNames = await GetCharaNames();
             string outputLine = "";
             using var outfile = System.IO.File.AppendText("transcript.txt");
             foreach (var item in story.script)
@@ -156,7 +192,7 @@ namespace t2f
 
         private static async Task<string> GetNameFromCharacterId(int characterId, dynamic charaNames, JObject setting)
         {
-            string dressCode = (string)setting["character"][characterId];
+            string dressCode = (string)setting["character"][characterId-1];
             if (dressCode.Length > 6)
             {
                 var dress = await GetDress((string)dressCode);
@@ -172,10 +208,74 @@ namespace t2f
         static async Task Main(string[] args)
         {
             string code = args[0];
-            var story = await GetStory(code);
-            var charaNames = await GetCharaNames();
+
             System.IO.File.Create("transcript.txt").Close();
-            await ProcessScript(story, charaNames);
+            
+            bool noMeta = false;
+            if (args[^1] == "--nometa")
+            {
+                noMeta = true;
+            }
+
+            if (code[0] == '1')
+            {
+                // Main Story: name of story and number of chapters to process should be provided after argument "-m"
+                int numChapters = 0;
+                string storyTitle = "";
+                for (var i=0; i < args.Length; i++)
+                {
+                    if (args[i] == "-m")
+                    {
+                        storyTitle = args[i + 1];
+                        numChapters = Int32.Parse(args[i + 2]);
+                    }
+                }
+                if (!noMeta)
+                {
+                    string header = "";
+                    header += "==Transcript==\n" + tabber1;
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                        outfile.WriteLine(header);
+                }
+
+                int newCode = Int32.Parse(code);
+                for (var i=0; i < numChapters; i++)
+                {
+                    string num = (newCode % 100).ToString();
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                    {
+                        outfile.WriteLine(new_part + title1e + num + title2 + storyTitle + titleEnd);
+                        outfile.WriteLine(subtitle1[4..] + title1e + num + titleEnd);
+                    }
+                        
+                    await ProcessScript(newCode.ToString());
+                    newCode++;
+                }
+                if (!noMeta)
+                {
+                    string footer = "";
+                    footer += tabber2 + "\n" + category + mainStories + endSquareBraces;
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                        outfile.WriteLine(footer);
+                }
+            }
+            else if (code[1] == '5')
+            {
+                // Event Story: 6 chapters
+            }
+            else if (code[1] == '3')
+            {
+                // Bond Story: 301,302 are Chapter 1,2 ; 311,312 are Bond Level 15 Talk, Bond Level 30 Talk
+            }
+            else
+            {
+                Console.WriteLine("Code is incorrect (not beginning with 1, 3, or 5)");
+                Environment.Exit(1);
+            }
+            //var story = await GetStory(code);
+            //var charaNames = await GetCharaNames();
+            
+            //await ProcessScript(story, charaNames);
         }
 
 
