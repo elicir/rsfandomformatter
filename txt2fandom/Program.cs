@@ -112,12 +112,12 @@ namespace t2f
             return Console.ReadLine();
         }
 
-        private static async Task<bool> ProcessScript(string code)
+        private static async Task<bool> ProcessScript(string code, string filename)
         {
             var story = await GetStory(code);
             var charaNames = await GetCharaNames();
             string outputLine = "";
-            using var outfile = System.IO.File.AppendText("transcript.txt");
+            using var outfile = System.IO.File.AppendText(filename);
             foreach (var item in story.script)
             {
                 outputLine = "";
@@ -207,7 +207,15 @@ namespace t2f
         {
             string code = args[0];
 
-            System.IO.File.Create("transcript.txt").Close();
+            string filename = "transcript.txt";
+
+            for (var i = 0; i < args.Length; i++)
+            {
+                if (args[i] == "-o")
+                    filename = args[i + 1];
+            }
+
+            System.IO.File.Create(filename).Close();
             
             bool noMeta = false;
             if (args[^1] == "--nometa")
@@ -232,7 +240,7 @@ namespace t2f
                 {
                     string header = "";
                     header += "==Transcript==\n" + tabber1;
-                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                         outfile.WriteLine(header);
                 }
 
@@ -240,20 +248,20 @@ namespace t2f
                 for (var i=0; i < numChapters; i++)
                 {
                     string num = (newCode % 100).ToString();
-                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                     {
                         outfile.WriteLine(newPart + title1e + num + "=" + title2 + storyTitle + titleEnd);
                         outfile.WriteLine(subtitle1[4..] + title1e + num + titleEnd);
                     }
                         
-                    await ProcessScript(newCode.ToString());
+                    await ProcessScript(newCode.ToString(), filename);
                     newCode++;
                 }
                 if (!noMeta)
                 {
                     string footer = "";
                     footer += tabber2 + "\n" + category + mainStories + endSquareBraces;
-                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                         outfile.WriteLine(footer);
                 }
             }
@@ -264,14 +272,14 @@ namespace t2f
                 {
                     string header = "";
                     header += tabber1;
-                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                         outfile.WriteLine(header);
                 }
                 long newCode = (long)Convert.ToDouble(code);
                 for (var i = 0; i < 6; i++)
                 {
                     string num = (newCode % 100).ToString();
-                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                     {
                         if (i == 5)
                         {
@@ -282,7 +290,7 @@ namespace t2f
                             outfile.WriteLine(newPart + title1e + num + "=");
                         }
                     }
-                    await ProcessScript(newCode.ToString());
+                    await ProcessScript(newCode.ToString(), filename);
                     newCode++;
                 }
                 if (!noMeta)
@@ -308,7 +316,7 @@ namespace t2f
                     if (schools.Contains("5"))
                         footer += "\n" + category + "Seiran General Art Institute " + stories + endSquareBraces;
                     footer += "\n" + category + transcripts + endSquareBraces;
-                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                         outfile.WriteLine(footer);
                 }
             }
@@ -322,8 +330,10 @@ namespace t2f
                     string header = "";
                     string profile = (string)dress["basicInfo"]["profile"]["en"];
                     header += quoteHead + profile + endCurlyBraces;
+                    if (args.Contains("-a"))
+                        header += "\n" + arcana;
                     header += "\n" + tabber1;
-                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                         outfile.WriteLine(header);
                 }
                 for (var i = 1; i < 5; i++)
@@ -333,24 +343,24 @@ namespace t2f
                     {
                         if (args.Contains("-a"))
                             title1 = "Part ";
-                        using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                        using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                             outfile.WriteLine(newPart + title1 + i + "=");
                         newCode = "30" + code + i;
                     }
                     else if (i == 3)
                     {
-                        using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                        using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                             outfile.WriteLine(newPart + "Bond Level 15 Talk=");
                         newCode = "31" + code + 1;
                     }
                     else if (i == 4)
                     {
-                        using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                        using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                             outfile.WriteLine(newPart + "Bond Level 30 Talk=");
                         newCode = "31" + code + 2;
                     }
 
-                    await ProcessScript(newCode.ToString());
+                    await ProcessScript(newCode.ToString(), filename);
                 }
                 if (!noMeta)
                 {
@@ -358,7 +368,7 @@ namespace t2f
                     footer += tabber2 + "\n" + category + bondStories + endSquareBraces;
                     footer += "\n" + category + charaCodes[Int32.Parse(code[..3])] + " " + bondStories + endSquareBraces;
                     footer += "\n" + category + transcripts + endSquareBraces;
-                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                         outfile.WriteLine(footer);
                 }
             }
@@ -368,7 +378,7 @@ namespace t2f
                 Environment.Exit(1);
             }
 
-            System.Diagnostics.Process.Start(@"C:\Program Files (x86)\Notepad++\notepad++.exe", "transcript.txt");
+            System.Diagnostics.Process.Start(@"C:\Program Files (x86)\Notepad++\notepad++.exe", filename);
         }
     }
 }
