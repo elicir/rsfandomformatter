@@ -33,38 +33,6 @@ namespace t2f
         static string transcripts = "Transcripts";
         static string arcana = "''(Part 1 and Part 2 of [[Shōjo☆Kageki Revue Starlight: Re LIVE/Story#Third Part: Arcana Arcadia|Arcana Arcadia]] Stage Girl bond stories are viewable in the Gallery under [[Shōjo☆Kageki Revue Starlight: Re LIVE/Story#Intermission|Arcana Arcadia - Intermission]].)''";
 
-        static Dictionary<int, string> charaCodes = new Dictionary<int, string> { 
-            { 101, "Karen" },
-            { 102, "Hikari" },
-            { 103, "Mahiru" },
-            { 104, "Claudine" },
-            { 105, "Maya" },
-            { 106, "Junna" },
-            { 107, "Nana" },
-            { 108, "Futaba" },
-            { 109, "Kaoruko" },
-            { 201, "Tamao" },
-            { 202, "Ichie" },
-            { 203, "Fumi" },
-            { 204, "Rui" },
-            { 205, "Yuyuko" },
-            { 301, "Aruru" },
-            { 302, "Misora" },
-            { 303, "Lalafin" },
-            { 304, "Tsukasa" },
-            { 305, "Shizuha" },
-            { 401, "Akira" },
-            { 402, "Michiru" },
-            { 403, "Meifan" },
-            { 404, "Shiori" },
-            { 405, "Yachiyo" },
-            { 501, "Koharu" },
-            { 502, "Suzu" },
-            { 503, "Hisame" },
-            { 802, "Elle" },
-            { 803, "Andrew" }
-        };
-
         #endregion
 
         #region Private Properties
@@ -153,9 +121,7 @@ namespace t2f
                             }
                             else
                             {
-                                string name = await GetNameFromCharacterId((int)characterId, charaNames, story.setting);
-                                if (name.Contains("Mei Fan"))
-                                    name.Replace("Mei Fan", "Meifan");
+                                string name = GetNameFromCharacterId((int)characterId, charaNames, story.setting);
                                 outputLine = chartalk1 + name + "|" + (string)args["body"]["en"] + endCurlyBraces;
                             }
                         }
@@ -164,7 +130,7 @@ namespace t2f
                             string name = "";
                             foreach (var chara in characterId)
                             {
-                                string charaName = await GetNameFromCharacterId((int)chara, charaNames, story.setting);
+                                string charaName = GetNameFromCharacterId((int)chara, charaNames, story.setting);
                                 name += charaName + " & ";
 
                             }
@@ -190,18 +156,13 @@ namespace t2f
             return true;
         }
 
-        private static async Task<string> GetNameFromCharacterId(int characterId, dynamic charaNames, JObject setting)
+        private static string GetNameFromCharacterId(int characterId, dynamic charaNames, JObject setting)
         {
             string dressCode = (string)setting["character"][characterId-1];
-            if (dressCode.Length > 6)
-            {
-                var dress = await GetDress((string)dressCode);
-                return (string)charaNames[(string)dress["basicInfo"]["character"]]["en"];
-            }
-            else
-            {
-                return "https://karth.top/costume/" + dressCode + "?type=dlc ";
-            }
+            string name = (string)charaNames[dressCode[..3]]["en"];
+            if (name.Contains("Mei Fan"))
+                name.Replace("Mei Fan", "Meifan");
+            return name;
         }
 
         #endregion

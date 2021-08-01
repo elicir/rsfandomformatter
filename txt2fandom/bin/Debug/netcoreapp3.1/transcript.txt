@@ -2,7 +2,8 @@
 <tabber>
 |-|
 Part 1=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 1</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 1</span>
 {{CharTalk|Maya|"Is that...the so-called 'Paradise' you are trying to create...?"}}
 {{CharTalk|Maya|"Clever... And you intend on taking all of that — 'Emperor'!"}}
 {{CharTalk|Akira|"Of course! Everything in this 'World' belongs to me – it's the core of the truth, the laws of nature!"}}
@@ -58,7 +59,8 @@ Part 1=
 {{CharTalk|All|Good work!}}
 |-|
 Part 2=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 2</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 2</span>
 {{CharTalk|Karen|Wow, that was so great!}}
 {{CharTalk|Aruru|Yeah! It was!}}
 {{CharTalk|Karen|Tendo-san's lightning collided with Yukishiro-san's thunder...}}
@@ -78,9 +80,9 @@ Part 2=
 {{CharTalk|Karen|Huh!?}}
 {{CharTalk|Mahiru|I understand feeling excited after the first script reading...}}
 {{CharTalk|Mahiru|But don't shout so loudly in the middle of the street!}}
-{{CharTalk|https://karth.top/costume/101001?type=dlc  & https://karth.top/costume/301001?type=dlc |...!!}}
+{{CharTalk|Karen & Aruru|...!!}}
 {{CharTalk|Mahiru|Both of you already have loud voices to begin with. Look, the people walking around us are staring.}}
-{{CharTalk|https://karth.top/costume/101001?type=dlc  & https://karth.top/costume/301001?type=dlc |We're sorry.}}
+{{CharTalk|Karen & Aruru|We're sorry.}}
 {{CharTalk|Hikari|...Mahiru's voice just now was loud too.}}
 {{CharTalk|Misora|It was loud... wasn't it.}}
 {{CharTalk|Mahiru|What?! Oh... I-I'm sorry!}}
@@ -88,7 +90,7 @@ Part 2=
 {{CharTalk|Mahiru|N-no...}}
 {{CharTalk|Mahiru|Well... I guess you're not wrong.}}
 {{CharTalk|Mahiru|...Today's script reading was really stimulating.}}
-{{CharTalk|https://karth.top/costume/101001?type=dlc  & https://karth.top/costume/301001?type=dlc |Right? Right!?}}
+{{CharTalk|Karen & Aruru|Right? Right!?}}
 {{CharTalk|Hikari|Yes. I got goosebumps too.}}
 {{CharTalk|Hikari|All the talented performers gathered together on one stage.}}
 {{CharTalk|Hikari|Colliding to complete an unfinished story...}}
@@ -97,12 +99,12 @@ Part 2=
 {{CharTalk|Hikari|It feels like something new... A stage is being created.}}
 {{CharTalk|Hikari|Nervousness and anticipation... I can see the shimmering within the tingling...}}
 {{CharTalk|Hikari|It's...nice.}}
-{{CharTalk|https://karth.top/costume/101001?type=dlc  & https://karth.top/costume/301001?type=dlc |Yes, nice!}}
+{{CharTalk|Karen & Aruru|Yes, nice!}}
 {{CharTalk|Misora|Wow... Kagura-san. You could understand Aruru's "Aruru lingo" completely...}}
 {{CharTalk|Mahiru|Probably because she's used to Karen-chan.}}
 {{CharTalk|Mahiru|Oh... Everyone, be quiet!}}
 {{CharTalk|Mahiru|We're speaking loudly and getting looks again...}}
-{{CharTalk|https://karth.top/costume/101001?type=dlc  & https://karth.top/costume/301001?type=dlc  & https://karth.top/costume/102001?type=dlc |Oh...}}
+{{CharTalk|Karen & Aruru & Hikari|Oh...}}
 {{CharTalk|Mahiru|At this rate, we're all stage-crazies.}}
 {{CharTalk|Shizuha|"That's preposterous! We do not fear being crazies!"}}
 {{CharTalk|Mahiru|Huh... Oh, Kocho-san!}}
@@ -123,7 +125,8 @@ Part 2=
 {{CharTalk|Aruru|See ya!}}
 |-|
 Part 3=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 3</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 3</span>
 {{CharTalk|Aruru|Ah, that was fun. I can't wait for the next practice!}}
 {{CharTalk|Misora|Aruru, you kept stumbling over your lines today.}}
 {{CharTalk|Aruru|Ngh... We were surrounded by all these amazing people, so I only got a little nervous!}}
@@ -160,7 +163,7 @@ Part 3=
 {{CharTalk|Junna|Then here's to finishing the first "Performance Festival" script reading.}}
 {{CharTalk|Nana|With "Banana Milk" and "Strawberry Milk".}}
 {{CharTalk|Junna|Heh heh.}}
-{{CharTalk|https://karth.top/costume/107001?type=dlc  & https://karth.top/costume/106001?type=dlc |Good work.}}
+{{CharTalk|Nana & Junna|Good work.}}
 {{CharTalk|Nana|Mmm... Delicious.}}
 {{CharTalk|Junna|I can finally relax.}}
 {{CharTalk|Nana|Yeah. The "Performance Festival" rehearsal room had such a tense atmosphere.}}
@@ -192,7 +195,8 @@ Part 3=
 {{CharTalk|Nana|...Yes.}}
 |-|
 Part 4=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 4</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 4</span>
 {{CharTalk|Futaba|Kaoruko! Ka-o-ru-ko!}}
 {{CharTalk|Futaba|What are you mad about?}}
 {{CharTalk|Kaoruko|I'm not mad or anything.}}
@@ -226,7 +230,7 @@ Part 4=
 {{CharTalk|Tamao|And this "Performance Festival" that we've been given...is the best stage to light our flame of life with.}}
 {{CharTalk|Futaba|Light your...flame of life?}}
 {{CharTalk|Tamao|—The revival of the Rinmeikan Girls School Performance Department.}}
-{{CharTalk|https://karth.top/costume/108001?type=dlc  & https://karth.top/costume/109001?type=dlc |...!}}
+{{CharTalk|Futaba & Kaoruko|...!}}
 {{CharTalk|Tamao|Seisho Music Academy, Siegfeld Institute of Music, Frontier School of Arts...}}
 {{CharTalk|Tamao|Take down all the powerful schools present and then our Rinmeikan Performance Association will release the best brilliance—}}
 {{CharTalk|Tamao|And beyond that light, the Rinmeikan Girls School Performance Department will rise. I'm sure of it.}}
@@ -251,13 +255,14 @@ Part 4=
 {{CharTalk|Kaoruko|I'll show her...just who the lead of this stage is... Right?}}
 |-|
 Part 5=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 5</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 5</span>
 {{CharTalk|Elle|Revue...}}
 {{CharTalk|Elle|A spellbinding performance conjured out of song and dance...}}
 <hr>
 {{CharTalk|Andrew|The one who shows the most brilliant Revue and lights the fire in the young girl's heart...}}
 {{CharTalk|Elle|—Will be on the path to become the "Unknown Lead".}}
-{{CharTalk|https://karth.top/costume/802001?type=dlc  & https://karth.top/costume/803001?type=dlc |Revue has begun.}}
+{{CharTalk|Elle & Andrew|Revue has begun.}}
 <hr>
 {{CharTalk|Junna|People have stars they're destined for.}}
 {{CharTalk|Junna|Glittering stars, morning stars, shooting stars.}}
@@ -274,9 +279,9 @@ Part 5=
 {{CharTalk|Andrew|Struggling for the "Unknown Lead"—}}
 {{CharTalk|Elle|Sing.}}
 {{CharTalk|Andrew|And dance.}}
-{{CharTalk|https://karth.top/costume/802001?type=dlc  & https://karth.top/costume/803001?type=dlc |Battle for brilliance.}}
+{{CharTalk|Elle & Andrew|Battle for brilliance.}}
 <hr>
-{{CharTalk|https://karth.top/costume/106010?type=dlc  & https://karth.top/costume/109010?type=dlc |Haaaah!}}
+{{CharTalk|Junna & Kaoruko|Haaaah!}}
 {{CharTalk|Junna|"Timeless Play"... "Unknown Lead"...}}
 {{CharTalk|Kaoruko|What's with all the vague words and stuff?}}
 {{CharTalk|Junna|True. But...those were some exciting words!}}
@@ -350,7 +355,8 @@ Part 5=
 {{CharTalk|Elle|Shapeless Play... The creation of "Play A".}}
 |-|
 Part 6=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 6</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 6</span>
 {{CharTalk|Rui|Ms. Ukaji, this is...!}}
 {{CharTalk|Ukaji|Exactly – it's the costume for the "Performance Festival".}}
 {{CharTalk|Ukaji|That said, it's just the one I made for rehearsals...}}
@@ -419,7 +425,8 @@ Part 6=
 {{CharTalk|Yuyuko|Rui... Did something happen?}}
 |-|
 Part 7=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 7</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 7</span>
 {{CharTalk|Yuyuko|Woah, Ms. Ukaji made it?}}
 {{CharTalk|Rui|Yeah. She got the paper pattern from the organizers of the "Performance Festival"...}}
 {{CharTalk|Rui|Her eyes were red, so I'm sure she stayed up all night making our costumes...}}
@@ -493,13 +500,14 @@ Part 7=
 {{CharTalk|Rui|Yukko...!}}
 |-|
 Part 8=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 8</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 8</span>
 {{CharTalk|Elle|Revue...}}
 {{CharTalk|Elle|A spellbinding performance conjured out of song and dance...}}
 <hr>
 {{CharTalk|Andrew|The one who shows the most brilliant Revue and lights the fire in the young girl's heart...}}
 {{CharTalk|Elle|—Will be on the path to become the "Unknown Lead".}}
-{{CharTalk|https://karth.top/costume/802001?type=dlc  & https://karth.top/costume/803001?type=dlc |Revue has begun.}}
+{{CharTalk|Elle & Andrew|Revue has begun.}}
 <hr>
 {{CharTalk|Yuyuko|One — Feelings hidden within ourselves. Two — The stage brought them together.}}
 {{CharTalk|Yuyuko|Three — For our future play. Four — I will show you the strength of traditional theater!}}
@@ -515,7 +523,7 @@ Part 8=
 {{CharTalk|Andrew|Struggling for the "Unknown Lead"—}}
 {{CharTalk|Elle|Sing.}}
 {{CharTalk|Andrew|And dance.}}
-{{CharTalk|https://karth.top/costume/802001?type=dlc  & https://karth.top/costume/803001?type=dlc |Battle for brilliance.}}
+{{CharTalk|Elle & Andrew|Battle for brilliance.}}
 <hr>
 {{CharTalk|Yuyuko|Hah!}}
 {{CharTalk|Rui|Ngh!}}
@@ -566,7 +574,8 @@ Part 8=
 {{CharTalk|Rui|So... this is...Yukko's determination...}}
 |-|
 Part 9=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 9</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 9</span>
 {{CharTalk|Yuyuko|Let's end this. Those who don't belong here should get off the stage.}}
 {{CharTalk|Rui|N-No... Don't make me go...}}
 {{CharTalk|Rui|Don't leave me behind...Tamao-senpai!}}
@@ -656,7 +665,8 @@ Part 9=
 {{CharTalk|Rui|I'll give it a shot. I'll put in all my feelings towards Tamao-senpai!}}
 |-|
 Part 10=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 10</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 10</span>
 <hr>
 <br><span style="font-weight: bold; font-size: 16px;" >Arcana Arcadia Act 1</span>
 {{CharTalk|Girl|This— Might have once been a dream, or perhaps a memory from here on.}}
@@ -729,7 +739,8 @@ Part 10=
 {{CharTalk|Girl|Unable to leave the bed, I was left behind... And the doctor was taken away by the High Priestess.}}
 |-|
 Part 11=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 11</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 11</span>
 {{CharTalk||*knock knock*}}
 {{CharTalk|High Priestess|"Who is it?"}}
 {{CharTalk|Magician|"It's me, Your Eminence."}}
@@ -812,7 +823,8 @@ Part 11=
 {{CharTalk|Girl|I try to stand my ground, but I am pushed away by the crowd and a fire is lit by his feet.}}
 |-|
 Part 12=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 12</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 12</span>
 {{CharTalk|High Priestess|"Now, repent in the flames."}}
 {{CharTalk|High Priestess|"Only the miracle of God can save man. Those who deny that are nothing but a criminal."}}
 {{CharTalk|High Priestess|"If you aren't a criminal, then God would save you."}}
@@ -895,7 +907,8 @@ And then—}}
 {{CharTalk|Doctor|I...am not going to stop walking.}}
 |-|
 Part 13=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 13</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 13</span>
 {{CharTalk|Lalafin|Let's see, my role is... Um...}}
 {{CharTalk|Lalafin|Not at this moment, but something that is in— Belongs in? Seen in...? The future...}}
 {{CharTalk|Lalafin|Feels like something that'd be nice to have...}}
@@ -942,7 +955,7 @@ Part 13=
 {{CharTalk|Aruru|We'll captivate the whole theater with a performance no one has ever seen before!}}
 {{CharTalk|Aruru|The happiest stage we'll all create together! The lead roles in the "Performance Festival" will be us!}}
 {{CharTalk|Misora|Aruru...}}
-{{CharTalk|https://karth.top/costume/303002?type=dlc  & https://karth.top/costume/304002?type=dlc  & https://karth.top/costume/305002?type=dlc |......}}
+{{CharTalk|Lalafin & Tsukasa & Shizuha|......}}
 {{CharTalk|Aruru|Let's do our best at rehearsals from tomorrow!}}
 <hr>
 {{CharTalk|Aruru|"Let's do our best at rehearsals from tomorrow!"}}
@@ -958,7 +971,8 @@ Part 13=
 {{CharTalk|Aruru|Now's not the time to be practicing by myself... I have to go find them!}}
 |-|
 Part 14=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 14</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 14</span>
 {{CharTalk|Shizuha|"My... How arrogant..."}}
 {{CharTalk|Shizuha|"One day, 'Judgement' will fall upon this foolish decision...!"}}
 {{CharTalk|Shizuha|......}}
@@ -1019,7 +1033,7 @@ Part 14=
 <hr>
 {{CharTalk|Andrew|The one who shows the most brilliant Revue and lights the fire in the young girl's heart...}}
 {{CharTalk|Elle|—Will be on the path to become the "Unknown Lead".}}
-{{CharTalk|https://karth.top/costume/802001?type=dlc  & https://karth.top/costume/803001?type=dlc |Revue has begun.}}
+{{CharTalk|Elle & Andrew|Revue has begun.}}
 <hr>
 {{CharTalk|Shizuha|Heartbroken loneliness as I fall with broken feathers. The neon lights invite the stage of bonds.}}
 {{CharTalk|Shizuha|If "now" and "reality" are but a night's dream, I'll carve my flight onto the stage.}}
@@ -1033,9 +1047,9 @@ Part 14=
 {{CharTalk|Andrew|Struggling for the "Unknown Lead"—}}
 {{CharTalk|Elle|Sing.}}
 {{CharTalk|Andrew|Dance.}}
-{{CharTalk|https://karth.top/costume/802001?type=dlc  & https://karth.top/costume/803001?type=dlc |And compe—}}
+{{CharTalk|Elle & Andrew|And compe—}}
 {{CharTalk|Aruru|No competing!}}
-{{CharTalk|https://karth.top/costume/802001?type=dlc  & https://karth.top/costume/803001?type=dlc |Wha—?!}}
+{{CharTalk|Elle & Andrew|Wha—?!}}
 {{CharTalk|Aruru|I... No, we won't fight.}}
 {{CharTalk|Aruru|Elle, Andrew. I...will change the rules!}}
 {{CharTalk|Aruru|We're a family! Five in one! We're a family creating the same stage!}}
@@ -1050,7 +1064,8 @@ Part 14=
 {{CharTalk|Andrew|W-Why are you guys here?!}}
 |-|
 Part 15=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span> <span style="font-weight: bold; font-size: 16px;" >Part 15</span>
+<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
+<span style="font-weight: bold; font-size: 16px;" >Part 15</span>
 {{CharTalk|Elle|Huh...?!}}
 {{CharTalk|Andrew|W-Why are you guys here?!}}
 {{CharTalk|Lalafin|Audio, backdrop, and stage equipment help carry out Stage Girls' dreams... That's what a stage is, right?}}
