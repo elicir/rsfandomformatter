@@ -1,0 +1,32 @@
+1c1
+< {{Quote|16th Head of the Uesugi clan. One of the best warriors in the Sengoku period, his strength led others to call him "God of War" after his death. He lived honorably, and never fought for his own desire. From "Sengoku Legend."}}
+---
+> {{Quote|16th Head of the Uesugi clan. One of the best warriors in the Sengoku period, his strength led others to call him "God of War" after his death. He lived honorably, and never fought for his own desire. From "Sengoku Legend."}}
+3c3
+< |-|
+---
+> |-|
+45c45
+< {{CharTalk|Maya & Claudine|...!}}
+---
+> {{CharTalk|Claudine & Maya|...!}}
+53c53
+< |-|
+---
+> |-|
+126c126
+< |-|
+---
+> |-|
+129c129
+< |-|
+---
+> |-|
+134,136c134,136
+< </tabber>
+< [[Category:Bond Stories]]
+< [[Category:Claudine Saijo Bond Stories]]
+---
+> </tabber>
+> [[Category:Bond Stories]]
+> [[Category:Claudine Saijo Bond Stories]]
