@@ -7,10 +7,19 @@
 * ***--nometa*** flag does not append header/footer wiki metadata (useful for main story updates)
 * ***-a*** flag changes "Chapter" to "Part" for Arcana Arcadia Bond Stories
 
+sample:
+```
+t2f.exe -1070004 -a
+t2f.exe 5000460001 -e 1
+t2f.exe 1000120001 -m "Curtain Rises - The Journey Begins" 15
+t2f.exe 1000120006 -m "Curtain Rises - The Journey Begins" 5
+```
+
 ***TODO: make a batch file template to use for things like events***
 
 
 vvv Now mostly defunct vvv
+
 **txt2fandom.py usage:**
 
 * python3 caps2transcript.py input.txt -e/-b (-e for event story, -b for bond story)
