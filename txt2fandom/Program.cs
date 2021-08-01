@@ -4,6 +4,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
+using System.Linq;
 
 namespace t2f
 {
@@ -13,11 +14,11 @@ namespace t2f
         // init constants
         static string chartalk1 = "{{CharTalk|";
         static string endCurlyBraces = "}}";
-        static string new_part = "|-|\n";
+        static string newPart = "|-|\n";
         static string title1 = "Chapter ";
         static string title1e = "Part ";
         static string title1final = "Final Part";
-        static string title2 = "=\n<span style=\"font-weight: bold; font-size: 20px;\" >";
+        static string title2 = "<span style=\"font-weight: bold; font-size: 20px;\" >";
         static string titleEnd = "</span>";
         static string subtitle1 = "<br><span style=\"font-weight: bold; font-size: 16px;\" >";
         static string divider = "<hr>";
@@ -32,6 +33,38 @@ namespace t2f
         static string stories = "Stories";
         static string transcripts = "Transcripts";
         static string arcana = "''(Part 1 and Part 2 of [[Shōjo☆Kageki Revue Starlight: Re LIVE/Story#Third Part: Arcana Arcadia|Arcana Arcadia]] Stage Girl bond stories are viewable in the Gallery under [[Shōjo☆Kageki Revue Starlight: Re LIVE/Story#Intermission|Arcana Arcadia - Intermission]].)''";
+
+        static Dictionary<int, string> charaCodes = new Dictionary<int, string> {
+            { 101, "Karen Aijo" },
+            { 102, "Hikari Kagura" },
+            { 103, "Mahiru Tsuyuzaki" },
+            { 104, "Claudine Saijo" },
+            { 105, "Maya Tendo" },
+            { 106, "Junna Hoshimi" },
+            { 107, "Nana Daiba" },
+            { 108, "Futaba Isurugi" },
+            { 109, "Kaoruko Hanayagi" },
+            { 201, "Tamao Tomoe" },
+            { 202, "Ichie Otonashi" },
+            { 203, "Fumi Yumeoji" },
+            { 204, "Rui Akikaze" },
+            { 205, "Yuyuko Tanaka" },
+            { 301, "Aruru Otsuki" },
+            { 302, "Misora Kano" },
+            { 303, "Lalafin Nonomiya" },
+            { 304, "Tsukasa Ebisu" },
+            { 305, "Shizuha Kocho" },
+            { 401, "Akira Yukishiro" },
+            { 402, "Michiru Otori" },
+            { 403, "Liu Mei Fan" },
+            { 404, "Shiori Yumeoji" },
+            { 405, "Yachiyo Tsuruhime" },
+            { 501, "Koharu Yanagi" },
+            { 502, "Suzu Minase" },
+            { 503, "Hisame Honami" },
+            { 802, "Elle Nishino" },
+            { 803, "Andrew" }
+        };
 
         #endregion
 
@@ -203,13 +236,13 @@ namespace t2f
                         outfile.WriteLine(header);
                 }
 
-                int newCode = Int32.Parse(code);
+                long newCode = (long)Convert.ToDouble(code);
                 for (var i=0; i < numChapters; i++)
                 {
                     string num = (newCode % 100).ToString();
                     using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
                     {
-                        outfile.WriteLine(new_part + title1e + num + title2 + storyTitle + titleEnd);
+                        outfile.WriteLine(newPart + title1e + num + "=" + title2 + storyTitle + titleEnd);
                         outfile.WriteLine(subtitle1[4..] + title1e + num + titleEnd);
                     }
                         
@@ -240,7 +273,14 @@ namespace t2f
                     string num = (newCode % 100).ToString();
                     using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
                     {
-                        outfile.WriteLine(new_part + title1e + num);
+                        if (i == 5)
+                        {
+                            outfile.WriteLine(newPart + title1final + "=");
+                        }
+                        else
+                        {
+                            outfile.WriteLine(newPart + title1e + num + "=");
+                        }
                     }
                     await ProcessScript(newCode.ToString());
                     newCode++;
@@ -272,197 +312,63 @@ namespace t2f
                         outfile.WriteLine(footer);
                 }
             }
-            else if (code[0] == '3')
+            else if (code[0] == '-')
             {
-                // Bond Story: 301,302 are Chapter 1,2 ; 311,312 are Bond Level 15 Talk, Bond Level 30 Talk
+                // Bond Story: 30[code]1,30[code]2 are Chapter 1,2 ; 31[code]1,31[code]2 are Bond Level 15 Talk, Bond Level 30 Talk
+                code = code[1..];
+                if (!noMeta)
+                {
+                    JObject dress = await GetDress(code);
+                    string header = "";
+                    string profile = (string)dress["basicInfo"]["profile"]["en"];
+                    header += quoteHead + profile + endCurlyBraces;
+                    header += "\n" + tabber1;
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                        outfile.WriteLine(header);
+                }
+                for (var i = 1; i < 5; i++)
+                {
+                    string newCode = "";
+                    if (i < 3)
+                    {
+                        if (args.Contains("-a"))
+                            title1 = "Part ";
+                        using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                            outfile.WriteLine(newPart + title1 + i + "=");
+                        newCode = "30" + code + i;
+                    }
+                    else if (i == 3)
+                    {
+                        using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                            outfile.WriteLine(newPart + "Bond Level 15 Talk=");
+                        newCode = "31" + code + 1;
+                    }
+                    else if (i == 4)
+                    {
+                        using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                            outfile.WriteLine(newPart + "Bond Level 30 Talk=");
+                        newCode = "31" + code + 2;
+                    }
+
+                    await ProcessScript(newCode.ToString());
+                }
+                if (!noMeta)
+                {
+                    string footer = "";
+                    footer += tabber2 + "\n" + category + bondStories + endSquareBraces;
+                    footer += "\n" + category + charaCodes[Int32.Parse(code[..3])] + " " + bondStories + endSquareBraces;
+                    footer += "\n" + category + transcripts + endSquareBraces;
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                        outfile.WriteLine(footer);
+                }
             }
             else
             {
-                Console.WriteLine("Code is incorrect (not beginning with 1, 3, or 5)");
+                Console.WriteLine("Code is incorrect (not beginning with -, 3, or 5)");
                 Environment.Exit(1);
             }
 
             System.Diagnostics.Process.Start(@"C:\Program Files (x86)\Notepad++\notepad++.exe", "transcript.txt");
-        }
-
-
-
-
-        static async Task Mai3n(string[] args)
-        {
-            string code = null;
-            string fn;
-            string mode;
-            string quote = null;
-            string character = null;
-            bool isArcanaB = false;
-            bool isTranscriptOnly = false;
-            string[] schools = null;
-
-            if (args.Length == 0)
-            {
-                // if no args provided, get them from input
-                code = Prompt("Enter adventure code: ");
-                fn = Prompt("Enter txt file name: ");
-                mode = Prompt("Enter story mode (b for bond story: Chapter, e for events: Part, m for main story: Part) ");
-                isTranscriptOnly = Prompt("Transcript only? (y/n) ") == "y";
-                if (!isTranscriptOnly)
-                {
-                    isArcanaB = Prompt("Is Arcana bond story? (y/n) ") == "y";
-                    if (mode == "b" || isArcanaB)
-                    {
-                        quote = Prompt("Enter quote (press enter to skip): ");
-                        if (quote != "")
-                        {
-                            character = Prompt("Enter character: ");
-                        }
-                    }
-                    if (mode == "e")
-                    {
-                        string schoolStr = Prompt("Enter schools for event, separated by comma: ");
-                        schools = schoolStr.Split(",");
-                    }
-                }
-            } //TODO: account for quote, character, arcana bond story (default false), transcriptonly (default false), school for event story in one line command line usage
-            else if (args.Length == 1)
-            {
-                fn = "temp.txt";
-                if (args[0].Length < 2)
-                {
-                    Console.WriteLine("You messed something up. Entering prompt mode");
-                    fn = Prompt("Enter txt file name: ");
-                    mode = Prompt("Enter story mode (b for bond story: Chapter, e for events: Part)");
-                }
-                else
-                {
-                    mode = "" + args[0][1];
-                }
-            }
-            else if (args.Length == 2)
-            {
-                fn = args[0];
-                if (args[1].Length < 2) 
-                {
-                    Console.WriteLine("You messed something up. Entering prompt mode");
-                    fn = Prompt("Enter txt file name: ");
-                    mode = Prompt("Enter story mode (b for bond story: Chapter, e for events: Part)");
-                }
-                else
-                {
-                    mode = "" + args[1][1];
-                }
-            }
-            else
-            {
-                Console.WriteLine("You messed something up. Entering prompt mode");
-                fn = Prompt("Enter txt file name: ");
-                mode = Prompt("Enter story mode (b for bond story: Chapter, e for events: Part)");
-            }
-            
-
-            
-            // create/overwrite transcript.txt to empty
-            System.IO.File.Create("transcript.txt").Close();
-
-            using var outfile = System.IO.File.AppendText("transcript.txt");
-
-            if (quote != null)
-            {
-                outfile.WriteLine(quoteHead + quote + endCurlyBraces);
-                if (isArcanaB) outfile.WriteLine(arcana);
-            }
-            if (!isTranscriptOnly) outfile.WriteLine(tabber1);
-            string line = null;
-            string newstr;
-            // Read the file line by line
-            var story = await GetStory(code);
-            var charaNames = await GetCharaNames();
-            while (line != null)
-            {
-                if (line[0] == '|')
-                {
-                    char num = line[1];
-                    if (num == 'F' && line[2] == ' ')
-                    {
-                        newstr = new_part + title1final + title2 + line[3..] + titleEnd;
-                    }
-                    else if (int.TryParse(num.ToString(), out _))
-                    {
-                        newstr = new_part + title1 + num + title2 + line[3..] + titleEnd;
-                    }
-                    else 
-                    {
-                        newstr = new_part + line[1..] + "=";
-                    }
-                }
-                else if (line[0] == '>')
-                {
-                    if (line[1] == '|')
-                    {
-                        newstr = subtitle1[4..] + line[2..] + titleEnd;
-                    }
-                    else if (line[1] == '.')
-                    {
-                        newstr = "<hr>";
-                    }
-                    else
-                    {
-                        newstr = subtitle1 + line[1..] + titleEnd;
-                    }
-                }
-                else if (line[0] == '<')
-                {
-                    newstr = chartalk1 + "|" + line[1..] + endCurlyBraces;
-                }
-                else
-                {
-                    int i = line.IndexOf('\\');
-                    if (i == -1)
-                    {
-                        Console.WriteLine("Line missing speaker: " + line);
-                        Environment.Exit(1);
-                    }
-                    string name = line[..i];
-                    string speech = line[(i + 1)..];
-                    int b = name.IndexOf('(');
-                    if (b != -1) 
-                    {
-                        speech = "'''(" + name[(b + 1)..] + "'''<br>" + speech;
-                        name = name[..(b - 1)];
-                    }
-                    if (name == "Mei Fan")
-                    {
-                        name = "Meifan";
-                    }
-                    newstr = chartalk1 + name + "|" + speech + endCurlyBraces;
-                }
-                outfile.WriteLine(newstr);
-            }
-
-            if (!isTranscriptOnly)
-            {
-                outfile.WriteLine(tabber2);
-                if (character != null)
-                {
-                    outfile.WriteLine(category + bondStories + endSquareBraces);
-                    outfile.WriteLine(category + character + " " + bondStories + endSquareBraces);
-                }
-                else if (mode == "m")
-                {
-                    outfile.WriteLine(category + mainStories + endSquareBraces);
-                }
-                else if (mode == "e")
-                {
-                    outfile.WriteLine(category + eventStories + endSquareBraces);
-                    for (int i=0; i < schools.Length; i++)
-                    {
-                        outfile.WriteLine(category + schools[i] + " " + stories + endSquareBraces);
-                    }
-                }
-                outfile.WriteLine(category + transcripts + endSquareBraces);
-            }
-
-            System.Diagnostics.Process.Start(@"C:\Windows\system32\notepad.exe", "transcript.txt");
         }
     }
 }

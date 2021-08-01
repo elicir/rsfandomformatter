@@ -1,5 +1,16 @@
 # fandomstoryformatter
 
+**t2f.exe console app usage:**
+* t2f.exe dresscode [-a] ***bond story***
+* t2f.exe storycode -e 12345 ***event story***
+* t2f.exe storycode -m storyTitle numChapters ***main story***
+* ***--nometa*** flag does not append header/footer wiki metadata (useful for main story updates)
+* ***-a*** flag changes "Chapter" to "Part" for Arcana Arcadia Bond Stories
+
+***TODO: make a batch file template to use for things like events***
+
+
+vvv Now mostly defunct vvv
 **txt2fandom.py usage:**
 
 * python3 caps2transcript.py input.txt -e/-b (-e for event story, -b for bond story)

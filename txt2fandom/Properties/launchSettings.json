@@ -2,7 +2,7 @@
   "profiles": {
     "t2f": {
       "commandName": "Project",
-      "commandLineArgs": "5000460001 -e 1"
+      "commandLineArgs": "-1040016 -a"
     }
   }
 }

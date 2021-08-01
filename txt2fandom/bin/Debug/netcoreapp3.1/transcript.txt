@@ -1,506 +1,137 @@
+{{Quote|16th Head of the Uesugi clan. One of the best warriors in the Sengoku period, his strength led others to call him "God of War" after his death. He lived honorably, and never fought for his own desire. From "Sengoku Legend."}}
 <tabber>
 |-|
-Part 1
-=
-<span style="font-weight: bold; font-size: 20px;" >Play Ball!</span>
-{{CharTalk|Girl|Pssh, clink!}}
-{{CharTalk|Girl|I saw this during my walk today. It looked so fun...}}
-{{CharTalk|Girl|It's called "base ball"!}}
-{{CharTalk|Girl|But when I said to everyone we should try, they said it's more fun to play at home...}}
-{{CharTalk|Girl|But that's not true! It's not true... right?}}
-{{CharTalk|Girl|"Base ball" is really fun, right!?}}
-{{CharTalk|Girl|That's right, I'm sure the older girls would...}}
-<hr>
-<hr>
-{{CharTalk|Mahiru|(The hot, melting sun beams down. Burning heat that makes it difficult to breathe.)}}
-{{CharTalk|Mahiru|(Sweat drips down and gets sucked up by the field immediately...)}}
-{{CharTalk|Karen|Nice to meet you, I'm Karen Aijo! I've been the relief pitcher all through junior high!}}
-{{CharTalk|Senpai|Then why don't you show us what you've got?}}
-{{CharTalk|Karen|I can throw the ball!? Yay! All right, I'm ready...!}}
-{{CharTalk||*swoosh*}}
-{{CharTalk||*THWAP*}}
-{{CharTalk|Mahiru|(I still remember that moment. The day I set my goal in baseball.)}}
-{{CharTalk|Mahiru|("I want to stand on the same field as you"...)}}
-<hr>
-{{CharTalk||*flip*}}
-{{CharTalk|Junna|(I ended up buying it anyways... The high school baseball magazine.)}}
-{{CharTalk|Junna|(And of course my name isn't in it.)}}
-{{CharTalk|Nana|Junna-chan, found you♪}}
-{{CharTalk|Junna|Morning, Nana. And Hanayagi-san and Isurugi-san too.}}
-{{CharTalk|Kaoruko|*yawn* Good morning...}}
-{{CharTalk|Futaba|Hey, you're heading to practice, right? Let's go—... Ah!}}
-{{CharTalk|Futaba|That's this month's baseball magazine!}}
-{{CharTalk|Kaoruko|Oh, there's an article on Seisho Sports Academy...}}
-{{CharTalk|Kaoruko|Following the trend? You don't have to complain so–}}
-{{CharTalk|Maya|Hanayagi-san. You have 5 copies of the same magazine sticking out of your sports bag.}}
-{{CharTalk|Kaoruko|Huh!? T-That's not it! I was just going to hand this out to everyone...!}}
-{{CharTalk|Kaoruko|Ahem! Tendo-han, Clau-han, you should be saying good morning first. Where are your manners?}}
-{{CharTalk|Claudine|Yes, ma'am. Bonjour.}}
-{{CharTalk|Claudine|...So what's written in it? Can I see?}}
-{{CharTalk||*flip*}}
-{{CharTalk|Junna|"The new Seisho Sports Academy!! After Seisho regrettably missed their Koshien victory, how have they changed after the third years retired?"}}
-{{CharTalk|Junna|"First, you have Maya Tendo and Claudine Saijo who garnered attention in the Junior League."}}
-{{CharTalk|Junna|"Strong players who can hit and play defense. After these two who can be called the leaders of the new generation is..."}}
-{{CharTalk|Futaba|"The amazing fast runner Futaba Isurugi who wows everyone with her base-stealing skills. Kaoruko Hanayagi with her ironclad guard that doesn't allow the opponent to take the lead."}}
-{{CharTalk|Futaba|"And then Nana Daiba, the hard hitter with an unparalleled batting average."}}
-{{CharTalk|Claudine|"At a glance, it doesn't look like they have any glaring problems..."}}
-{{CharTalk|Claudine|"Their biggest hurdle may be whether or not they'll be able to unify their group of star players with strong, individual personalities."}}
-{{CharTalk|Claudine|"It puts the skills of the new captain Mahiru Tsuyuzaki to the test..."
-Huh, the article is shorter than I thought.}}
-{{CharTalk|Kaoruko|Tell me about it. It doesn't even mention Hoshimi-han.}}
-{{CharTalk|Junna|...It's expected. I was a substitute last year.}}
-{{CharTalk|Junna|There's also one more person who wasn't written about–}}
-<hr>
-{{CharTalk||*THWAP*}}
-{{CharTalk|Mahiru|Nice throw, Karen-chan!! That was a good curve!}}
-{{CharTalk|Karen|Really?!}}
-{{CharTalk|Mahiru|Yeah, a sharp throw... I don't think there are any other high schoolers who can throw a curveball like that.}}
-{{CharTalk|Karen|Heh heh, it's all thanks to you practicing with me all the time!}}
-{{CharTalk|Mahiru|Not at all...}}
-{{CharTalk|Mahiru|All I did was receive your pitches...}}
-{{CharTalk|Nana|As expected of our secret weapon, Karen-chan♪}}
-{{CharTalk|Kaoruko|Phew... What a monster pitch.}}
-{{CharTalk|Claudine|Yes. When she first joined, they were all crazy wild pitches...}}
-{{CharTalk|Maya|Ever since she learned to control them, they've transformed into powerful pitches.}}
-{{CharTalk|Maya|After honing the strength, you can definitely call her our unshakable ace now.}}
-{{CharTalk|Futaba|Oh! Our teamwork has also improved a lot too... The problem the article mentioned is no biggie!!}}
-{{CharTalk|Junna|That's true, but...}}
-{{CharTalk|Nana|Junna-chan?}}
-{{CharTalk|Junna|Tsuyuzaki-san has been doing nothing but helping Karen and everyone else with their practices.}}
-{{CharTalk|Junna|Will the captain... be able to play the way she would like to?}}
-{{CharTalk|Mahiru|Oh, everyone's here... Gather around!}}
-{{CharTalk|All|Yes!!}}
-{{CharTalk|Mahiru|I've mentioned it before, but the first years are having their training camp now... So from today, practice will only be us second years.}}
-{{CharTalk|Mahiru|Our goal is to get our hands on a ticket to Koshien.}}
-{{CharTalk|Mahiru|For that to happen, we need to be strong enough to win the spring tournament. So today, we'll be drilling the basics.}}
-{{CharTalk|Futaba|Heh heh, guess we can't lose to the first years... If we're too careless, we might end up getting dropped as regulars!}}
-{{CharTalk|Mahiru|About that... I have one more piece of news to share...}}
-{{CharTalk|Karen|What is it, Captain?!}}
-{{CharTalk|Mahiru|...The coach told me a new girl will be transferring into our team.}}
-{{CharTalk|Mahiru|And she wants her to be a regular...}}
-{{CharTalk|Futaba|What...!}}
-{{CharTalk|Kaoruko|That's ridiculous!!}}
-{{CharTalk|Futaba|We worked our butts off to become regulars! Karen and Junna have also been working like mad...!}}
-{{CharTalk|Mahiru|E-Everyone, calm down! It hasn't been decided yet–}}
-{{CharTalk|Nana|...There's also a transfer rule when it comes to high school baseball.}}
-{{CharTalk|Karen|Transfer rule?}}
-{{CharTalk|Nana|When someone is transferred from a different school, they can't participate in official matches for one year.}}
-{{CharTalk|Kaoruko|Oh, what? The coach doesn't even know about that...?}}
-{{CharTalk|Maya|I don't think she would've said that without thinking things through...}}
-{{CharTalk|Junna|You're right... But what I want to know is...}}
-{{CharTalk|Junna|Are you fine with that, Captain?}}
-{{CharTalk|Mahiru|Huh?!}}
-{{CharTalk|Junna|I'm asking if you're fine with just giving a position to some transfer student.}}
-{{CharTalk|Junna|Or are you trying to be okay with it... because you're the captain?}}
-{{CharTalk|Mahiru|That's... well...}}
-{{CharTalk|Junna|...If you can't give me an answer, then fine. Let's start practice.}}
-{{CharTalk|Junna|I have no intention to just give up a regular position. I'm sure even the first years who aren't here...}}
-{{CharTalk|Junna|I just want to practice right now.}}
-{{CharTalk|Mahiru|......}}
-<hr>
-{{CharTalk||*CLINK*}}
-{{CharTalk|Nana|Nice one, Junna-chan!}}
-{{CharTalk|Junna|Yes!!}}
-{{CharTalk||*slide*}}
-{{CharTalk|Futaba|Whoa...!}}
-{{CharTalk|Futaba|Hoshimi hitting such a low ball, it's as intense as a real match.}}
-{{CharTalk|Maya|That's probably how much the conversation from earlier provoked them.}}
-{{CharTalk|Maya|But everybody is heated up. And the next batter is...}}
-{{CharTalk|Claudine|Vas-y! I'm up!!}}
-{{CharTalk|Futaba|It's Clau-ko. How far is she going to send the ball flying— ... Huh?}}
-{{CharTalk|Futaba|Who's that?}}
-{{CharTalk|Maya|Never seen her before... Why are they inside the fence?}}
-{{CharTalk|Maya|Captain, are you going to talk to them?}}
-{{CharTalk|Mahiru|......}}
-{{CharTalk|Maya|Tsuyuzaki-san?}}
-{{CharTalk|Mahiru|Ah! Oh, I'm sorry... What is it?}}
-{{CharTalk|Maya|There's someone not in the team over there—}}
-{{CharTalk||*THWACK*}}
-{{CharTalk|Maya|Watch out! The ball—!!}}
-{{CharTalk|Junna|What is she doing?! Move out of the way!!}}
-{{CharTalk||*thwop*}}
-{{CharTalk|Mahiru|You're kidding...}}
-{{CharTalk|Futaba|She caught Clau-ko's ball with her bare hands...?!}}
-{{CharTalk|Mahiru|Um, are you okay?! Are you hurt...?}}
-{{CharTalk|????|......}}
-{{CharTalk|Karen|H-Hikari-chan...?}}
-{{CharTalk|Mahiru|Huh... Karen-chan, is this your friend?}}
-{{CharTalk|Hikari|...I finally found you.}}
-{{CharTalk|Karen|Hikari-chan... You're really Hikari-chan!!}}
-{{CharTalk|Hikari|Heh heh... I'm back, Karen.}}
+Part 1=
+<span style="font-weight: bold; font-size: 20px;" >Kenshin and Shingen</span>
+{{CharTalk|Maya|Phew... I think that's about it.}}
+{{CharTalk|Claudine|That was pretty good.}}
+{{CharTalk|Maya|Yes. After multiple read throughs, the scene from the battles of Kawanakajima is finally coming to life.}}
+{{CharTalk|Claudine|Going to the actual location was a big help.}}
+{{CharTalk|Maya|Ideally, it'd be nice if we could make the combat scene even more heated...}}
+{{CharTalk|Claudine|But we can't change the lines, so we can only delve deeper into the character's feelings.}}
+{{CharTalk|Maya|You're right...}}
+{{CharTalk|Claudine|If only we could find something in the relationship between Kenshin and Shingen that livens up the roles...}}
+{{CharTalk|Maya|Relationship... Huh.}}
+{{CharTalk|Claudine|Do you have an idea?}}
+{{CharTalk|Maya|Saijo-san. How would you describe Shingen and Kenshin's relationship in one word?}}
+{{CharTalk|Claudine|Rivals?}}
+{{CharTalk|Maya|Right. The two are often depicted as lifelong rivals, but do you know about the few encounters they've had where they weren't fighting?}}
+{{CharTalk|Claudine|Bien sur. Of course I do. You're talking about Kenshin sending Shingen salt, right?}}
+{{CharTalk|Maya|Yes. That famous anecdote is the origin of the proverb, "show humanity even to one's enemy".}}
+{{CharTalk|Maya|It's also said that during Shingen's last moments, he told his sons to rely on Kenshin should the Takeda clan fall into a predicament.}}
+{{CharTalk|Maya|He said that even though Kenshin is the enemy, he is a reliable man.}}
+{{CharTalk|Claudine|It's said when Shingen died, Kenshin shed tears of sadness in front of his vassals.}}
+{{CharTalk|Maya|It's hard to believe when they've fought for twelve years.}}
+{{CharTalk|Claudine|Their relationship can't be summed up as simple rivals.}}
+{{CharTalk|Maya|It could be because Kenshin and Shingen acknowledged each other as worthy rivals that they carved their names in history.}}
+{{CharTalk|Claudine|I agree. They only shone because they fought. If Kenshin didn't have Shingen, he might have just ended as an ordinary warlord.}}
+{{CharTalk|Claudine|Kenshin in my mind is one who shines on the battlefield.}}
+{{CharTalk|Maya|There's also the belief that if the battles of Kawanakajima didn't happen, Shingen would have conquered the nation.}}
+{{CharTalk|Claudine|You could say the same for Kenshin. At the battle of Tedorigawa, he was able to take down Oda's army in an instant.}}
+{{CharTalk|Maya|In the battle of Mikatagahara, Shingen wiped out the Oda and Tokugawa allied forces.}}
+{{CharTalk|Maya|I'm sure Shingen being the one to aim for the capital first would've been the one to conquer the nation.}}
+{{CharTalk|Claudine|Non! It would've been Kenshin.}}
+{{CharTalk|Maya|On what grounds?}}
+{{CharTalk|Claudine|Grounds? Well, that's...}}
+{{CharTalk|Maya|Kenshin went to the capital to restore the Ashikaga shogunate. It's hard to believe that the honorable Shingen would be aiming to conquer the nation.}}
+{{CharTalk|Claudine|Ngh... Okay, for argument's sake we'll say Shingen would be the one to conquer the nation. BUT! Kenshin is the one who won the battles of Kawanakajima!}}
+{{CharTalk|Maya|You're mistaken. The Takeda army were the last ones remaining on the battlefield, hence the victors.}}
+{{CharTalk|Claudine|Kenshin outwitted Shingen and defeated the Takeda army!}}
+{{CharTalk|Maya|The Uesugi army was winning in the first half, but the Takeda army won the second half.}}
+{{CharTalk|Claudine|Takeda army had more casualties!}}
+{{CharTalk|Maya|The number of casualties don't matter. The one who remains on the battlefield is the victor.}}
+{{CharTalk|Claudine|Kenshin won!}}
+{{CharTalk|Maya|No. It was Shingen's victory.}}
+{{CharTalk|Maya & Claudine|...!}}
+{{CharTalk|Maya|...Saijo-san, let's calm down.}}
+{{CharTalk|Claudine|...Right. Our feelings right now...}}
+{{CharTalk|Maya|Yes, let's continue with the read through like this.}}
+{{CharTalk|Claudine|I'll take these emotions out on you, Maya Tendo.}}
+{{CharTalk|Maya|Bring it on, Claudine Saijo.}}
+{{CharTalk|Claudine|Ready? Let's begin.}}
+{{CharTalk|Maya|Heh heh, this is going to be good.}}
 |-|
-Part 2
-=
-<span style="font-weight: bold; font-size: 20px;" >Unyielding Position</span>
-{{CharTalk|Hikari|(The hot, melting sun beams down. Burning heat that makes it difficult to breathe.)}}
-{{CharTalk|Hikari|(Tears drip down and get sucked up by the field immediately...)}}
-{{CharTalk|Karen|*sniffle*... *sobs*}}
-{{CharTalk|Hikari|You're crying more than when you lose a match...}}
-{{CharTalk|Karen|It's because... we might never meet again...}}
-{{CharTalk|Hikari|...Don't worry. I'll definitely come back.}}
-{{CharTalk|Hikari|The field you stand on is my home to return to...}}
-<hr>
-{{CharTalk|Karen|Hikari-chan! You're really Hikari-chan?!}}
-{{CharTalk|Hikari|Yes, it's really me.}}
-{{CharTalk|Karen|Oh my god!!}}
-{{CharTalk|Junna|Sorry to interrupt you, but...}}
-{{CharTalk|Nana|Yes, can you please explain? You two are friends?}}
-{{CharTalk|Hikari|Yes.}}
-{{CharTalk|Claudine|What does that...}}
-{{CharTalk|Karen|Haha! Hikari-chan, you're so cheer and contrite!}}
-{{CharTalk|Hikari & Mahiru|You mean, clear and concise... Oh.}}
-{{CharTalk|Hikari & Mahiru|......}}
-{{CharTalk|Hikari|...I'm Hikari Kagura. I recently transferred to this school from England.}}
-{{CharTalk|Futaba|You must be...}}
-{{CharTalk|Kaoruko|The rumored transfer student!!}}
-{{CharTalk|Hikari|Rumored...?}}
-{{CharTalk|Kaoruko|You must be the transfer student joining as a regular player the coach was talking about.}}
-{{CharTalk|Hikari|I don't know. I only told the coach I wanted to join the baseball team.}}
-{{CharTalk|Maya|...How much experience have you had with baseball?}}
-{{CharTalk|Hikari|British national team – uniform number 2. I was the catcher.}}
-{{CharTalk|Claudine|British national...?!}}
-{{CharTalk|Futaba|Number 2—? That means you're a regular!!}}
-{{CharTalk|Mahiru|C-Catcher...?}}
-{{CharTalk|Karen|Yeah! Hikari-chan is amazing!}}
-{{CharTalk|Karen|No matter what ball gets thrown her way, she will catch it and send it right back!!}}
-{{CharTalk|Karen|In Little League, we used to always be paired together as pitcher and catcher!}}
-{{CharTalk|Mahiru|B-But Karen-chan's catcher right now is me...}}
-{{CharTalk|Claudine|Hm. If you know all of Karen's quirks, then you'd definitely be a great asset to have.}}
-{{CharTalk|Futaba|Wait a minute. What about that thing about the transfer rules for high school baseball?}}
-{{CharTalk|Junna|...It's fine.}}
-{{CharTalk|Junna|Exchange students from abroad don't count. She can participate in matches.}}
-{{CharTalk|Futaba|...A loophole, huh.}}
-{{CharTalk|Kaoruko|*sigh* It's so obvious the school is willing to do whatever it takes to win...}}
-{{CharTalk|Futaba|Well, I'm sure all of us would like to win...!}}
-{{CharTalk|Claudine|While I do have mixed feelings about all of this, first I'd like to see what her skills are.}}
-{{CharTalk|Maya|I agree. Then let's swap Kagura-san in for the practice—}}
-{{CharTalk|Mahiru|Wait!!}}
-{{CharTalk|Karen|Huh...?!}}
-{{CharTalk|Mahiru|T-The catcher... That's the one position I'm not giving up!}}
-{{CharTalk|Mahiru|I'm the one who will receive Karen-chan's pitches!!}}
-{{CharTalk|Karen|M-Mahiru-chan...!?}}
-{{CharTalk|Junna|Tsuyuzaki-san...}}
-{{CharTalk|Hikari|...I also have no intention of giving it up. I'm the one who is suitable to receive Karen's pitches.}}
-{{CharTalk|Kaoruko|That's some confidence right there...}}
-{{CharTalk|Futaba|You've got guts, I'll give you that... But to be honest, I don't approve.}}
-{{CharTalk|Futaba|I don't like the idea of giving away a regular position to someone who just appears out of nowhere!!}}
-{{CharTalk|Karen|W-Wait, wait! Why is it turning out like this?!}}
-{{CharTalk|Karen|Arguing and talking about approval... This isn't baseball!!}}
-{{CharTalk|Junna|But positions are things you have to fight for.}}
-{{CharTalk|Karen|That's true, but...!}}
-{{CharTalk|Junna|Hey, I have an idea...}}
-{{CharTalk|Junna|How about a baseball match with everyone here?}}
-{{CharTalk|Hikari|Baseball match...?}}
+Part 2=
+<span style="font-weight: bold; font-size: 20px;" >Sengoku Simulation Game</span>
+{{CharTalk|Futaba|I've got double the military strength and my skill and morale are at the highest level... All right, let's attack.}}
+{{CharTalk|Futaba|To war!}}
+{{CharTalk|Futaba|Come on, go! Onward!}}
+{{CharTalk|Claudine|What are you doing, Futaba?}}
+{{CharTalk|Futaba|Oh, sorry. Was I too noisy? I got too into my game.}}
+{{CharTalk|Claudine|Game?}}
+{{CharTalk|Futaba|Yeah, I'm trying out this history simulation game. I thought it might be useful for "Sengoku Legend".}}
+{{CharTalk|Claudine|What kind of game is it?}}
+{{CharTalk|Futaba|You choose a force from the Sengoku daimyos and unify Japan by taking down all the castles across the nation...}}
+{{CharTalk|Futaba|It helps you remember the names of the shoguns and what actually happened in history appear as events in the games, so you can learn a lot.}}
+{{CharTalk|Claudine|That sounds fun! Can you unify Japan with any daimyo?}}
+{{CharTalk|Futaba|Yeah, that's what's interesting about this game. Depending on how the game plays out, you can even see Nobunaga unify Japan without dying at Honnoji.}}
+{{CharTalk|Claudine|So it's like what if scenarios. Which daimyo family are you using?}}
+{{CharTalk|Futaba|Of course the Tokugawa family.}}
+{{CharTalk|Claudine|Oh? There's a battle scene on the screen. Are you the one that's attacking?}}
+{{CharTalk|Futaba|Yeah. The opponent is quite a handful... Oh.}}
+{{CharTalk|Claudine|This castle... Is this Kasugayama Castle? Hey! That's the Uesugi family's castle!}}
+{{CharTalk|Futaba|Sorry. I'm in the middle of fighting Uesugi Kenshin.}}
+{{CharTalk|Claudine|Arrete! Don't fight him! The Uesugi family will go down!}}
+{{CharTalk|Futaba|Even if you say that... The point of this game is to unify the nation, so...}}
+{{CharTalk|Claudine|Oh. You're losing, though.}}
+{{CharTalk|Futaba|Huh? What?! I attacked with double the forces and still got beat up!}}
+{{CharTalk|Futaba|Aw, my Tokugawa army...}}
+{{CharTalk|Claudine|Just as you'd expect of Kenshin. He's not called the "God of War" for nothing.}}
+{{CharTalk|Futaba|Kenshin is too strong...}}
+{{CharTalk|Claudine|Heh heh. I want to play too.}}
+{{CharTalk|Futaba|It's a single player game. But if you're interested, I could teach you.}}
+{{CharTalk|Claudine|Yes, please.}}
+{{CharTalk|Futaba|If you invest and develop commerce in the castle town, you'll earn war funds. You can also increase yield by cultivating land.}}
+{{CharTalk|Claudine|I see. So you can build a town too. It's fun.}}
+{{CharTalk|Futaba|And you can't forget about public order. If you only focus on fighting and neglect the people, riots will happen.}}
+{{CharTalk|Claudine|Huh, this game is deep.}}
+{{CharTalk|Futaba|There are other things too, but you can learn them as you play.}}
+{{CharTalk|Claudine|Thanks, Futaba. I'll do my best to aim for unification of the nation with the Uesugi family.}}
+{{CharTalk|Futaba|Don't get sucked into it, otherwise you'll end up neglecting rehearsals.}}
+{{CharTalk|Claudine|Bien sur. Of course. I'm just playing it to help prepare for my role.}}
+{{CharTalk|Claudine|Yay! I did it, Futaba!}}
+{{CharTalk|Futaba|...? What is it?}}
+{{CharTalk|Claudine|Look! I finally beat the Takeda army!}}
+{{CharTalk|Futaba|Oh, you did. The Takeda territory now has the Uesugi army's flags on them.}}
+{{CharTalk|Claudine|Heh heh. All that's left is Shingen's stronghold, Kai Province.}}
+{{CharTalk|Claudine|Next I'll mobilize all troops and take down Takeda...}}
+{{CharTalk|Maya|Heh heh, I knew it.}}
+{{CharTalk|Claudine|...?!}}
+{{CharTalk|Futaba|Oh, Tendo. We're just playing a simulation game.}}
+{{CharTalk|Maya|And you are playing the Uesugi family. The Uesugi family is easy to play with Kenshin as the head and numerous strong warlords under him.}}
+{{CharTalk|Claudine|...Which means, you're playing too?}}
+{{CharTalk|Maya|Yes. I've already cleared it, though.}}
+{{CharTalk|Claudine|Wait! You cleared it? You mean you've unified Japan?!}}
+{{CharTalk|Maya|Yes.}}
+{{CharTalk|Futaba|Impressive. I only taught you the other day and you've already unified the nation?}}
+{{CharTalk|Claudine|W-Wait a minute! Show me your game data!}}
+{{CharTalk|Maya|Sure, here you go.}}
+{{CharTalk|Claudine|...!}}
+{{CharTalk|Claudine|...!!}}
+{{CharTalk|Futaba|Let's have a look. Oh! Wow! Nobunaga, Ieyasu, Kenshin, and Tadakatsu too! Everyone's getting along.}}
+{{CharTalk|Maya|Yes. I made all the shoguns who appear in "Sengoku Legend" friends.}}
+{{CharTalk|Claudine|Ngh... I... I'm also going to make Shingen my friend and unify Japan!}}
+{{CharTalk|Maya|By all means.}}
+{{CharTalk|Claudine|......}}
+{{CharTalk|Maya|I think it'll be beneficial to have Shingen as your ally.}}
+{{CharTalk|Claudine|...Games are fun, but how about we do a read through?}}
+{{CharTalk|Claudine|Playing the game has given me ideas of various types of acting I'd like to try with you.}}
+{{CharTalk|Futaba|Which means the game was useful, yeah?}}
+{{CharTalk|Maya|Yes. It's a very fun game that's historically accurate and gives you a sense of what the Sengoku period must've been like.}}
+{{CharTalk|Claudine|It's been great reference material. Thanks for telling me about it, Futaba.}}
+{{CharTalk|Claudine|Let's go to the rehearsal room.}}
+{{CharTalk|Futaba|Hey, Tendo. Do you get anything after clearing the game? Like a bonus footage or something.}}
+{{CharTalk|Maya|Yes. Once you unify Japan...}}
+{{CharTalk|Claudine|Stop! I haven't finished it yet!!}}
 |-|
-Part 3
-=
-<span style="font-weight: bold; font-size: 20px;" >Wounded Friendship</span>
-{{CharTalk|Mahiru|Junna-chan, what is this baseball match...?}}
-{{CharTalk|Junna|Baseball issues should be resolved on the field... We'll have a short match and decide on the victor.}}
-{{CharTalk|Claudine|But there's no way we'd be able to have a proper game with these numbers.}}
-{{CharTalk|Junna|Yes... So my suggestion is to split into teams of 4 and have a mini game.}}
-{{CharTalk|Junna|The catchers, Tsuyuzaki-san and Kagura-san, will be the team leaders. The remaining three will guard first, second, and third base.}}
-{{CharTalk|Kaoruko|Wait a minute... Are you saying we have to cover both infield and outfield with only three people? That's impossible...!}}
-{{CharTalk|Nana|Oh... With the bamboo bats we use for practice?}}
-{{CharTalk|Junna|That's right. The balls don't fly as far with those.}}
-{{CharTalk|Futaba|In that case, we only need to cover the infield.}}
-{{CharTalk|Kaoruko|...Hm? Wait a minute. Then the pitcher for this game...??}}
-{{CharTalk|Junna|Yes, Karen will be the only pitcher.}}
-{{CharTalk|Karen|Only me...?!}}
-{{CharTalk|Junna|In this instance, Karen has nothing to do with which team wins or loses.}}
-{{CharTalk|Junna|She only needs to follow the catcher's lead and keep pitching.}}
-{{CharTalk|Mahiru|Right, Karen-chan can throw most curve balls so...}}
-{{CharTalk|Mahiru|The game will be highly dependent on the catcher's lead!}}
-{{CharTalk|Kaoruko|That match would only work with a crazy pitcher like Karen-han who can throw any kind of ball...}}
-{{CharTalk|Claudine|Then what about the number of innings? I'm sure pitching nine innings for both teams would be too much even for Karen...}}
-{{CharTalk|Karen|I can pitch that many balls?! Yay!!}}
-{{CharTalk|Junna|What if you hurt yourself... Even if you're fine with it, we can't allow that. How about we do 4 innings?}}
-{{CharTalk|Kaoruko|I can't believe she said "yay"... She's a monster...}}
-{{CharTalk|Maya|But Hoshimi-san... Why are you suggesting this baseball match all of a sudden?}}
-{{CharTalk|Junna|Because...}}
-{{CharTalk|Junna|I thought this would be the best way to settle it... That's all.}}
-{{CharTalk|Junna|If Tsuyuzaki-san's team wins, then the catcher will remain as Tsuyuzaki-san. If Kagura-san's team wins, then...}}
-{{CharTalk|Mahiru|Karen-chan's catcher will become Kagura-san...!}}
-{{CharTalk|Hikari|...Fine with me. Let's split the teams.}}
-<hr>
-{{CharTalk||*SLIDE*}}
-{{CharTalk|Nana|Nice, Hikari-chan!}}
-{{CharTalk|Futaba|Good job, Kagura!!}}
-{{CharTalk|Hikari|......}}
-{{CharTalk|Claudine|Phew, bases are loaded again... I didn't think it'd be this tough.}}
-{{CharTalk|Junna|Huff, huff... They're in the lead by 4 points...!}}
-{{CharTalk|Maya|Hoshimi-san, stay focused! You'll get targeted again!}}
-{{CharTalk|Junna|I know...!}}
-{{CharTalk|Kaoruko|The opponent keeps hitting towards Hoshimi-han who isn't good at defense... That's a dirty move.}}
-{{CharTalk|Maya|Not at all. When you see a weakness, you strike... As long as this is a match, there's nothing we can say about it.}}
-{{CharTalk|Kaoruko|Even so, they're hitting way too many! When Kagura-han was the catcher, we barely got any hits...}}
-{{CharTalk|Maya|Without a doubt, that's...}}
-{{CharTalk||*CLINK*}}
-{{CharTalk|Kaoruko|A hit, but that's a foul... A close one...}}
-{{CharTalk|Maya|So I'm not just imagining it. Her pitching has become more flat.}}
-{{CharTalk|Kaoruko|Ugh! What are Karen-han and Mahiru-han doing?!}}
-{{CharTalk|Karen|Huff, huff...}}
-{{CharTalk|Mahiru|(Karen-chan is getting tired... It must be tough to continuously pitch like this.)}}
-{{CharTalk|Mahiru|(Okay, I'll signal her to throw an easy one...!)}}
-{{CharTalk|Karen|(......!!)}}
-{{CharTalk|Mahiru|(Huh, NO?! I-I see... I guess letting Karen-chan throw the way she wants is best.)}}
-{{CharTalk|Mahiru|(Then the curve ball that Karen-chan wants...)}}
-{{CharTalk||*CLINK*}}
-{{CharTalk|Mahiru|S-She hit it?!}}
-{{CharTalk|Kaoruko|It's going towards Hoshimi-han again!}}
-{{CharTalk|Junna|Ngh...!}}
-{{CharTalk||*slide*}}
-{{CharTalk|Junna|Ah, ugh...!!}}
-{{CharTalk|Nana|Junna-chan?!}}
-{{CharTalk|Junna|I'm fine... The ball I missed just hit my foot... Ngh!}}
-{{CharTalk|Nana|Junna-chan, we have to ice it...!}}
-{{CharTalk|Maya|She's right. You shouldn't move around. It's unfortunate, but we should end the match here.}}
-{{CharTalk|Kaoruko|Then it's Kagura-han's win for taking 4 points...?}}
-{{CharTalk|Mahiru|...!!}}
-{{CharTalk|Hikari|......}}
-{{CharTalk|Hikari|...All right, we can have a rematch on another day when her injury has healed.}}
-{{CharTalk|Mahiru|Huh...?!}}
-{{CharTalk|Hikari|Well, you're not satisfied with the result.}}
-{{CharTalk|Hikari|There's no way you... can beat me how you are now.}}
+Bond Level 15 Talk=
+{{CharTalk|Claudine|"Sengoku Legend" is a story where all the shoguns in it are leads. Every shogun gets their own spotlight. Don't miss it.}}
 |-|
-Part 4
-=
-<span style="font-weight: bold; font-size: 20px;" >The Future as a Substitute</span>
-{{CharTalk|Junna|(The hot, melting sun beams down. Burning heat that makes it difficult to breathe.)}}
-{{CharTalk|Junna|(My voice gets sucked up by the field and disappears...)}}
-{{CharTalk|Junna|Come on Seisho! Go Seisho!!}}
-{{CharTalk|Junna|(I'm always stuck cheering from the bench and never get to play.)}}
-{{CharTalk|Junna|(There's nothing I can do except clench my fists in regret and frustration. If I were standing in the batter's box right now...)}}
-{{CharTalk||*CLINK*}}
-{{CharTalk|Junna|(I'm sure my bat... wouldn't waver like that.)}}
-{{CharTalk|Karen|Yay!! We did it! We hit it, Jun-Jun!}}
-{{CharTalk|Junna|I know, I was watching... Stop pulling my arm.}}
-{{CharTalk|Karen|Haha, I got too excited...}}
-{{CharTalk|Karen|Our seniors are so amazing! I want to stand there too one day!!}}
-{{CharTalk|Junna|Yes... You're right. We have to become stronger.}}
-{{CharTalk|Junna|We have to practice even harder...}}
-{{CharTalk|Karen|Yeah, I'll say it out loud too!}}
-{{CharTalk|Junna|Say what out loud?}}
-{{CharTalk|Karen|You see, I...}}
-<hr>
-{{CharTalk|Junna|Heh heh, brings back memories...}}
-{{CharTalk|Karen|Ah, Jun-Jun! Found you!}}
-{{CharTalk|Junna|Karen!}}
-{{CharTalk|Karen|I can't believe you're polishing the balls by yourself here...}}
-{{CharTalk|Karen|Banana sure was angry! She said you refuse to stay still and rest!!}}
-{{CharTalk|Junna|Nana is making such a big fuss... It's just a bruise. I'm fine already.}}
-{{CharTalk|Karen|Is that so? Jun-Jun, you're always working too hard...}}
-{{CharTalk|Karen|Don't push yourself so much. You're an important member of the team!!}}
-{{CharTalk|Junna|Member of the team...}}
-{{CharTalk|Karen|Jun-Jun?}}
-{{CharTalk|Junna|You're right... But it hasn't been decided if I'll be a regular or not yet.}}
-{{CharTalk|Karen|Oh...}}
-{{CharTalk|Junna|I don't mean to blame you or anything.}}
-{{CharTalk|Junna|I just think... baseball is a cruel sport.}}
-{{CharTalk|Karen|Um, what do you mean?}}
-{{CharTalk|Junna|...We have grueling practices day in and day out for the sake of winning that one championship.}}
-{{CharTalk|Junna|Members who can't keep up with the rigorous training drop out one after another...}}
-{{CharTalk|Junna|Do you think we'd be able to just enjoy playing baseball with the remaining members?}}
-{{CharTalk|Junna|You and I who used to be substitutes should be fully aware of this.}}
-{{CharTalk|Karen|...Yes.}}
-{{CharTalk|Junna|If we don't take the position away from our friends, we wouldn't even be able to join the match...}}
-{{CharTalk|Karen|......}}
-{{CharTalk|Junna|Hey, Karen... You said it before the baseball match we had the other day...}}
-<hr>
-{{CharTalk|Karen|W-Wait, wait! Why is it turning out like this?!}}
-{{CharTalk|Karen|Arguing and talking about approval... This isn't baseball!!}}
-<hr>
-{{CharTalk|Junna|Then I want to ask you.}}
-{{CharTalk|Junna|What IS baseball... to you?}}
-{{CharTalk|Karen|The most difficult but extremely fun thing... where we acknowledge one another!!}}
-{{CharTalk|Junna|...!!}}
-{{CharTalk|Karen|We compete and aim for the one victory... But that's not all there is to it.}}
-{{CharTalk|Karen|We pitch, we hit, we run. We show each other our everything.}}
-{{CharTalk|Karen|And when we gather everyone's feelings of not wanting to lose together, it becomes a winning brilliance!!}}
-{{CharTalk|Karen|That's why...!!}}
-{{CharTalk|Junna|...You really don't change.}}
-{{CharTalk|Karen|Huh?}}
-{{CharTalk|Junna|What you told me on the bench at Koshien a year ago hasn't changed one bit.}}
-{{CharTalk|Karen|The bench at Koshien? What did I say...?}}
-{{CharTalk|Karen|Oh. Go Seisho!?}}
-{{CharTalk|Junna|That's the cheer.}}
-{{CharTalk|Karen|Um... it's hot?}}
-{{CharTalk|Junna|You did say that too. Didn't you drink like five bottles of water?}}
-{{CharTalk|Karen|I didn't drink THAT much! Only four!!}}
-{{CharTalk|Junna|That's not much different.}}
-{{CharTalk|Junna|You looked at the mound and said you would definitely stand there one day.}}
-{{CharTalk|Junna|You said you'll stand there with everyone one day.}}
-{{CharTalk|Karen|...My feelings haven't changed at all. Because that's my goal in baseball!}}
-{{CharTalk|Junna|Yes, I know.}}
-{{CharTalk||*CLINK*}}
-{{CharTalk|Karen|Ah!!}}
-{{CharTalk|Junna|That sound...!}}
-{{CharTalk|Junna|...She's being reckless. I'm going to go talk to her.}}
-{{CharTalk|Karen|I'm coming too!}}
-{{CharTalk|Junna|No, you stay here.}}
-{{CharTalk|Junna|Don't worry... I'm just going to show her the kind of baseball girl I am!}}
-|-|
-Part 5
-=
-<span style="font-weight: bold; font-size: 20px;" >Sweat, Tears, and Brilliance</span>
-{{CharTalk|Mahiru|Huff... Huff...!}}
-{{CharTalk|Kaoruko|Mahiru-han, you should take a break...}}
-{{CharTalk|Mahiru|No, I'm fine! Next!}}
-{{CharTalk|Kaoruko|Hitting 100 balls after running 10 rounds... You need to rest...}}
-{{CharTalk|Mahiru|I can't, I have to practice! The 10-day postponement is almost over...}}
-{{CharTalk|Mahiru|I dragged everyone into this... And even got Junna-chan injured...}}
-{{CharTalk|Mahiru|So I have to work hard for Junna-chan's share too!}}
-{{CharTalk|Maya|...I understand. Let's get back to it.}}
-{{CharTalk||*CLINK*}}
-{{CharTalk|Kaoruko|Fly ball! It's too far...?!}}
-{{CharTalk||*slide*... *thwop*}}
-{{CharTalk|Mahiru|Ah...!}}
-{{CharTalk|Kaoruko|Hoshimi-han...!!}}
-{{CharTalk|Maya|Even though it was far, you didn't hesitate to go for it... Impressive, Hoshimi-san.}}
-{{CharTalk|Kaoruko|I'm glad you seem to be have recovered.}}
-{{CharTalk|Junna|Yes, I'm all better. But there's something I heard that I can't let slide...}}
-{{CharTalk|Junna|Tsuyuzaki-san, have you been practicing for my sake?}}
-{{CharTalk|Mahiru|Huh...?}}
-{{CharTalk|Junna|Are you trying to win for my sake?}}
-{{CharTalk|Mahiru|T-That's...}}
-{{CharTalk|Junna|...You're always like this. You always prioritize everyone else, so they can enjoy playing baseball.}}
-{{CharTalk|Junna|Even at the match the other day... You signaled balls that would be easy for Karen and ended up with Karen throwing off pitches from exhaustion on the mound.}}
-{{CharTalk|Mahiru|...!!}}
-{{CharTalk|Junna|Tsuyuzaki-san, who did you come to this school from Hokkaido for?}}
-{{CharTalk|Junna|Who... are you playing baseball for?}}
-{{CharTalk|Mahiru|I- I... I just want to play baseball with everyone...}}
-{{CharTalk|Mahiru|But you're right. To think I'd even try to fight for a position.}}
-{{CharTalk|Mahiru|I know I shouldn't feel this way, but...!}}
-{{CharTalk|Junna|...Tendo-san, can you lend me your bat?}}
-{{CharTalk|Maya|Sure. The settings on the pitching machine are the same as usual.}}
-{{CharTalk||*whirrrr*}}
-{{CharTalk|Junna|I play baseball for myself. So I can stand on the field with my friends who I compete with for a position...}}
-{{CharTalk|Junna|For victory. For brilliance...!}}
-{{CharTalk||*CLINK*}}
-{{CharTalk|Kaoruko|Home run...}}
-{{CharTalk|Junna|No one can steal baseball from me... A baseball girl is more selfish and arrogant.}}
-{{CharTalk|Junna|That's why I was happy when you raised your voice that time.}}
-<hr>
-{{CharTalk|Mahiru|Wait!!}}
-{{CharTalk|Karen|Huh...?!}}
-{{CharTalk|Mahiru|T-The catcher... That's the one position I'm not giving up!}}
-{{CharTalk|Mahiru|I'm the one who will receive Karen-chan's pitches!!}}
-<hr>
-{{CharTalk|Junna|You showed me you had such feelings...}}
-{{CharTalk|Mahiru|Oh... That's...}}
-{{CharTalk|Mahiru|Wanting to play baseball with everyone and wanting a position... Is it okay for me to have both?}}
-{{CharTalk|Mahiru|Is it okay for me to say I want to win with everyone...?}}
-{{CharTalk|Junna|Yes... If that is your baseball, then there's nothing wrong with that at all.}}
-{{CharTalk|Junna|We can play baseball for ourselves. Aiming high is how we can become a team that is second to none...}}
-{{CharTalk|Junna|Because that's how we've always grown stronger—!!}}
-{{CharTalk|Hikari|......}}
-{{CharTalk|Nana|Huh... Hikari-chan?}}
-{{CharTalk|Claudine|Why are you just standing here? Spying on the enemy?}}
-{{CharTalk|Hikari|I was just passing by. I'm leaving already.}}
-{{CharTalk|Futaba|Really, now. You looked quite interested.}}
-{{CharTalk|Hikari|It's your imagination.}}
-{{CharTalk|Claudine|I see... There's something I've been wondering about.}}
-{{CharTalk|Claudine|Why did you propose a rematch? It doesn't benefit you in any way.}}
-{{CharTalk|Hikari|......}}
-{{CharTalk|Claudine|And then it hit me. Maybe you're testing us too...}}
-{{CharTalk|Claudine|Whether this is the right place for you and Karen... Whether we can continue to win and stand on the field.}}
-{{CharTalk|Hikari|...Who knows?}}
-{{CharTalk|Nana|Oh... Wait, Hikari-chan!}}
-{{CharTalk|Hikari|What is it?}}
-{{CharTalk|Nana|Do you want to practice together? We're a team, right?♪}}
-{{CharTalk|Hikari|Not right now.}}
-{{CharTalk|Nana|Heh heh... Not now, huh.}}
-|-|
-Part 6
-=
-<span style="font-weight: bold; font-size: 20px;" >Baseball Girl</span>
-{{CharTalk|Junna|...No matter how it turns out, this is it.}}
-{{CharTalk|Mahiru|Oh, sorry...! Before we start the match, can I say something first?}}
-{{CharTalk|Hikari|What is it?}}
-{{CharTalk|Mahiru|Um, thank you for today!}}
-{{CharTalk|Mahiru|And... Sorry if I sound rude, but...}}
-{{CharTalk|Mahiru|I won't give up! I'll show you the kind of baseball girl I am through this match!!}}
-{{CharTalk|Hikari|Hm... Sure. All right then...}}
-{{CharTalk|Karen|Play ball!!}}
-<hr>
-{{CharTalk|Claudine|Hi-yah!}}
-{{CharTalk||*CLINK*}}
-{{CharTalk|Maya|Over there, Hoshimi-san!}}
-{{CharTalk|Kaoruko|What a shot! ...Oh no, she's not gonna make it!}}
-{{CharTalk|Junna|Ngh!!}}
-{{CharTalk||*slide*}}
-{{CharTalk|Kaoruko|No way, she caught it...!}}
-{{CharTalk|Junna|Heh heh, it's hard to beat a person who never gives up...  A quote by Babe Ruth.}}
-{{CharTalk|Claudine|Argh... I thought it'd be a home run!}}
-{{CharTalk|Futaba|No points since it was caught. Their movements have improved from last time.}}
-{{CharTalk|Futaba|Moreover, I can't read Karen's pitches! Is this...}}
-{{CharTalk|Nana|The result of their special training?}}
-{{CharTalk|Hikari|...That's not all there is to it.}}
-{{CharTalk|Hikari|There's no holding back or hesitation in her lead. She can read what pitches everyone is bad at or excels at.}}
-{{CharTalk|Claudine|Hmm. Meaning something has changed with her?}}
-{{CharTalk|Futaba|Looks like it. So this is what she meant...}}
-{{CharTalk|Futaba|This is Mahiru Tsuyuzaki's baseball girl!!}}
-{{CharTalk|Kaoruko|All right, final inning and we're in the lead by 1 point...! Captain, Karen-han, we're counting on you. Don't let them hit it!}}
-{{CharTalk|Claudine|Non! Not so fast. The bases are loaded.}}
-{{CharTalk|Futaba|The next batter up is...}}
-{{CharTalk|Hikari|......}}
-{{CharTalk|Nana|Hikari-chan...!}}
-{{CharTalk||*swish*}}
-{{CharTalk|Hikari|...Come at me.}}
-{{CharTalk|Karen|HAAAH!}}
-{{CharTalk||*CLINK*}}
-{{CharTalk|Kaoruko|She hit it?!}}
-{{CharTalk|Junna|Wait, look at the ball!}}
-{{CharTalk|Maya|Yes, it's a foul.}}
-{{CharTalk|Maya|But look at how far it went. If she got the timing right, it might've been a long hit...!}}
-{{CharTalk|Karen|*huff* *huff*}}
-{{CharTalk|Mahiru|(Strike, strike, foul... Let's make the next pitch the last one, Karen-chan!)}}
-{{CharTalk|Karen|(Okay... But based on the current flow, a straight pitch might let Hikari-chan hit!)}}
-{{CharTalk|Karen|(So I should do a curve for the last one too...)}}
-{{CharTalk|Mahiru|(You can't, Karen-chan! Kagura-san definitely knows how Karen-chan feels.)}}
-{{CharTalk|Mahiru|(You mustn't throw a curve ball out of worry!)}}
-{{CharTalk|Karen|(But...)}}
-{{CharTalk|Mahiru|(Don't worry, I know you're an exceptional pitcher, that's why...)}}
-{{CharTalk|Mahiru|(Let's win this together!!)}}
-{{CharTalk|Karen|...!}}
-{{CharTalk||*swish*}}
-{{CharTalk|Junna|(She's winding up!!)}}
-{{CharTalk|Maya|(That form... A straight pitch?!)}}
-{{CharTalk|Kaoruko|(Right in the center? Is she for real?!)}}
-{{CharTalk||*THWAP*}}
-{{CharTalk|Nana|S-Strike...}}
-{{CharTalk|Junna|Batter out...!}}
-{{CharTalk|Karen|It's over!!}}
-{{CharTalk|All|Whoa...!!!}}
-{{CharTalk|Futaba|You did it! Congrats!!}}
-{{CharTalk|Kaoruko|Hey, we're your opponents. You shouldn't be congratulating us.}}
-{{CharTalk|Junna|Heh heh yeah, but...}}
-{{CharTalk|Karen|Yeah! That was so fun!!}}
-{{CharTalk|Mahiru|Thank you... It's all thanks to everyone...}}
-{{CharTalk|Junna|You don't need to thank us.}}
-{{CharTalk|Junna|We did it for ourselves... We showed brilliance for the team.}}
-{{CharTalk|Hikari|...I'll accept the result of today's match, but I have no intention of losing.}}
-{{CharTalk|Hikari|I haven't given up on being the catcher... being Karen's catcher.}}
-{{CharTalk|Mahiru|Heh heh, bring it on!}}
-{{CharTalk|Claudine|Then are we good?}}
-{{CharTalk|Claudine|I want to start practice already. Look out on the field... The first years are waiting.}}
-{{CharTalk|Karen|Oh...!!}}
-{{CharTalk|Junna|She's right... Captain?}}
-{{CharTalk|Mahiru|Okay! Gather 'round...!!}}
-<hr>
-{{CharTalk|Junna|(The hot, melting sun beams down.)}}
-{{CharTalk|Hikari|(Burning heat that makes it difficult to breathe.)}}
-{{CharTalk|Mahiru|(Our overflowing feelings are all sucked up by the field, becoming one...)}}
-{{CharTalk|Junna & Mahiru & Hikari|(That's right. The field "you" stand on is where I belong...)}}
-<hr>
-{{CharTalk|Andrew|...Hm. This is such a hot and sweaty script!}}
-{{CharTalk|Elle|Andrew, here's a handkerchief for your tears.}}
-{{CharTalk|Andrew|*sniff* Ahem... I could be the baseball mascot at the very least for the next professional baseball piece!}}
-{{CharTalk|Elle|Heh heh, a new story like that might exist somewhere.}}
-{{CharTalk|Elle|Stage girls who compete for one thing have become baseball girls who fight to become one...}}
-{{CharTalk|Elle|With everything combined, this signals the end of this play.}}
-{{CharTalk|Elle|Everyone, please be careful on your way back...}}
+Bond Level 30 Talk=
+{{CharTalk|Claudine|Did you know there's a theory that Kenshin was female? It came from him never having had a wife.}}
+{{CharTalk|Claudine|Kenshin's favorite book was "The Tale of Genji" that talks about Hikaru Genji's romance. He has a surprisingly feminine side to him.}}
+{{CharTalk|Claudine|I don't know what the truth is, but he might've been a Sengoku period shogun who was feminine and sensitive.}}
 </tabber>
-[[Category:Event Stories]]
-[[Category:Seisho Music Academy Stories]]
+[[Category:Bond Stories]]
+[[Category:Claudine Saijo Bond Stories]]
 [[Category:Transcripts]]
