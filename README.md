@@ -7,6 +7,12 @@
 * ***-o filename*** outputs to filename instead of transcript.txt
 * ***--nometa*** flag does not append header/footer wiki metadata (useful for main story updates)
 * ***-a*** flag changes "Chapter" to "Part" for Arcana Arcadia Bond Stories
+* ***-e*** designates which schools are involved in the story
+** 1 - Seisho
+** 2 - Rinmeikan
+** 3 - Frontier
+** 4 - Siegfeld
+** 5 - Seiran
 
 sample:
 ```
