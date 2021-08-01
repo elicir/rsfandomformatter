@@ -1,7 +1,7 @@
 # fandomstoryformatter
 
 **t2f.exe command line usage:**
-* t2f.exe dresscode [-a] ***bond story***
+* t2f.exe -dresscode [-a] ***bond story***
 * t2f.exe storycode -e 12345 ***event story***
 * t2f.exe storycode -m storyTitle numChapters ***main story***
 * ***-o filename*** outputs to filename instead of transcript.txt
