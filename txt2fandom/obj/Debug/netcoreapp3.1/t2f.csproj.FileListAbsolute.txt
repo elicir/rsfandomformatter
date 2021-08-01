@@ -31,3 +31,4 @@ C:\Users\Frog\Videos\fandom\fandomstoryformatter\txt2fandom\obj\Debug\netcoreapp
 C:\Users\Frog\Videos\fandom\fandomstoryformatter\txt2fandom\obj\Debug\netcoreapp3.1\t2f.dll
 C:\Users\Frog\Videos\fandom\fandomstoryformatter\txt2fandom\obj\Debug\netcoreapp3.1\t2f.pdb
 C:\Users\Frog\Videos\fandom\fandomstoryformatter\txt2fandom\obj\Debug\netcoreapp3.1\t2f.genruntimeconfig.cache
+C:\Users\Frog\Videos\fandom\fandomstoryformatter\txt2fandom\obj\Debug\netcoreapp3.1\t2f.csprojAssemblyReference.cache

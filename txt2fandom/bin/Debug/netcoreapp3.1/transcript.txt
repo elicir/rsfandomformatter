@@ -1,1144 +1,506 @@
-==Transcript==
 <tabber>
 |-|
-Part 1=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 1</span>
-{{CharTalk|Maya|"Is that...the so-called 'Paradise' you are trying to create...?"}}
-{{CharTalk|Maya|"Clever... And you intend on taking all of that — 'Emperor'!"}}
-{{CharTalk|Akira|"Of course! Everything in this 'World' belongs to me – it's the core of the truth, the laws of nature!"}}
-{{CharTalk|Shizuha|"My... How arrogant..."}}
-{{CharTalk|Claudine|"Power is violence... And just like this... Us powerless 'Lovers' will be torn apart."}}
-{{CharTalk|Shizuha|"One day, 'Judgement' will fall upon this foolish decision."}}
-{{CharTalk|Akira|"That's preposterous! I do not fear 'Judgement'!"}}
-{{CharTalk|Nana|"Yes, that's you. Just what is 'Justice'—"}}
-{{CharTalk|Akira|"I make the call."}}
-{{CharTalk|Akira|"I fear nothing. If I were to fear... It would be falling down halfway through my supremacy..."}}
-{{CharTalk|Akira|"I...will definitely make it. I'll take down anything and everything that stands in my way!"}}
-{{CharTalk|Tamao|"Wonderful... How wonderful! That is what makes you mortal!"}}
-{{CharTalk|Tamao|"So will the 'Emperor' change fate with that strong will...or burn out in regret..."}}
-{{CharTalk|Tamao|"I'll watch on until the very end... Without a doubt, as 'Death'."}}
-{{CharTalk|Maya|"All right... Then let us wait at the 'World's' end. That time shall come before long—"}}
-{{CharTalk|Masai|And, scene. Thank you.}}
-{{CharTalk|Akira|Huff, huff...}}
-{{CharTalk|Maya|Phew... Good work, Yukishiro-san.}}
-{{CharTalk|Akira|Huff... Standing on the same stage as everyone, I can't afford to cut corners even when it comes to practices. }}
-{{CharTalk|Claudine|Now, there's no need to be so modest.}}
-{{CharTalk|Claudine|It was just like that of an actual performance. Enough to overpower everyone else.}}
-{{CharTalk|Maya|"That's preposterous!"}}
-{{CharTalk|Maya|That adlib... I could envision the "Emperor" with that one line, it was very much in-character.}}
-{{CharTalk|Akira|It's an honor to be told that by you, Maya Tendo.}}
-{{CharTalk|Akira|But if you're talking about adlibs, Tomoe too.}}
-{{CharTalk|Tamao|...Huh?}}
-{{CharTalk|Shizuha|That line in the beginning.}}
-{{CharTalk|Akira|Kocho, you noticed?}}
-{{CharTalk|Nana|The original line was "Without a doubt, as 'Death'... I'll watch on until the very end".}}
-{{CharTalk|Nana|The order was swapped.}}
-{{CharTalk|Tamao|That's right, Daiba-san. I thought putting "Death" at the end would give it a greater impact.}}
-{{CharTalk|Maya|...So you changed it last minute.}}
-{{CharTalk|Claudine|Yeah. Right before you said the line... A split-second decision.}}
-{{CharTalk|Tamao|They said it's fine for us to act freely... I got swept along by everyone's acting and couldn't help myself.}}
-{{CharTalk|Maya|...It was splendid.}}
-{{CharTalk|Tamao|To be praised by Maya Tendo... It's an honor.}}
-{{CharTalk|Tamao|But Kocho-san too.}}
-{{CharTalk|Shizuha|Huh?}}
-{{CharTalk|Tamao|"How arrogant...".}}
-{{CharTalk|Tamao|I could sense the sadness and powerlessness from your acting, all the way to your fingertips...}}
-{{CharTalk|Tamao|I'm going to learn a lot from you from now on.}}
-{{CharTalk|Shizuha|Oh, uh, okay...}}
-{{CharTalk|Masai|Let's end today's script reading here!}}
-{{CharTalk|Masai|We'd assigned the difficult task of not sharing your roles with anyone else before the initial read-over...}}
-{{CharTalk|Masai|But thanks to that, we've gotten a lot of great inspiration.}}
-{{CharTalk|Amemiya|Thank you, everyone... It's all thanks to your acting that each role feels like it's come alive.}}
-{{CharTalk|Amemiya|The script team will now re-work the script once more based on the acting you've just shown us.}}
-{{CharTalk|Masai|It's possible that the contents and composition for all six acts might turn out completely different...}}
-{{CharTalk|Masai|We'll make this stage better and better in time for the "Performance Festival"!}}
-{{CharTalk|Akira|I look forward to it.}}
-{{CharTalk|Maya|I can't wait.}}
-{{CharTalk|Masai|Then this marks the end of the first "Performance Festival" script reading. Good work, everyone!}}
-{{CharTalk|All|Good work!}}
+Part 1
+=
+<span style="font-weight: bold; font-size: 20px;" >Play Ball!</span>
+{{CharTalk|Girl|Pssh, clink!}}
+{{CharTalk|Girl|I saw this during my walk today. It looked so fun...}}
+{{CharTalk|Girl|It's called "base ball"!}}
+{{CharTalk|Girl|But when I said to everyone we should try, they said it's more fun to play at home...}}
+{{CharTalk|Girl|But that's not true! It's not true... right?}}
+{{CharTalk|Girl|"Base ball" is really fun, right!?}}
+{{CharTalk|Girl|That's right, I'm sure the older girls would...}}
+<hr>
+<hr>
+{{CharTalk|Mahiru|(The hot, melting sun beams down. Burning heat that makes it difficult to breathe.)}}
+{{CharTalk|Mahiru|(Sweat drips down and gets sucked up by the field immediately...)}}
+{{CharTalk|Karen|Nice to meet you, I'm Karen Aijo! I've been the relief pitcher all through junior high!}}
+{{CharTalk|Senpai|Then why don't you show us what you've got?}}
+{{CharTalk|Karen|I can throw the ball!? Yay! All right, I'm ready...!}}
+{{CharTalk||*swoosh*}}
+{{CharTalk||*THWAP*}}
+{{CharTalk|Mahiru|(I still remember that moment. The day I set my goal in baseball.)}}
+{{CharTalk|Mahiru|("I want to stand on the same field as you"...)}}
+<hr>
+{{CharTalk||*flip*}}
+{{CharTalk|Junna|(I ended up buying it anyways... The high school baseball magazine.)}}
+{{CharTalk|Junna|(And of course my name isn't in it.)}}
+{{CharTalk|Nana|Junna-chan, found you♪}}
+{{CharTalk|Junna|Morning, Nana. And Hanayagi-san and Isurugi-san too.}}
+{{CharTalk|Kaoruko|*yawn* Good morning...}}
+{{CharTalk|Futaba|Hey, you're heading to practice, right? Let's go—... Ah!}}
+{{CharTalk|Futaba|That's this month's baseball magazine!}}
+{{CharTalk|Kaoruko|Oh, there's an article on Seisho Sports Academy...}}
+{{CharTalk|Kaoruko|Following the trend? You don't have to complain so–}}
+{{CharTalk|Maya|Hanayagi-san. You have 5 copies of the same magazine sticking out of your sports bag.}}
+{{CharTalk|Kaoruko|Huh!? T-That's not it! I was just going to hand this out to everyone...!}}
+{{CharTalk|Kaoruko|Ahem! Tendo-han, Clau-han, you should be saying good morning first. Where are your manners?}}
+{{CharTalk|Claudine|Yes, ma'am. Bonjour.}}
+{{CharTalk|Claudine|...So what's written in it? Can I see?}}
+{{CharTalk||*flip*}}
+{{CharTalk|Junna|"The new Seisho Sports Academy!! After Seisho regrettably missed their Koshien victory, how have they changed after the third years retired?"}}
+{{CharTalk|Junna|"First, you have Maya Tendo and Claudine Saijo who garnered attention in the Junior League."}}
+{{CharTalk|Junna|"Strong players who can hit and play defense. After these two who can be called the leaders of the new generation is..."}}
+{{CharTalk|Futaba|"The amazing fast runner Futaba Isurugi who wows everyone with her base-stealing skills. Kaoruko Hanayagi with her ironclad guard that doesn't allow the opponent to take the lead."}}
+{{CharTalk|Futaba|"And then Nana Daiba, the hard hitter with an unparalleled batting average."}}
+{{CharTalk|Claudine|"At a glance, it doesn't look like they have any glaring problems..."}}
+{{CharTalk|Claudine|"Their biggest hurdle may be whether or not they'll be able to unify their group of star players with strong, individual personalities."}}
+{{CharTalk|Claudine|"It puts the skills of the new captain Mahiru Tsuyuzaki to the test..."
+Huh, the article is shorter than I thought.}}
+{{CharTalk|Kaoruko|Tell me about it. It doesn't even mention Hoshimi-han.}}
+{{CharTalk|Junna|...It's expected. I was a substitute last year.}}
+{{CharTalk|Junna|There's also one more person who wasn't written about–}}
+<hr>
+{{CharTalk||*THWAP*}}
+{{CharTalk|Mahiru|Nice throw, Karen-chan!! That was a good curve!}}
+{{CharTalk|Karen|Really?!}}
+{{CharTalk|Mahiru|Yeah, a sharp throw... I don't think there are any other high schoolers who can throw a curveball like that.}}
+{{CharTalk|Karen|Heh heh, it's all thanks to you practicing with me all the time!}}
+{{CharTalk|Mahiru|Not at all...}}
+{{CharTalk|Mahiru|All I did was receive your pitches...}}
+{{CharTalk|Nana|As expected of our secret weapon, Karen-chan♪}}
+{{CharTalk|Kaoruko|Phew... What a monster pitch.}}
+{{CharTalk|Claudine|Yes. When she first joined, they were all crazy wild pitches...}}
+{{CharTalk|Maya|Ever since she learned to control them, they've transformed into powerful pitches.}}
+{{CharTalk|Maya|After honing the strength, you can definitely call her our unshakable ace now.}}
+{{CharTalk|Futaba|Oh! Our teamwork has also improved a lot too... The problem the article mentioned is no biggie!!}}
+{{CharTalk|Junna|That's true, but...}}
+{{CharTalk|Nana|Junna-chan?}}
+{{CharTalk|Junna|Tsuyuzaki-san has been doing nothing but helping Karen and everyone else with their practices.}}
+{{CharTalk|Junna|Will the captain... be able to play the way she would like to?}}
+{{CharTalk|Mahiru|Oh, everyone's here... Gather around!}}
+{{CharTalk|All|Yes!!}}
+{{CharTalk|Mahiru|I've mentioned it before, but the first years are having their training camp now... So from today, practice will only be us second years.}}
+{{CharTalk|Mahiru|Our goal is to get our hands on a ticket to Koshien.}}
+{{CharTalk|Mahiru|For that to happen, we need to be strong enough to win the spring tournament. So today, we'll be drilling the basics.}}
+{{CharTalk|Futaba|Heh heh, guess we can't lose to the first years... If we're too careless, we might end up getting dropped as regulars!}}
+{{CharTalk|Mahiru|About that... I have one more piece of news to share...}}
+{{CharTalk|Karen|What is it, Captain?!}}
+{{CharTalk|Mahiru|...The coach told me a new girl will be transferring into our team.}}
+{{CharTalk|Mahiru|And she wants her to be a regular...}}
+{{CharTalk|Futaba|What...!}}
+{{CharTalk|Kaoruko|That's ridiculous!!}}
+{{CharTalk|Futaba|We worked our butts off to become regulars! Karen and Junna have also been working like mad...!}}
+{{CharTalk|Mahiru|E-Everyone, calm down! It hasn't been decided yet–}}
+{{CharTalk|Nana|...There's also a transfer rule when it comes to high school baseball.}}
+{{CharTalk|Karen|Transfer rule?}}
+{{CharTalk|Nana|When someone is transferred from a different school, they can't participate in official matches for one year.}}
+{{CharTalk|Kaoruko|Oh, what? The coach doesn't even know about that...?}}
+{{CharTalk|Maya|I don't think she would've said that without thinking things through...}}
+{{CharTalk|Junna|You're right... But what I want to know is...}}
+{{CharTalk|Junna|Are you fine with that, Captain?}}
+{{CharTalk|Mahiru|Huh?!}}
+{{CharTalk|Junna|I'm asking if you're fine with just giving a position to some transfer student.}}
+{{CharTalk|Junna|Or are you trying to be okay with it... because you're the captain?}}
+{{CharTalk|Mahiru|That's... well...}}
+{{CharTalk|Junna|...If you can't give me an answer, then fine. Let's start practice.}}
+{{CharTalk|Junna|I have no intention to just give up a regular position. I'm sure even the first years who aren't here...}}
+{{CharTalk|Junna|I just want to practice right now.}}
+{{CharTalk|Mahiru|......}}
+<hr>
+{{CharTalk||*CLINK*}}
+{{CharTalk|Nana|Nice one, Junna-chan!}}
+{{CharTalk|Junna|Yes!!}}
+{{CharTalk||*slide*}}
+{{CharTalk|Futaba|Whoa...!}}
+{{CharTalk|Futaba|Hoshimi hitting such a low ball, it's as intense as a real match.}}
+{{CharTalk|Maya|That's probably how much the conversation from earlier provoked them.}}
+{{CharTalk|Maya|But everybody is heated up. And the next batter is...}}
+{{CharTalk|Claudine|Vas-y! I'm up!!}}
+{{CharTalk|Futaba|It's Clau-ko. How far is she going to send the ball flying— ... Huh?}}
+{{CharTalk|Futaba|Who's that?}}
+{{CharTalk|Maya|Never seen her before... Why are they inside the fence?}}
+{{CharTalk|Maya|Captain, are you going to talk to them?}}
+{{CharTalk|Mahiru|......}}
+{{CharTalk|Maya|Tsuyuzaki-san?}}
+{{CharTalk|Mahiru|Ah! Oh, I'm sorry... What is it?}}
+{{CharTalk|Maya|There's someone not in the team over there—}}
+{{CharTalk||*THWACK*}}
+{{CharTalk|Maya|Watch out! The ball—!!}}
+{{CharTalk|Junna|What is she doing?! Move out of the way!!}}
+{{CharTalk||*thwop*}}
+{{CharTalk|Mahiru|You're kidding...}}
+{{CharTalk|Futaba|She caught Clau-ko's ball with her bare hands...?!}}
+{{CharTalk|Mahiru|Um, are you okay?! Are you hurt...?}}
+{{CharTalk|????|......}}
+{{CharTalk|Karen|H-Hikari-chan...?}}
+{{CharTalk|Mahiru|Huh... Karen-chan, is this your friend?}}
+{{CharTalk|Hikari|...I finally found you.}}
+{{CharTalk|Karen|Hikari-chan... You're really Hikari-chan!!}}
+{{CharTalk|Hikari|Heh heh... I'm back, Karen.}}
 |-|
-Part 2=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 2</span>
-{{CharTalk|Karen|Wow, that was so great!}}
-{{CharTalk|Aruru|Yeah! It was!}}
-{{CharTalk|Karen|Tendo-san's lightning collided with Yukishiro-san's thunder...}}
-{{CharTalk|Aruru|Shizuha-chan's gradual pace was enhanced by Tamao-chan's brisk pace...}}
-{{CharTalk|Karen|Everyone's brilliance was shining so brightly!}}
-{{CharTalk|Aruru|Like... How a fluffy shape turns round!}}
-{{CharTalk|Karen|The tingles...}}
-{{CharTalk|Aruru|The excitement...}}
-{{CharTalk|Aruru|It's too much!}}
-{{CharTalk|Karen|Too much!}}
-{{CharTalk|Hikari|...Stage-crazies.}}
-{{CharTalk|Misora|...Yep, stage-crazies.}}
-{{CharTalk|Mahiru|Oh, don't talk like that, you two.}}
-{{CharTalk|Aruru|Yeah, Misora! How could you say that?!}}
-{{CharTalk|Karen|Yeah, Hikari-chan, you meanie!}}
-{{CharTalk|Mahiru|That wasn't mean at all!}}
-{{CharTalk|Karen|Huh!?}}
-{{CharTalk|Mahiru|I understand feeling excited after the first script reading...}}
-{{CharTalk|Mahiru|But don't shout so loudly in the middle of the street!}}
-{{CharTalk|Karen & Aruru|...!!}}
-{{CharTalk|Mahiru|Both of you already have loud voices to begin with. Look, the people walking around us are staring.}}
-{{CharTalk|Karen & Aruru|We're sorry.}}
-{{CharTalk|Hikari|...Mahiru's voice just now was loud too.}}
-{{CharTalk|Misora|It was loud... wasn't it.}}
-{{CharTalk|Mahiru|What?! Oh... I-I'm sorry!}}
-{{CharTalk|Karen|Heh heh, so you're excited too, Mahiru-chan!}}
-{{CharTalk|Mahiru|N-no...}}
-{{CharTalk|Mahiru|Well... I guess you're not wrong.}}
-{{CharTalk|Mahiru|...Today's script reading was really stimulating.}}
-{{CharTalk|Karen & Aruru|Right? Right!?}}
-{{CharTalk|Hikari|Yes. I got goosebumps too.}}
-{{CharTalk|Hikari|All the talented performers gathered together on one stage.}}
-{{CharTalk|Hikari|Colliding to complete an unfinished story...}}
-{{CharTalk|Karen|Yes, exactly!}}
-{{CharTalk|Aruru|That's what I wanted to say!}}
-{{CharTalk|Hikari|It feels like something new... A stage is being created.}}
-{{CharTalk|Hikari|Nervousness and anticipation... I can see the shimmering within the tingling...}}
-{{CharTalk|Hikari|It's...nice.}}
-{{CharTalk|Karen & Aruru|Yes, nice!}}
-{{CharTalk|Misora|Wow... Kagura-san. You could understand Aruru's "Aruru lingo" completely...}}
-{{CharTalk|Mahiru|Probably because she's used to Karen-chan.}}
-{{CharTalk|Mahiru|Oh... Everyone, be quiet!}}
-{{CharTalk|Mahiru|We're speaking loudly and getting looks again...}}
-{{CharTalk|Karen & Aruru & Hikari|Oh...}}
-{{CharTalk|Mahiru|At this rate, we're all stage-crazies.}}
-{{CharTalk|Shizuha|"That's preposterous! We do not fear being crazies!"}}
-{{CharTalk|Mahiru|Huh... Oh, Kocho-san!}}
-{{CharTalk|Misora|Hello, Shizuha-senpai!}}
-{{CharTalk|Shizuha|I'm sorry, it took me a while to shower.}}
-{{CharTalk|Aruru|Shizuha-chan, you were great. That "Judgement" role was fantastic!}}
-{{CharTalk|Karen|You had such intense ads with Tendo-san and Yukishiro-san!}}
-{{CharTalk|Misora|Ads...?}}
-{{CharTalk|Mahiru|I think she's talking about the ad-lib exchange.}}
-{{CharTalk|Misora|Oh, I see!}}
-{{CharTalk|Shizuha|It's only because Tendo-san and Yukishiro-san led the scene so well... And Tomoe-san too.}}
-{{CharTalk|Shizuha|It looks like it's still going to take me a while to fully immerse myself into the role. I want to hurry back and practice.}}
-{{CharTalk|Aruru|Whoa, we've found another stage-crazy here!!}}
-{{CharTalk|Misora|Then let's go home. Back to Frontier.}}
-{{CharTalk|Misora|See you, Aijo-san, Kagura-san, Tsuyuzaki-san!}}
-{{CharTalk|Shizuha|See you at the next practice.}}
-{{CharTalk|Karen|Yes, see you next time!}}
-{{CharTalk|Aruru|See ya!}}
+Part 2
+=
+<span style="font-weight: bold; font-size: 20px;" >Unyielding Position</span>
+{{CharTalk|Hikari|(The hot, melting sun beams down. Burning heat that makes it difficult to breathe.)}}
+{{CharTalk|Hikari|(Tears drip down and get sucked up by the field immediately...)}}
+{{CharTalk|Karen|*sniffle*... *sobs*}}
+{{CharTalk|Hikari|You're crying more than when you lose a match...}}
+{{CharTalk|Karen|It's because... we might never meet again...}}
+{{CharTalk|Hikari|...Don't worry. I'll definitely come back.}}
+{{CharTalk|Hikari|The field you stand on is my home to return to...}}
+<hr>
+{{CharTalk|Karen|Hikari-chan! You're really Hikari-chan?!}}
+{{CharTalk|Hikari|Yes, it's really me.}}
+{{CharTalk|Karen|Oh my god!!}}
+{{CharTalk|Junna|Sorry to interrupt you, but...}}
+{{CharTalk|Nana|Yes, can you please explain? You two are friends?}}
+{{CharTalk|Hikari|Yes.}}
+{{CharTalk|Claudine|What does that...}}
+{{CharTalk|Karen|Haha! Hikari-chan, you're so cheer and contrite!}}
+{{CharTalk|Hikari & Mahiru|You mean, clear and concise... Oh.}}
+{{CharTalk|Hikari & Mahiru|......}}
+{{CharTalk|Hikari|...I'm Hikari Kagura. I recently transferred to this school from England.}}
+{{CharTalk|Futaba|You must be...}}
+{{CharTalk|Kaoruko|The rumored transfer student!!}}
+{{CharTalk|Hikari|Rumored...?}}
+{{CharTalk|Kaoruko|You must be the transfer student joining as a regular player the coach was talking about.}}
+{{CharTalk|Hikari|I don't know. I only told the coach I wanted to join the baseball team.}}
+{{CharTalk|Maya|...How much experience have you had with baseball?}}
+{{CharTalk|Hikari|British national team – uniform number 2. I was the catcher.}}
+{{CharTalk|Claudine|British national...?!}}
+{{CharTalk|Futaba|Number 2—? That means you're a regular!!}}
+{{CharTalk|Mahiru|C-Catcher...?}}
+{{CharTalk|Karen|Yeah! Hikari-chan is amazing!}}
+{{CharTalk|Karen|No matter what ball gets thrown her way, she will catch it and send it right back!!}}
+{{CharTalk|Karen|In Little League, we used to always be paired together as pitcher and catcher!}}
+{{CharTalk|Mahiru|B-But Karen-chan's catcher right now is me...}}
+{{CharTalk|Claudine|Hm. If you know all of Karen's quirks, then you'd definitely be a great asset to have.}}
+{{CharTalk|Futaba|Wait a minute. What about that thing about the transfer rules for high school baseball?}}
+{{CharTalk|Junna|...It's fine.}}
+{{CharTalk|Junna|Exchange students from abroad don't count. She can participate in matches.}}
+{{CharTalk|Futaba|...A loophole, huh.}}
+{{CharTalk|Kaoruko|*sigh* It's so obvious the school is willing to do whatever it takes to win...}}
+{{CharTalk|Futaba|Well, I'm sure all of us would like to win...!}}
+{{CharTalk|Claudine|While I do have mixed feelings about all of this, first I'd like to see what her skills are.}}
+{{CharTalk|Maya|I agree. Then let's swap Kagura-san in for the practice—}}
+{{CharTalk|Mahiru|Wait!!}}
+{{CharTalk|Karen|Huh...?!}}
+{{CharTalk|Mahiru|T-The catcher... That's the one position I'm not giving up!}}
+{{CharTalk|Mahiru|I'm the one who will receive Karen-chan's pitches!!}}
+{{CharTalk|Karen|M-Mahiru-chan...!?}}
+{{CharTalk|Junna|Tsuyuzaki-san...}}
+{{CharTalk|Hikari|...I also have no intention of giving it up. I'm the one who is suitable to receive Karen's pitches.}}
+{{CharTalk|Kaoruko|That's some confidence right there...}}
+{{CharTalk|Futaba|You've got guts, I'll give you that... But to be honest, I don't approve.}}
+{{CharTalk|Futaba|I don't like the idea of giving away a regular position to someone who just appears out of nowhere!!}}
+{{CharTalk|Karen|W-Wait, wait! Why is it turning out like this?!}}
+{{CharTalk|Karen|Arguing and talking about approval... This isn't baseball!!}}
+{{CharTalk|Junna|But positions are things you have to fight for.}}
+{{CharTalk|Karen|That's true, but...!}}
+{{CharTalk|Junna|Hey, I have an idea...}}
+{{CharTalk|Junna|How about a baseball match with everyone here?}}
+{{CharTalk|Hikari|Baseball match...?}}
 |-|
-Part 3=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 3</span>
-{{CharTalk|Aruru|Ah, that was fun. I can't wait for the next practice!}}
-{{CharTalk|Misora|Aruru, you kept stumbling over your lines today.}}
-{{CharTalk|Aruru|Ngh... We were surrounded by all these amazing people, so I only got a little nervous!}}
-{{CharTalk|Misora|Well, I guess so. I was nervous too.}}
-{{CharTalk|Misora|I never thought I'd get to practice with the renowned Claudine Saijo-san. Never could've imagined that.}}
-{{CharTalk|Aruru|Right. Clau-chan has been performing on stage for a long time!}}
-{{CharTalk|Misora|Of course I'd get nervous.}}
-{{CharTalk|Misora|And it's also my first time to stand on a stage as big as the Toho Art Theater!}}
-{{CharTalk|Aruru|Yeah. I'm really glad we got chosen for the "Performance Festival"!}}
-{{CharTalk|Misora|But... I only realized after I stood on the stage with everyone for practice...}}
-{{CharTalk|Aruru|Huh? What?}}
-{{CharTalk|Misora|...That it's scary.}}
-{{CharTalk|Aruru|Huh? Scary? What is?}}
-{{CharTalk|Shizuha|Misora-chan...}}
-{{CharTalk|Aruru|Don't worry, it's fine! There's nothing to be afraid of!}}
-{{CharTalk|Aruru|A gigantic stage and amazing people! It's such an exciting stage!}}
-{{CharTalk|Aruru|We're gonna watch everyone's acting and learn a lot.}}
-{{CharTalk|Aruru|We'll definitely be able to create the most fun and happy stage together with everyone in the "Performance Festival"!}}
-{{CharTalk|Shizuha|Fun and...happy stage...?}}
-{{CharTalk|Aruru|Shizuha-chan?}}
-{{CharTalk|Shizuha|Aruru-chan... Do you really think that?}}
-{{CharTalk|Aruru|Huh...?}}
-{{CharTalk|Misora|Shizuha-senpai...}}
-{{CharTalk|Shizuha|Aruru-chan. The "Performance Festival"... That stage—}}
+Part 3
+=
+<span style="font-weight: bold; font-size: 20px;" >Wounded Friendship</span>
+{{CharTalk|Mahiru|Junna-chan, what is this baseball match...?}}
+{{CharTalk|Junna|Baseball issues should be resolved on the field... We'll have a short match and decide on the victor.}}
+{{CharTalk|Claudine|But there's no way we'd be able to have a proper game with these numbers.}}
+{{CharTalk|Junna|Yes... So my suggestion is to split into teams of 4 and have a mini game.}}
+{{CharTalk|Junna|The catchers, Tsuyuzaki-san and Kagura-san, will be the team leaders. The remaining three will guard first, second, and third base.}}
+{{CharTalk|Kaoruko|Wait a minute... Are you saying we have to cover both infield and outfield with only three people? That's impossible...!}}
+{{CharTalk|Nana|Oh... With the bamboo bats we use for practice?}}
+{{CharTalk|Junna|That's right. The balls don't fly as far with those.}}
+{{CharTalk|Futaba|In that case, we only need to cover the infield.}}
+{{CharTalk|Kaoruko|...Hm? Wait a minute. Then the pitcher for this game...??}}
+{{CharTalk|Junna|Yes, Karen will be the only pitcher.}}
+{{CharTalk|Karen|Only me...?!}}
+{{CharTalk|Junna|In this instance, Karen has nothing to do with which team wins or loses.}}
+{{CharTalk|Junna|She only needs to follow the catcher's lead and keep pitching.}}
+{{CharTalk|Mahiru|Right, Karen-chan can throw most curve balls so...}}
+{{CharTalk|Mahiru|The game will be highly dependent on the catcher's lead!}}
+{{CharTalk|Kaoruko|That match would only work with a crazy pitcher like Karen-han who can throw any kind of ball...}}
+{{CharTalk|Claudine|Then what about the number of innings? I'm sure pitching nine innings for both teams would be too much even for Karen...}}
+{{CharTalk|Karen|I can pitch that many balls?! Yay!!}}
+{{CharTalk|Junna|What if you hurt yourself... Even if you're fine with it, we can't allow that. How about we do 4 innings?}}
+{{CharTalk|Kaoruko|I can't believe she said "yay"... She's a monster...}}
+{{CharTalk|Maya|But Hoshimi-san... Why are you suggesting this baseball match all of a sudden?}}
+{{CharTalk|Junna|Because...}}
+{{CharTalk|Junna|I thought this would be the best way to settle it... That's all.}}
+{{CharTalk|Junna|If Tsuyuzaki-san's team wins, then the catcher will remain as Tsuyuzaki-san. If Kagura-san's team wins, then...}}
+{{CharTalk|Mahiru|Karen-chan's catcher will become Kagura-san...!}}
+{{CharTalk|Hikari|...Fine with me. Let's split the teams.}}
 <hr>
-{{CharTalk|Shizuha|(There's no lead role, that's why it's a hell where performers battle it out for the lead position.)}}
-<hr>
-{{CharTalk|Nana|Whew...}}
-{{CharTalk|Junna|Here you go, Nana. "Banana Milk".}}
-{{CharTalk|Nana|Oh... Thanks, Junna-chan.}}
-{{CharTalk|Junna|Phew... Script reading from morning till now sure is exhausting.}}
-{{CharTalk|Nana|Yeah. But...it's a nice kind of tired where it feels like the stage has really begun.}}
-{{CharTalk|Junna|Yeah, you're right.}}
-{{CharTalk|Junna|Then here's to finishing the first "Performance Festival" script reading.}}
-{{CharTalk|Nana|With "Banana Milk" and "Strawberry Milk".}}
-{{CharTalk|Junna|Heh heh.}}
-{{CharTalk|Nana & Junna|Good work.}}
-{{CharTalk|Nana|Mmm... Delicious.}}
-{{CharTalk|Junna|I can finally relax.}}
-{{CharTalk|Nana|Yeah. The "Performance Festival" rehearsal room had such a tense atmosphere.}}
-{{CharTalk|Junna|Well, that's because today was the first time for all the participating schools to gather.}}
-{{CharTalk|Junna|And on top of that, a sudden etude with our given roles?! Of course we'd be nervous!}}
-{{CharTalk|Nana|Haha, you're right.}}
-{{CharTalk|Nana|Masai-san and Amemiya-san said it too, but...}}
-{{CharTalk|Nana|Thanks to everyone's performance, I can clearly see the outline for all the characters.}}
-{{CharTalk|Junna|That's true.}}
-{{CharTalk|Junna|Even though the "World" Arcana doesn't have a particular concept...}}
-{{CharTalk|Junna|Seeing Tendo-san's performance and hearing her lines, really brought the "role" to life.}}
-{{CharTalk|Nana|Yeah. The one who brought that out was...Yukishiro-san's "Emperor".}}
-{{CharTalk|Junna|The human-like "Emperor" covered in selfish desires was a great comparison against Tendo-san's detached role.}}
-{{CharTalk|Nana|And also... The story's trickster, "Death".}}
-{{CharTalk|Junna|Yeah! "Death"!}}
-{{CharTalk|Junna|It felt like that role had such a huge range of possibilities with Tomoe-san's acting.}}
-{{CharTalk|Junna|I was really surprised to see that kind of acting from her.}}
-{{CharTalk|Nana|Yeah, me too.}}
-{{CharTalk|Nana|The acting was really well done and it caught everyone's attention.}}
-{{CharTalk|Junna|Yeah... It was really inspirational.}}
-{{CharTalk|Junna|Yours too, Nana.}}
-{{CharTalk|Nana|Huh?}}
-{{CharTalk|Junna|You held your own against Tendo-san, Yukishiro-san, Kocho-san, and Tomoe-san.}}
-{{CharTalk|Junna|I won't lose either.}}
-{{CharTalk|Junna|Since I'm standing on the same stage with all these talented people.}}
-{{CharTalk|Junna|In order to make this stage a success... I'll give my all to the role I've been given.}}
-{{CharTalk|Junna|Just watch, Nana! I'll give the best performance with my "High Priestess"!}}
-{{CharTalk|Nana|Junna-chan...}}
-{{CharTalk|Nana|...Yes.}}
+{{CharTalk||*SLIDE*}}
+{{CharTalk|Nana|Nice, Hikari-chan!}}
+{{CharTalk|Futaba|Good job, Kagura!!}}
+{{CharTalk|Hikari|......}}
+{{CharTalk|Claudine|Phew, bases are loaded again... I didn't think it'd be this tough.}}
+{{CharTalk|Junna|Huff, huff... They're in the lead by 4 points...!}}
+{{CharTalk|Maya|Hoshimi-san, stay focused! You'll get targeted again!}}
+{{CharTalk|Junna|I know...!}}
+{{CharTalk|Kaoruko|The opponent keeps hitting towards Hoshimi-han who isn't good at defense... That's a dirty move.}}
+{{CharTalk|Maya|Not at all. When you see a weakness, you strike... As long as this is a match, there's nothing we can say about it.}}
+{{CharTalk|Kaoruko|Even so, they're hitting way too many! When Kagura-han was the catcher, we barely got any hits...}}
+{{CharTalk|Maya|Without a doubt, that's...}}
+{{CharTalk||*CLINK*}}
+{{CharTalk|Kaoruko|A hit, but that's a foul... A close one...}}
+{{CharTalk|Maya|So I'm not just imagining it. Her pitching has become more flat.}}
+{{CharTalk|Kaoruko|Ugh! What are Karen-han and Mahiru-han doing?!}}
+{{CharTalk|Karen|Huff, huff...}}
+{{CharTalk|Mahiru|(Karen-chan is getting tired... It must be tough to continuously pitch like this.)}}
+{{CharTalk|Mahiru|(Okay, I'll signal her to throw an easy one...!)}}
+{{CharTalk|Karen|(......!!)}}
+{{CharTalk|Mahiru|(Huh, NO?! I-I see... I guess letting Karen-chan throw the way she wants is best.)}}
+{{CharTalk|Mahiru|(Then the curve ball that Karen-chan wants...)}}
+{{CharTalk||*CLINK*}}
+{{CharTalk|Mahiru|S-She hit it?!}}
+{{CharTalk|Kaoruko|It's going towards Hoshimi-han again!}}
+{{CharTalk|Junna|Ngh...!}}
+{{CharTalk||*slide*}}
+{{CharTalk|Junna|Ah, ugh...!!}}
+{{CharTalk|Nana|Junna-chan?!}}
+{{CharTalk|Junna|I'm fine... The ball I missed just hit my foot... Ngh!}}
+{{CharTalk|Nana|Junna-chan, we have to ice it...!}}
+{{CharTalk|Maya|She's right. You shouldn't move around. It's unfortunate, but we should end the match here.}}
+{{CharTalk|Kaoruko|Then it's Kagura-han's win for taking 4 points...?}}
+{{CharTalk|Mahiru|...!!}}
+{{CharTalk|Hikari|......}}
+{{CharTalk|Hikari|...All right, we can have a rematch on another day when her injury has healed.}}
+{{CharTalk|Mahiru|Huh...?!}}
+{{CharTalk|Hikari|Well, you're not satisfied with the result.}}
+{{CharTalk|Hikari|There's no way you... can beat me how you are now.}}
 |-|
-Part 4=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 4</span>
-{{CharTalk|Futaba|Kaoruko! Ka-o-ru-ko!}}
-{{CharTalk|Futaba|What are you mad about?}}
-{{CharTalk|Kaoruko|I'm not mad or anything.}}
-{{CharTalk|Futaba|You only walk that fast when you're mad.}}
-{{CharTalk|Kaoruko|Uh...}}
-{{CharTalk|Futaba|Why did you say you're going back to the academy all of a sudden?}}
-{{CharTalk|Kaoruko|...It's nothing.}}
-{{CharTalk|Kaoruko|I'm just... I just feel frustrated for some reason.}}
-{{CharTalk|Futaba|Frustrated...}}
-{{CharTalk|Tamao|Oh, we can't have that.}}
-{{CharTalk|Tamao|Why don't you have some sweets and take a breather, Hanayagi-san?}}
-{{CharTalk|Kaoruko|Tamao-han...}}
-{{CharTalk|Tamao|There's a place nearby with delicious pancakes.}}
-{{CharTalk|Tamao|They closed shop once because they gave out too many freebies, but they got a lot of support and have re-opened.}}
-{{CharTalk|Tamao|Shall we go together? Isurugi-san too.}}
-{{CharTalk|Futaba|I-It's okay...}}
-{{CharTalk|Kaoruko|You two should go. I'm busy. Bye.}}
-{{CharTalk|Tamao|Is this for..."role preparations'?}}
-{{CharTalk|Kaoruko|...!}}
-{{CharTalk|Tamao|Thank goodness... I'm glad it looks like it got across with my acting.}}
-{{CharTalk|Futaba|Got across... What are you talking about?}}
-{{CharTalk|Tamao|...Hanayagi-san's "Devil"... It was really charming.}}
-{{CharTalk|Tamao|It was adorable and attractive... Very sweet.}}
-{{CharTalk|Kaoruko|...!?}}
-{{CharTalk|Tamao|My "Death" is like an ode in reply to Hanayagi-san's acting...}}
-{{CharTalk|Kaoruko|Ode in reply...? It wasn't so elegant.}}
-{{CharTalk|Kaoruko|That's... Yes. ...A "declaration of war".}}
-{{CharTalk|Futaba|Huh...}}
-{{CharTalk|Tamao|Exactly right, Hanayagi--san. As you'd expect.}}
-{{CharTalk|Tamao|As I'm sure you're aware, our Rinmeikan Girls School Performance Department has disbanded and narrowly escaped death by becoming the Performance Association.}}
-{{CharTalk|Tamao|And this "Performance Festival" that we've been given...is the best stage to light our flame of life with.}}
-{{CharTalk|Futaba|Light your...flame of life?}}
-{{CharTalk|Tamao|—The revival of the Rinmeikan Girls School Performance Department.}}
-{{CharTalk|Futaba & Kaoruko|...!}}
-{{CharTalk|Tamao|Seisho Music Academy, Siegfeld Institute of Music, Frontier School of Arts...}}
-{{CharTalk|Tamao|Take down all the powerful schools present and then our Rinmeikan Performance Association will release the best brilliance—}}
-{{CharTalk|Tamao|And beyond that light, the Rinmeikan Girls School Performance Department will rise. I'm sure of it.}}
-{{CharTalk|Tamao|We have nothing to lose. This stage is the beacon of our revival.}}
-{{CharTalk|Tamao|The lead of the "Performance Festival" is ours. I just wanted to tell you that.}}
-{{CharTalk|Futaba|Tomoe... You...}}
-{{CharTalk|Tamao|So please hurry and catch up without losing to anyone.}}
-{{CharTalk|Tamao|Until the day when you fight with me comes, Kaoruko Hanayagi-san.}}
-{{CharTalk|Kaoruko|Tamao... Tomoe...!}}
-{{CharTalk|Tamao|Excuse me... Goodbye.}}
-{{CharTalk|Kaoruko|......}}
-{{CharTalk|Futaba|......}}
-{{CharTalk|Futaba|Tomoe sure has changed.}}
-{{CharTalk|Kaoruko|...Pfft.}}
-{{CharTalk|Futaba|Kaoruko?}}
-{{CharTalk|Kaoruko|Catch up...she said.}}
-{{CharTalk|Kaoruko|That girl who has never once won against me in dance... Sounds like she's taking me lightly.}}
-{{CharTalk|Kaoruko|...We're going home, Futaba-han.}}
-{{CharTalk|Futaba|Huh?}}
-{{CharTalk|Kaoruko|...I'll accept this declaration of war.}}
-{{CharTalk|Kaoruko|Just like a lot has happened to her, I'm also no longer the girl she thinks I am.}}
-{{CharTalk|Kaoruko|I'll show her...just who the lead of this stage is... Right?}}
-|-|
-Part 5=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 5</span>
-{{CharTalk|Elle|Revue...}}
-{{CharTalk|Elle|A spellbinding performance conjured out of song and dance...}}
+Part 4
+=
+<span style="font-weight: bold; font-size: 20px;" >The Future as a Substitute</span>
+{{CharTalk|Junna|(The hot, melting sun beams down. Burning heat that makes it difficult to breathe.)}}
+{{CharTalk|Junna|(My voice gets sucked up by the field and disappears...)}}
+{{CharTalk|Junna|Come on Seisho! Go Seisho!!}}
+{{CharTalk|Junna|(I'm always stuck cheering from the bench and never get to play.)}}
+{{CharTalk|Junna|(There's nothing I can do except clench my fists in regret and frustration. If I were standing in the batter's box right now...)}}
+{{CharTalk||*CLINK*}}
+{{CharTalk|Junna|(I'm sure my bat... wouldn't waver like that.)}}
+{{CharTalk|Karen|Yay!! We did it! We hit it, Jun-Jun!}}
+{{CharTalk|Junna|I know, I was watching... Stop pulling my arm.}}
+{{CharTalk|Karen|Haha, I got too excited...}}
+{{CharTalk|Karen|Our seniors are so amazing! I want to stand there too one day!!}}
+{{CharTalk|Junna|Yes... You're right. We have to become stronger.}}
+{{CharTalk|Junna|We have to practice even harder...}}
+{{CharTalk|Karen|Yeah, I'll say it out loud too!}}
+{{CharTalk|Junna|Say what out loud?}}
+{{CharTalk|Karen|You see, I...}}
 <hr>
-{{CharTalk|Andrew|The one who shows the most brilliant Revue and lights the fire in the young girl's heart...}}
-{{CharTalk|Elle|—Will be on the path to become the "Unknown Lead".}}
-{{CharTalk|Elle & Andrew|Revue has begun.}}
+{{CharTalk|Junna|Heh heh, brings back memories...}}
+{{CharTalk|Karen|Ah, Jun-Jun! Found you!}}
+{{CharTalk|Junna|Karen!}}
+{{CharTalk|Karen|I can't believe you're polishing the balls by yourself here...}}
+{{CharTalk|Karen|Banana sure was angry! She said you refuse to stay still and rest!!}}
+{{CharTalk|Junna|Nana is making such a big fuss... It's just a bruise. I'm fine already.}}
+{{CharTalk|Karen|Is that so? Jun-Jun, you're always working too hard...}}
+{{CharTalk|Karen|Don't push yourself so much. You're an important member of the team!!}}
+{{CharTalk|Junna|Member of the team...}}
+{{CharTalk|Karen|Jun-Jun?}}
+{{CharTalk|Junna|You're right... But it hasn't been decided if I'll be a regular or not yet.}}
+{{CharTalk|Karen|Oh...}}
+{{CharTalk|Junna|I don't mean to blame you or anything.}}
+{{CharTalk|Junna|I just think... baseball is a cruel sport.}}
+{{CharTalk|Karen|Um, what do you mean?}}
+{{CharTalk|Junna|...We have grueling practices day in and day out for the sake of winning that one championship.}}
+{{CharTalk|Junna|Members who can't keep up with the rigorous training drop out one after another...}}
+{{CharTalk|Junna|Do you think we'd be able to just enjoy playing baseball with the remaining members?}}
+{{CharTalk|Junna|You and I who used to be substitutes should be fully aware of this.}}
+{{CharTalk|Karen|...Yes.}}
+{{CharTalk|Junna|If we don't take the position away from our friends, we wouldn't even be able to join the match...}}
+{{CharTalk|Karen|......}}
+{{CharTalk|Junna|Hey, Karen... You said it before the baseball match we had the other day...}}
 <hr>
-{{CharTalk|Junna|People have stars they're destined for.}}
-{{CharTalk|Junna|Glittering stars, morning stars, shooting stars.}}
-{{CharTalk|Junna|Even if I can't see my star, I'll look up from this day on.}}
-{{CharTalk|Junna|Junna Hoshimi, 99th Class! I'll take hold of a star of my own!}}
+{{CharTalk|Karen|W-Wait, wait! Why is it turning out like this?!}}
+{{CharTalk|Karen|Arguing and talking about approval... This isn't baseball!!}}
 <hr>
-{{CharTalk|Kaoruko|Dancing and singing back and forth, fighting desperately day after day.}}
-{{CharTalk|Kaoruko|Crossing swords on stage once more. The blooming of young blood at their best.}}
-{{CharTalk|Kaoruko|Kaoruko Hanayagi, 99th Class. I'll have you follow me till the very end.}}
-<hr>
-{{CharTalk|Junna|Hanayagi-san...}}
-{{CharTalk|Kaoruko|—Hoshimi-han.}}
-{{CharTalk|Elle|"Timeless Play"...}}
-{{CharTalk|Andrew|Struggling for the "Unknown Lead"—}}
-{{CharTalk|Elle|Sing.}}
-{{CharTalk|Andrew|And dance.}}
-{{CharTalk|Elle & Andrew|Battle for brilliance.}}
-<hr>
-{{CharTalk|Junna & Kaoruko|Haaaah!}}
-{{CharTalk|Junna|"Timeless Play"... "Unknown Lead"...}}
-{{CharTalk|Kaoruko|What's with all the vague words and stuff?}}
-{{CharTalk|Junna|True. But...those were some exciting words!}}
-{{CharTalk|Junna|Right now, it's just a play without a single line... But in the center of that stage...}}
-{{CharTalk|Junna|Yes, the "Unknown Lead"!}}
-{{CharTalk|Kaoruko|Huh. So you're saying you can see it?}}
-{{CharTalk|Junna|Yes, I can for sure!}}
-{{CharTalk|Junna|What's needed in order to be able to stand on that stage—}}
-{{CharTalk|Junna|What is needed to ensure this uncertain future— It's the "present"!}}
-{{CharTalk|Kaoruko|Ngh...!}}
-{{CharTalk|Elle|Amazing...!}}
-{{CharTalk|Elle|Both of them... Beautiful and cool... They're shining.}}
-{{CharTalk|Elle|......}}
-{{CharTalk|Elle|Hey, Andrew. My heart's racing for some reason...}}
-{{CharTalk|Junna|"What win I, if I gain the thing I seek?  A dream, a breath, a froth of fleeting joy."}}
-{{CharTalk|Junna|William Shakespeare's words.}}
-{{CharTalk|Junna|Fix your eyes on the future and carry out the role you've been given on the existing stage!}}
-{{CharTalk|Junna|What I'm accumulating "now" will lead me to the "Unknown Lead" of the unseen future!}}
-{{CharTalk|Junna|I'll become it – for sure.}}
-{{CharTalk|Junna|I will be the "Unknown Lead"!}}
-<hr>
-{{CharTalk|Junna|...?! My arrow's been cut down?!}}
-{{CharTalk|Kaoruko|...Pardon me, Hoshimi-han.}}
-{{CharTalk|Junna|?!}}
-{{CharTalk|Kaoruko|Unlike you, I can't take such vague things as the truth...}}
-{{CharTalk|Kaoruko|We know nothing about this "Unknown Lead".}}
-{{CharTalk|Kaoruko|But...}}
-{{CharTalk|Kaoruko|I'm not gonna lose.}}
-{{CharTalk|Junna|...!}}
-{{CharTalk|Kaoruko|A good child who's always been an annoyance of mine...suddenly bared her teeth and bit me.}}
-{{CharTalk|Kaoruko|I thought she would always just be chasing after me... But she...}}
-{{CharTalk|Kaoruko|Ahh... This is so annoying...}}
-{{CharTalk|Junna|What... What are you talking about?}}
-{{CharTalk|Kaoruko|I'm just talking to myself.}}
-{{CharTalk|Kaoruko|"Timeless Play"... "Unknown Lead"...}}
-{{CharTalk|Kaoruko|Pardon me, Hoshimi-han.}}
-{{CharTalk|Kaoruko|Either way works for me... I don't really care.}}
-{{CharTalk|Junna|You don't...care...?!}}
-{{CharTalk|Junna|Ngh...!?}}
-{{CharTalk|Kaoruko|I won't be able to forgive myself...}}
-{{CharTalk|Kaoruko|If the girl who I thought would always be chasing after me...surpasses me and becomes the "Unknown Lead"...}}
-{{CharTalk|Kaoruko|That's just...}}
-{{CharTalk|Kaoruko|I definitely won't allow that!!}}
-{{CharTalk|Elle|"That's the only thing..."}}
-{{CharTalk|Elle|"The only thing that I definitely won't allow"...}}
-<hr>
-{{CharTalk|Elle|"Breaking the contract with the devil must never..."}}
-<hr>
-{{CharTalk|Andrew|?!}}
-{{CharTalk|Andrew|Elle, just now...!}}
-{{CharTalk|Elle|......}}
-{{CharTalk|Kaoruko|Until the day I get to face that girl—}}
-{{CharTalk|Kaoruko|I can't afford to lose to anyone!}}
-<hr>
-{{CharTalk|Kaoruko|Position Zero!}}
+{{CharTalk|Junna|Then I want to ask you.}}
+{{CharTalk|Junna|What IS baseball... to you?}}
+{{CharTalk|Karen|The most difficult but extremely fun thing... where we acknowledge one another!!}}
 {{CharTalk|Junna|...!!}}
-{{CharTalk|Elle|The brilliance from stage girls brought out fragments of plays...}}
-{{CharTalk|Andrew|This is..."Wisdom" and "Attachment".}}
-{{CharTalk|Elle|Yes.}}
-{{CharTalk|Elle|The "Revue of Wisdom and Attachment" is over.}}
-<hr>
-{{CharTalk|Elle|*huff*... *huff*...}}
-{{CharTalk|Elle|"'Give me your soul...' said the devil."}}
-{{CharTalk|Elle|Ohh, I've got butterflies...!}}
-{{CharTalk|Elle|I have to write this... The story is overflowing. Quick!}}
-{{CharTalk|Andrew|Elle...}}
-{{CharTalk|Elle|Yes...}}
-{{CharTalk|Elle|The stage girls' Revue has lit the fire in the young girl's soul...}}
-{{CharTalk|Elle|A story is being born within Elle.}}
-{{CharTalk|Elle|It's started.}}
-{{CharTalk|Elle|Shapeless Play... The creation of "Play A".}}
+{{CharTalk|Karen|We compete and aim for the one victory... But that's not all there is to it.}}
+{{CharTalk|Karen|We pitch, we hit, we run. We show each other our everything.}}
+{{CharTalk|Karen|And when we gather everyone's feelings of not wanting to lose together, it becomes a winning brilliance!!}}
+{{CharTalk|Karen|That's why...!!}}
+{{CharTalk|Junna|...You really don't change.}}
+{{CharTalk|Karen|Huh?}}
+{{CharTalk|Junna|What you told me on the bench at Koshien a year ago hasn't changed one bit.}}
+{{CharTalk|Karen|The bench at Koshien? What did I say...?}}
+{{CharTalk|Karen|Oh. Go Seisho!?}}
+{{CharTalk|Junna|That's the cheer.}}
+{{CharTalk|Karen|Um... it's hot?}}
+{{CharTalk|Junna|You did say that too. Didn't you drink like five bottles of water?}}
+{{CharTalk|Karen|I didn't drink THAT much! Only four!!}}
+{{CharTalk|Junna|That's not much different.}}
+{{CharTalk|Junna|You looked at the mound and said you would definitely stand there one day.}}
+{{CharTalk|Junna|You said you'll stand there with everyone one day.}}
+{{CharTalk|Karen|...My feelings haven't changed at all. Because that's my goal in baseball!}}
+{{CharTalk|Junna|Yes, I know.}}
+{{CharTalk||*CLINK*}}
+{{CharTalk|Karen|Ah!!}}
+{{CharTalk|Junna|That sound...!}}
+{{CharTalk|Junna|...She's being reckless. I'm going to go talk to her.}}
+{{CharTalk|Karen|I'm coming too!}}
+{{CharTalk|Junna|No, you stay here.}}
+{{CharTalk|Junna|Don't worry... I'm just going to show her the kind of baseball girl I am!}}
 |-|
-Part 6=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 6</span>
-{{CharTalk|Rui|Ms. Ukaji, this is...!}}
-{{CharTalk|Ukaji|Exactly – it's the costume for the "Performance Festival".}}
-{{CharTalk|Ukaji|That said, it's just the one I made for rehearsals...}}
-{{CharTalk|Ukaji|It doesn't even come close to the quality of the ones the costume team makes.}}
-{{CharTalk|Rui|Huh...?}}
-{{CharTalk|Rui|Are you telling me that you made this...?!}}
-{{CharTalk|Ukaji|Yeah, I wanted to help even if just a little.}}
-{{CharTalk|Ukaji|So I asked the festival organizers if I could copy the costume paper pattern.}}
-{{CharTalk|Ukaji|I thought that if you could wear this, you'd feel closer to the real performance.}}
-{{CharTalk|Rui|Th-Thank you very much, Ms. Ukaji!}}
-{{CharTalk|Rui|Wow, the quality of the collar and cuffs... This is just like the real deal!}}
-{{CharTalk|Ukaji|Thank you. You're too kind...}}
-{{CharTalk|Ukaji|I was a student at Rinmeikan too, so I know my way around cooking, cleaning and sewing.}}
-{{CharTalk|Ukaji|I used to be known as "Seamstress Masako" in my days.}}
-{{CharTalk|Rui|"Seamstress Masako"... That's a beautiful nickname.}}
-{{CharTalk|Ukaji|T-That was a long time ago.}}
-{{CharTalk|Ukaji|Well, these are all the costumes for the rehearsals. Can you hand them over to everyone?}}
-{{CharTalk|Rui|Huh? I-I couldn't possibly rob you of that role!}}
-{{CharTalk|Rui|I'm sure everyone will be ecstatic to be able to practice wearing the costumes you made!}}
-{{CharTalk|Ukaji|Everyone's busy rehearsing for the "Performance Festival" now. The script reading sessions have begun as well.}}
-{{CharTalk|Ukaji|I'm happy supporting you all from the backstage. There's no need to worry about me.}}
-{{CharTalk|Ukaji|So, please?}}
-{{CharTalk|Rui|Ms. Ukaji...}}
-{{CharTalk|Rui|I got it. You can count on me to deliver them.}}
-{{CharTalk|Ukaji|Have a great rehearsal, Akikaze-san. I hope everyone does their best too.}}
-{{CharTalk|Rui|Yes, I'll do my best!}}
+Part 5
+=
+<span style="font-weight: bold; font-size: 20px;" >Sweat, Tears, and Brilliance</span>
+{{CharTalk|Mahiru|Huff... Huff...!}}
+{{CharTalk|Kaoruko|Mahiru-han, you should take a break...}}
+{{CharTalk|Mahiru|No, I'm fine! Next!}}
+{{CharTalk|Kaoruko|Hitting 100 balls after running 10 rounds... You need to rest...}}
+{{CharTalk|Mahiru|I can't, I have to practice! The 10-day postponement is almost over...}}
+{{CharTalk|Mahiru|I dragged everyone into this... And even got Junna-chan injured...}}
+{{CharTalk|Mahiru|So I have to work hard for Junna-chan's share too!}}
+{{CharTalk|Maya|...I understand. Let's get back to it.}}
+{{CharTalk||*CLINK*}}
+{{CharTalk|Kaoruko|Fly ball! It's too far...?!}}
+{{CharTalk||*slide*... *thwop*}}
+{{CharTalk|Mahiru|Ah...!}}
+{{CharTalk|Kaoruko|Hoshimi-han...!!}}
+{{CharTalk|Maya|Even though it was far, you didn't hesitate to go for it... Impressive, Hoshimi-san.}}
+{{CharTalk|Kaoruko|I'm glad you seem to be have recovered.}}
+{{CharTalk|Junna|Yes, I'm all better. But there's something I heard that I can't let slide...}}
+{{CharTalk|Junna|Tsuyuzaki-san, have you been practicing for my sake?}}
+{{CharTalk|Mahiru|Huh...?}}
+{{CharTalk|Junna|Are you trying to win for my sake?}}
+{{CharTalk|Mahiru|T-That's...}}
+{{CharTalk|Junna|...You're always like this. You always prioritize everyone else, so they can enjoy playing baseball.}}
+{{CharTalk|Junna|Even at the match the other day... You signaled balls that would be easy for Karen and ended up with Karen throwing off pitches from exhaustion on the mound.}}
+{{CharTalk|Mahiru|...!!}}
+{{CharTalk|Junna|Tsuyuzaki-san, who did you come to this school from Hokkaido for?}}
+{{CharTalk|Junna|Who... are you playing baseball for?}}
+{{CharTalk|Mahiru|I- I... I just want to play baseball with everyone...}}
+{{CharTalk|Mahiru|But you're right. To think I'd even try to fight for a position.}}
+{{CharTalk|Mahiru|I know I shouldn't feel this way, but...!}}
+{{CharTalk|Junna|...Tendo-san, can you lend me your bat?}}
+{{CharTalk|Maya|Sure. The settings on the pitching machine are the same as usual.}}
+{{CharTalk||*whirrrr*}}
+{{CharTalk|Junna|I play baseball for myself. So I can stand on the field with my friends who I compete with for a position...}}
+{{CharTalk|Junna|For victory. For brilliance...!}}
+{{CharTalk||*CLINK*}}
+{{CharTalk|Kaoruko|Home run...}}
+{{CharTalk|Junna|No one can steal baseball from me... A baseball girl is more selfish and arrogant.}}
+{{CharTalk|Junna|That's why I was happy when you raised your voice that time.}}
 <hr>
-{{CharTalk|Rui|Hm?}}
-{{CharTalk|Rui|Where are Fumi-senpai and Ichie-senpai? They are nowhere on campus...}}
-{{CharTalk|Rui|I can't wait to hand them their costumes...}}
+{{CharTalk|Mahiru|Wait!!}}
+{{CharTalk|Karen|Huh...?!}}
+{{CharTalk|Mahiru|T-The catcher... That's the one position I'm not giving up!}}
+{{CharTalk|Mahiru|I'm the one who will receive Karen-chan's pitches!!}}
 <hr>
-{{CharTalk|Tamao|'''("Death")'''<br>"Wonderful! How wonderful! That is what makes you mortal!"}}
-{{CharTalk|Tamao|Hmm...}}
-{{CharTalk|Tamao|'''("Death")'''<br>"Wonderful... How wonderful. That is what makes you mortal..."}}
-{{CharTalk||*clap clap clap*}}
-{{CharTalk|Rui|T-Tamao-senpai is amazing.}}
-{{CharTalk|Rui|Her lines as "Death" just now... So frightening, so cold... I got goosebumps.}}
-{{CharTalk|Rui|She's improved even more since the script reading...}}
-{{CharTalk|Tamao|...Oh, hi, Rui-chan. I didn't see you there. What's the matter?}}
-{{CharTalk|Rui|Eek! Ah, yes!}}
-{{CharTalk|Rui|This... This is for you, Tamao-senpai. It's the costume for rehearsals.}}
-{{CharTalk|Tamao|Costume for rehearsals...?}}
-{{CharTalk|Rui|Ms. Ukaji made it using the paper pattern from the stage costume.}}
-{{CharTalk|Rui|She said it might help making you feel closer to the actual performance.}}
-{{CharTalk|Tamao|Ms. Ukaji did this...?}}
-{{CharTalk|Rui|Her eyes were slightly red too... She must have worked overnight to make it.}}
-{{CharTalk|Tamao|...}}
-{{CharTalk|Tamao|Thanks, Rui-chan. Please put it over there.}}
-{{CharTalk|Tamao|I'll wear it in a short while. I'd like to continue practicing a bit longer.}}
-{{CharTalk|Rui|Huh? Ah, yes.}}
-{{CharTalk|Rui|If that's okay, I'll help you practice!}}
-{{CharTalk|Tamao|...Rui-chan.}}
-{{CharTalk|Tamao|I appreciate the gesture, but there's nothing you can do to help me.}}
-{{CharTalk|Tamao|Besides, I'm sure you have things to do in preparation for the "Performance Festival" too.}}
-{{CharTalk|Rui|Ah...yes.}}
-{{CharTalk|Rui|I-I'll let you practice then.}}
-<hr>
-{{CharTalk|Rui|...}}
-{{CharTalk|Rui|Tamao-senpai...}}
-{{CharTalk|Rui|She was so focused that I could feel the pressure all around her...}}
-{{CharTalk|Rui|Hmm... It almost felt like she was out for blood...}}
-{{CharTalk|Yuyuko|Oh, Rui.}}
-{{CharTalk|Rui|Yukko! Where did you go?}}
-{{CharTalk|Yuyuko|I had minor business to attend to. Huh? What's that costume?}}
-{{CharTalk|Rui|Huh? Oh, this is...}}
-{{CharTalk|Yuyuko|Rui... Did something happen?}}
+{{CharTalk|Junna|You showed me you had such feelings...}}
+{{CharTalk|Mahiru|Oh... That's...}}
+{{CharTalk|Mahiru|Wanting to play baseball with everyone and wanting a position... Is it okay for me to have both?}}
+{{CharTalk|Mahiru|Is it okay for me to say I want to win with everyone...?}}
+{{CharTalk|Junna|Yes... If that is your baseball, then there's nothing wrong with that at all.}}
+{{CharTalk|Junna|We can play baseball for ourselves. Aiming high is how we can become a team that is second to none...}}
+{{CharTalk|Junna|Because that's how we've always grown stronger—!!}}
+{{CharTalk|Hikari|......}}
+{{CharTalk|Nana|Huh... Hikari-chan?}}
+{{CharTalk|Claudine|Why are you just standing here? Spying on the enemy?}}
+{{CharTalk|Hikari|I was just passing by. I'm leaving already.}}
+{{CharTalk|Futaba|Really, now. You looked quite interested.}}
+{{CharTalk|Hikari|It's your imagination.}}
+{{CharTalk|Claudine|I see... There's something I've been wondering about.}}
+{{CharTalk|Claudine|Why did you propose a rematch? It doesn't benefit you in any way.}}
+{{CharTalk|Hikari|......}}
+{{CharTalk|Claudine|And then it hit me. Maybe you're testing us too...}}
+{{CharTalk|Claudine|Whether this is the right place for you and Karen... Whether we can continue to win and stand on the field.}}
+{{CharTalk|Hikari|...Who knows?}}
+{{CharTalk|Nana|Oh... Wait, Hikari-chan!}}
+{{CharTalk|Hikari|What is it?}}
+{{CharTalk|Nana|Do you want to practice together? We're a team, right?♪}}
+{{CharTalk|Hikari|Not right now.}}
+{{CharTalk|Nana|Heh heh... Not now, huh.}}
 |-|
-Part 7=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 7</span>
-{{CharTalk|Yuyuko|Woah, Ms. Ukaji made it?}}
-{{CharTalk|Rui|Yeah. She got the paper pattern from the organizers of the "Performance Festival"...}}
-{{CharTalk|Rui|Her eyes were red, so I'm sure she stayed up all night making our costumes...}}
-{{CharTalk|Rui|But...}}
-{{CharTalk|Rui|Tamao-senpai reacted so coldly.}}
-{{CharTalk|Yuyuko|......}}
-{{CharTalk|Rui|I also can't find Fumi-senpai and Ichie-senpai either...}}
-{{CharTalk|Rui|We're scattered around even at such an important time as this...}}
-{{CharTalk|Yuyuko|"Scattered around"...?}}
-{{CharTalk|Yuyuko|Rui... Do you really think that?}}
-{{CharTalk|Rui|Huh?}}
-{{CharTalk|Yuyuko|What are your feelings toward the "Performance Festival"?}}
-{{CharTalk|Rui|My feelings...}}
-{{CharTalk|Rui|I feel honored to have been chosen as a part of the cast...}}
-{{CharTalk|Rui|Standing on the same stage as Tamao-senpai means that I cannot allow any mistakes in my acting.}}
-{{CharTalk|Yuyuko|Is that all?}}
-{{CharTalk|Rui|Huh...? What are you hinting at, Yukko?}}
-{{CharTalk|Yuyuko|The first day of the script reading...}}
-{{CharTalk|Yuyuko|Tamao-senpai went over to Kaoruko-san and the girls from Seisho.}}
-{{CharTalk|Rui|Tamao-senpai went to see Hanayagi-san?}}
-{{CharTalk|Yuyuko|Yeah. And what do you think they talked about?}}
-{{CharTalk|Rui|Huh...?}}
-{{CharTalk|Rui|Tamao-senpai, Kaoruko-san, and Futaba-san all learned traditional Japanese Senka-ryu dance from the same teacher...}}
-{{CharTalk|Rui|Having shared that experience, they now find themselves on the same "Performance Festival" stage.}}
-{{CharTalk|Rui|I'm sure they each have fond memories, so they probably talked about that when they met...}}
-{{CharTalk|Yuyuko|......}}
-{{CharTalk|Yuyuko|Heh heh... Ahaha!}}
-{{CharTalk|Yuyuko|You never fail to amuse me...}}
-{{CharTalk|Yuyuko|You're truly a kind person, Rui.}}
-{{CharTalk|Rui|Huh...?}}
-{{CharTalk|Yuyuko|How long were you planning on fooling yourself with that?}}
-{{CharTalk|Rui|Huh...?}}
-{{CharTalk|Yuyuko|The "Performance Festival" is our – Rinmeikan Performance Association's battle. It's already started, Rui.}}
-{{CharTalk|Rui|Huh?}}
-{{CharTalk|Yuyuko|Tamao-senpai...}}
-{{CharTalk|Yuyuko|She went over to declare war.}}
-{{CharTalk|Rui|Declare...war?}}
-{{CharTalk|Yuyuko|"Take down all the powerful schools present and then our Rinmeikan Performance Association will release the best brilliance—"}}
-{{CharTalk|Yuyuko|"The lead of the "Performance Festival" is ours."}}
-{{CharTalk|Yuyuko|This is what Tamao-senpai said.}}
-{{CharTalk|Rui|She said that...?!}}
-{{CharTalk|Yuyuko|She did... She's prepared for it. And so are Fumi-senpai and Ichie-san.}}
-{{CharTalk|Yuyuko|Didn't you feel anything during the script reading?}}
-{{CharTalk|Yuyuko|Didn't you see her eyes, her expression, her voice, her acting... her resolution?}}
-{{CharTalk|Yuyuko|She lunged at everyone – all the talented actors – with her acting during the reading...}}
-{{CharTalk|Yuyuko|She's prepared to attack everyone and stop their breath with her performance in order to become the lead in the "Performance Festival".}}
-{{CharTalk|Yuyuko|Even if it means fighting with the members of her own Performance Association...}}
-{{CharTalk|Rui|...!}}
-{{CharTalk|Yuyuko|That's why no one is practicing with one another.}}
-{{CharTalk|Yuyuko|The time to be chummy is gone. It's time to polish your skills and be assertive.}}
-{{CharTalk|Yuyuko|Did you really think she went over there to talk about the good old days? Our seniors have grown.}}
-{{CharTalk|Rui|Is that why she acted so coldly when I said I'd practice with her...?}}
-{{CharTalk|Rui|I get it, but...}}
-{{CharTalk|Rui|If that's how she really feels, why didn't she tell me?}}
-{{CharTalk|Yuyuko|...It's too late for that.}}
-{{CharTalk|Yuyuko|Don't be spoiled. No one, not even I, can allow themselves to help each other.}}
-{{CharTalk|Rui|...!}}
-{{CharTalk|Rui|"There's nothing you can do to help me"...!}}
-{{CharTalk|Yuyuko|...That's what she said to you...}}
-{{CharTalk|Yuyuko|It means that the way you are now, you're of no help to her.}}
-{{CharTalk|Rui|That's...}}
-{{CharTalk|Yuyuko|Tamao-senpai can be very strict. It's like she's "Death" itself.}}
-{{CharTalk|Yuyuko|......}}
-{{CharTalk|Yuyuko|There's a story called "Shinigami", meaning "Death", in rakugo...}}
-{{CharTalk|Yuyuko|If you see Death sitting next to a sick man, it means that man hasn't much time left to live.}}
-{{CharTalk|Yuyuko|You remind me of the sick man.}}
-{{CharTalk|Yuyuko|If you're not ready to defeat the other performers...}}
-{{CharTalk|Yuyuko|You'll die in vain on the stage. You have no right to carry the honor of Rinmeikan nor to stand on the stage.}}
-{{CharTalk|Yuyuko|So, please...}}
-{{CharTalk|Yuyuko|Consider this warning my final notice, Rui Akikaze.}}
-{{CharTalk|Rui|Yukko...!}}
-|-|
-Part 8=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 8</span>
-{{CharTalk|Elle|Revue...}}
-{{CharTalk|Elle|A spellbinding performance conjured out of song and dance...}}
+Part 6
+=
+<span style="font-weight: bold; font-size: 20px;" >Baseball Girl</span>
+{{CharTalk|Junna|...No matter how it turns out, this is it.}}
+{{CharTalk|Mahiru|Oh, sorry...! Before we start the match, can I say something first?}}
+{{CharTalk|Hikari|What is it?}}
+{{CharTalk|Mahiru|Um, thank you for today!}}
+{{CharTalk|Mahiru|And... Sorry if I sound rude, but...}}
+{{CharTalk|Mahiru|I won't give up! I'll show you the kind of baseball girl I am through this match!!}}
+{{CharTalk|Hikari|Hm... Sure. All right then...}}
+{{CharTalk|Karen|Play ball!!}}
 <hr>
-{{CharTalk|Andrew|The one who shows the most brilliant Revue and lights the fire in the young girl's heart...}}
-{{CharTalk|Elle|—Will be on the path to become the "Unknown Lead".}}
-{{CharTalk|Elle & Andrew|Revue has begun.}}
+{{CharTalk|Claudine|Hi-yah!}}
+{{CharTalk||*CLINK*}}
+{{CharTalk|Maya|Over there, Hoshimi-san!}}
+{{CharTalk|Kaoruko|What a shot! ...Oh no, she's not gonna make it!}}
+{{CharTalk|Junna|Ngh!!}}
+{{CharTalk||*slide*}}
+{{CharTalk|Kaoruko|No way, she caught it...!}}
+{{CharTalk|Junna|Heh heh, it's hard to beat a person who never gives up...  A quote by Babe Ruth.}}
+{{CharTalk|Claudine|Argh... I thought it'd be a home run!}}
+{{CharTalk|Futaba|No points since it was caught. Their movements have improved from last time.}}
+{{CharTalk|Futaba|Moreover, I can't read Karen's pitches! Is this...}}
+{{CharTalk|Nana|The result of their special training?}}
+{{CharTalk|Hikari|...That's not all there is to it.}}
+{{CharTalk|Hikari|There's no holding back or hesitation in her lead. She can read what pitches everyone is bad at or excels at.}}
+{{CharTalk|Claudine|Hmm. Meaning something has changed with her?}}
+{{CharTalk|Futaba|Looks like it. So this is what she meant...}}
+{{CharTalk|Futaba|This is Mahiru Tsuyuzaki's baseball girl!!}}
+{{CharTalk|Kaoruko|All right, final inning and we're in the lead by 1 point...! Captain, Karen-han, we're counting on you. Don't let them hit it!}}
+{{CharTalk|Claudine|Non! Not so fast. The bases are loaded.}}
+{{CharTalk|Futaba|The next batter up is...}}
+{{CharTalk|Hikari|......}}
+{{CharTalk|Nana|Hikari-chan...!}}
+{{CharTalk||*swish*}}
+{{CharTalk|Hikari|...Come at me.}}
+{{CharTalk|Karen|HAAAH!}}
+{{CharTalk||*CLINK*}}
+{{CharTalk|Kaoruko|She hit it?!}}
+{{CharTalk|Junna|Wait, look at the ball!}}
+{{CharTalk|Maya|Yes, it's a foul.}}
+{{CharTalk|Maya|But look at how far it went. If she got the timing right, it might've been a long hit...!}}
+{{CharTalk|Karen|*huff* *huff*}}
+{{CharTalk|Mahiru|(Strike, strike, foul... Let's make the next pitch the last one, Karen-chan!)}}
+{{CharTalk|Karen|(Okay... But based on the current flow, a straight pitch might let Hikari-chan hit!)}}
+{{CharTalk|Karen|(So I should do a curve for the last one too...)}}
+{{CharTalk|Mahiru|(You can't, Karen-chan! Kagura-san definitely knows how Karen-chan feels.)}}
+{{CharTalk|Mahiru|(You mustn't throw a curve ball out of worry!)}}
+{{CharTalk|Karen|(But...)}}
+{{CharTalk|Mahiru|(Don't worry, I know you're an exceptional pitcher, that's why...)}}
+{{CharTalk|Mahiru|(Let's win this together!!)}}
+{{CharTalk|Karen|...!}}
+{{CharTalk||*swish*}}
+{{CharTalk|Junna|(She's winding up!!)}}
+{{CharTalk|Maya|(That form... A straight pitch?!)}}
+{{CharTalk|Kaoruko|(Right in the center? Is she for real?!)}}
+{{CharTalk||*THWAP*}}
+{{CharTalk|Nana|S-Strike...}}
+{{CharTalk|Junna|Batter out...!}}
+{{CharTalk|Karen|It's over!!}}
+{{CharTalk|All|Whoa...!!!}}
+{{CharTalk|Futaba|You did it! Congrats!!}}
+{{CharTalk|Kaoruko|Hey, we're your opponents. You shouldn't be congratulating us.}}
+{{CharTalk|Junna|Heh heh yeah, but...}}
+{{CharTalk|Karen|Yeah! That was so fun!!}}
+{{CharTalk|Mahiru|Thank you... It's all thanks to everyone...}}
+{{CharTalk|Junna|You don't need to thank us.}}
+{{CharTalk|Junna|We did it for ourselves... We showed brilliance for the team.}}
+{{CharTalk|Hikari|...I'll accept the result of today's match, but I have no intention of losing.}}
+{{CharTalk|Hikari|I haven't given up on being the catcher... being Karen's catcher.}}
+{{CharTalk|Mahiru|Heh heh, bring it on!}}
+{{CharTalk|Claudine|Then are we good?}}
+{{CharTalk|Claudine|I want to start practice already. Look out on the field... The first years are waiting.}}
+{{CharTalk|Karen|Oh...!!}}
+{{CharTalk|Junna|She's right... Captain?}}
+{{CharTalk|Mahiru|Okay! Gather 'round...!!}}
 <hr>
-{{CharTalk|Yuyuko|One — Feelings hidden within ourselves. Two — The stage brought them together.}}
-{{CharTalk|Yuyuko|Three — For our future play. Four — I will show you the strength of traditional theater!}}
-{{CharTalk|Yuyuko|Rinmeikan Performance Association – Yuyuko Tanaka! I will put my life on the line!}}
+{{CharTalk|Junna|(The hot, melting sun beams down.)}}
+{{CharTalk|Hikari|(Burning heat that makes it difficult to breathe.)}}
+{{CharTalk|Mahiru|(Our overflowing feelings are all sucked up by the field, becoming one...)}}
+{{CharTalk|Junna & Mahiru & Hikari|(That's right. The field "you" stand on is where I belong...)}}
 <hr>
-{{CharTalk|Rui|Drawn by a distant pearl, I rested my blade.}}
-{{CharTalk|Rui|Distance awakens me. I draw my blade and run to you.}}
-{{CharTalk|Rui|Rinmeikan Performance Association – Rui Akikaze! My life is on this stage!}}
-<hr>
-{{CharTalk|Rui|Yukko...!}}
-{{CharTalk|Yuyuko|......}}
-{{CharTalk|Elle|"Timeless Play"...}}
-{{CharTalk|Andrew|Struggling for the "Unknown Lead"—}}
-{{CharTalk|Elle|Sing.}}
-{{CharTalk|Andrew|And dance.}}
-{{CharTalk|Elle & Andrew|Battle for brilliance.}}
-<hr>
-{{CharTalk|Yuyuko|Hah!}}
-{{CharTalk|Rui|Ngh!}}
-{{CharTalk|Yuyuko|You're lacking power in your moves. You're wavering.}}
-{{CharTalk|Rui|Yukko...!}}
-{{CharTalk|Yuyuko|This Revue is for the "Unknown Lead"... This isn't the place for people who are unsure about standing on the stage!}}
-{{CharTalk|Rui|Ngh! Yukko... What about you?!}}
-{{CharTalk|Rui|Do you want to be the "Unknow Lead"?! Do you have a reason for it?!}}
-{{CharTalk|Yuyuko|Of course. Because I want to complete the "Timeless Play".}}
-{{CharTalk|Yuyuko|I'm sure our seniors feel the same way.}}
-{{CharTalk|Rui|...?!}}
-{{CharTalk|Yuyuko|The closure of the Rinmeikan Girls School Performance Department... It must've been even more painful for our seniors to lose something this important to us.}}
-{{CharTalk|Yuyuko|Something that will never disappear, never die. To engrave our own existence on the stage...}}
-{{CharTalk|Rui|To challenge...the "Timeless Play".}}
-{{CharTalk|Yuyuko|But the stage is alive...}}
-{{CharTalk|Yuyuko|We don't know if Tamao-senpai and the others will be able to revive the Performance Department.}}
-{{CharTalk|Rui|Y-Yukko!}}
-{{CharTalk|Yuyuko|I'm just saying it's a possibility.}}
-{{CharTalk|Yuyuko|In which case... Are you planning on saying goodbye to your dreams together with our seniors?}}
-{{CharTalk|Rui|Huh...?}}
-{{CharTalk|Yuyuko|No, right?}}
-{{CharTalk|Yuyuko|We take over...the dream of reviving Rinmeikan's Performance Department.}}
-{{CharTalk|Rui|Take...over...?}}
-{{CharTalk|Yuyuko|We must be the ones to shoulder it – Tamao-senpai, Fumi-senpai, and Ichie-san's wish.}}
-{{CharTalk|Rui|...!}}
-{{CharTalk|Yuyuko|Our seniors have already been shouldering this dream. That's why they can't afford to carry you too.}}
-{{CharTalk|Yuyuko|The way you rely on Tamao-senpai now—!}}
-{{CharTalk|Rui|T-That's impossible! Because...}}
-{{CharTalk|Rui|Because... We're still just first years!}}
-{{CharTalk|Rui|The dream of reviving Rinmeikan's Performance Department... That burden is too much for me!}}
-{{CharTalk|Yuyuko|Rui...}}
-{{CharTalk|Rui|If it's a stage without Tamao-senpai, I...!}}
-{{CharTalk|Rui|I mean, I got onto the stage to chase after Tamao-senpai. I only seriously started doing theater after joining the school...}}
-{{CharTalk|Yuyuko|So?}}
-<hr>
-{{CharTalk|Yuyuko|...Do you know about Seisho's Banana-san?}}
-{{CharTalk|Rui|...What about Daiba-san?}}
-{{CharTalk|Yuyuko|She didn't really start standing on the stage until after she'd entered Seisho Music Academy.}}
-{{CharTalk|Rui|What...? She didn't...?!}}
-{{CharTalk|Yuyuko|Blessed with an athletic body and long limbs. Height that makes everyone envious...}}
-{{CharTalk|Yuyuko|Rui... You have something that everyone wants, but could never have.}}
-{{CharTalk|Yuyuko|Yet...you only act spoiled.}}
-{{CharTalk|Yuyuko|Tamao-senpai will graduate one day and then it'll be your turn to be a senior.}}
-{{CharTalk|Yuyuko|When Tamao-senpai is gone, who will you be?}}
-{{CharTalk|Yuyuko|When there's no one else to call you "Rui-chan", who will you become?}}
-{{CharTalk|Rui|Ngh...!}}
-{{CharTalk|Rui|*huff*... *huff*...}}
-{{CharTalk|Rui|So... this is...Yukko's determination...}}
-|-|
-Part 9=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 9</span>
-{{CharTalk|Yuyuko|Let's end this. Those who don't belong here should get off the stage.}}
-{{CharTalk|Rui|N-No... Don't make me go...}}
-{{CharTalk|Rui|Don't leave me behind...Tamao-senpai!}}
-<hr>
-<hr>
-{{CharTalk|Yuyuko|......}}
-{{CharTalk|Yuyuko|...Ugh, this is annoying...}}
-{{CharTalk|Yuyuko|I'm the one who's standing on the stage with you right now.}}
-{{CharTalk|Rui|Huh...?}}
-{{CharTalk|Yuyuko|You see... I like your acting.}}
-{{CharTalk|Yuyuko|It's clumsy and pure... But you always try your hardest and occasionally appear really big...}}
-{{CharTalk|Yuyuko|Just like you love Tamao-senpai...}}
-{{CharTalk|Yuyuko|I also love you on stage.}}
-{{CharTalk|Yuyuko|Kichi Miroku, Onikage, Urashima Taro, Nightingale, all of them...}}
-{{CharTalk|Yuyuko|Those roles all happened because of you, Rui Akikaze. All my favorite characters.}}
-{{CharTalk|Yuyuko|Yet... You say you can no longer play those roles without Tamao-senpai. If those performances were all done for Tamao-senpai...}}
-{{CharTalk|Yuyuko|Those of "us" who have had our hearts stolen by the Stage Girl Rui Akikaze... How pathetic.}}
-{{CharTalk|Rui|Yuk...ko... Are you crying...?}}
-{{CharTalk|Yuyuko|...Oh, can't have that. I let my emotions get the best of me.}}
-{{CharTalk|Yuyuko|It's time to end this. We can't have someone who doesn't belong remain on this stage.}}
-{{CharTalk|Yuyuko|As you are right now you're not able to shoulder the Rinmeikan Performance Association with me.}}
-{{CharTalk|Yuyuko|I can't move forward either.}}
-{{CharTalk|Yuyuko|If you're the "Rui-chan" who can't perform by yourself, then—!!}}
-<hr>
-{{CharTalk|Rui|...I won't quit.}}
-{{CharTalk|Rui|...I'm not quitting.}}
-{{CharTalk|Yuyuko|......}}
-{{CharTalk|Rui|Just like you said... For me, the stage is Tamao-senpai.}}
-{{CharTalk|Rui|But if I quit... I won't be able to stand on that stage again.}}
-{{CharTalk|Rui|I... I don't want that!}}
-{{CharTalk|Yuyuko|...!}}
-{{CharTalk|Rui|I entered this world because I admire Tamao-senpai! I chased after her and have come this far!}}
-{{CharTalk|Rui|And... It taught me about the fun, intensity, and enjoyment that is the stage.}}
-{{CharTalk|Rui|The excitement that comes from becoming someone that isn't yourself.}}
-{{CharTalk|Rui|The joy from creating something together with everyone. The cheers and overflow of applause from those who support us—!}}
-{{CharTalk|Rui|Now that I know all about that, there's no way I could step down from this stage.}}
-{{CharTalk|Rui|I can't do it, Yukko!}}
-{{CharTalk|Elle|......}}
-{{CharTalk|Elle|"...Now that I know."}}
-{{CharTalk|Elle|"I can no longer pretend that I don't."}}
-{{CharTalk|Andrew|Elle...!}}
-{{CharTalk|Elle|The stage girls' Revue has lit the fire... A story is being born within the young girl—!}}
-{{CharTalk|Yuyuko|Haha, looks like you've finally mustered up the determination.}}
-{{CharTalk|Yuyuko|There's no way you could step down... Are you being serious?}}
-{{CharTalk|Rui|I'm serious!}}
-{{CharTalk|Yuyuko|Even if Tamao-senpai is gone?}}
-{{CharTalk|Rui|Even when...Tamao-senpai is gone!}}
-{{CharTalk|Yuyuko|Even if aiming for the "Unknown Lead"... means you may have to fight Tamao-senpai one day?}}
-{{CharTalk|Rui|......!}}
-{{CharTalk|Rui|Fight Tamao-senpai...one day...}}
-{{CharTalk|Rui|Even if I have to fight Tamao-senpai!}}
-<hr>
-{{CharTalk|Rui|*huff*... *huff*...}}
-{{CharTalk|Yuyuko|..."Position Zero".}}
-{{CharTalk|Rui|Huh? Oh...!}}
-{{CharTalk|Rui|P-Position Zero!}}
-{{CharTalk|Yuyuko|Heh heh.}}
-{{CharTalk|Elle|The brilliance from the stage girls brought out fragments of plays...}}
-{{CharTalk|Andrew|This is..."Creation" and "Sacrifice".}}
-{{CharTalk|Elle|Yes.}}
-{{CharTalk|Elle|The "Revue of Creation and Sacrifice" is over.}}
-<hr>
-{{CharTalk|Yuyuko|Phew... My words finally got across.}}
-{{CharTalk|Yuyuko|Now I can move forward too.}}
-{{CharTalk|Rui|Yukko... What are you...?}}
-{{CharTalk|Yuyuko|I just have some minor business to take care of. I told you, didn't I? I want to complete the "Timeless Play".}}
-{{CharTalk|Rui|Then... Is that the reason why you were riling me up...?}}
-{{CharTalk|Yuyuko|No, don't even try to think that I was holding back or lost on purpose.}}
-{{CharTalk|Yuyuko|This was a result of us singing, dancing, and battling with all our might.}}
-{{CharTalk|Rui|Yukko...}}
-{{CharTalk|Yuyuko|Oh, and one more thing.}}
-{{CharTalk|Yuyuko|"Ajara kamokuren Ruruiruirui Tekerettsunopaa."}}
-{{CharTalk|Rui|Huh? What?}}
-{{CharTalk|Yuyuko|It's a spell from the "Shinigami" rakugo to ward off Death.}}
-{{CharTalk|Yuyuko|Now you won't lose. To anyone – not even "Death".}}
-{{CharTalk|Rui|Yukko...}}
-{{CharTalk|Rui|But... I'm not sure if I'll be able to fight properly...against "Death".}}
-{{CharTalk|Yuyuko|Well, people don't change so easily. So you wouldn't be able to leave Tamao-senpai's side so easily either.}}
-{{CharTalk|Yuyuko|So all you can do is to start with what you're able to do now.}}
-{{CharTalk|Rui|What I'm able to do... Tamao-senpai said that to me too.}}
-{{CharTalk|Rui|...I'll give it a try.}}
-{{CharTalk|Rui|First, I've gotta catch up. Just like the Laelaps hound!}}
-{{CharTalk|Yuyuko|But then that's no different from the old Rui.}}
-{{CharTalk|Rui|People don't change so easily... Right?}}
-{{CharTalk|Yuyuko|Well, well. I guess that's it for me.}}
-{{CharTalk|Rui|Heh heh... Thanks, Yukko!}}
-{{CharTalk|Rui|I'll give it a shot. I'll put in all my feelings towards Tamao-senpai!}}
-|-|
-Part 10=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 10</span>
-<hr>
-<br><span style="font-weight: bold; font-size: 16px;" >Arcana Arcadia Act 1</span>
-{{CharTalk|Girl|This— Might have once been a dream, or perhaps a memory from here on.}}
-{{CharTalk|Girl|I woke up in a desolate desert.}}
-{{CharTalk|Girl|Why...am I here?}}
-{{CharTalk|Girl|...I don't know.}}
-{{CharTalk|Girl|Where...did I come from? What did I come here for?}}
-{{CharTalk|Girl|...I don't know.}}
-{{CharTalk|Girl|Just...who am I?}}
-{{CharTalk|Girl|......}}
-{{CharTalk|Girl|I don't know anything.}}
-{{CharTalk|Girl|But...}}
-{{CharTalk|Girl|But I have to keep moving.}}
-{{CharTalk|Girl|To where?}}
-{{CharTalk|Girl|...I don't know. But I have to go.}}
-{{CharTalk|Girl|Because I've made a "promise".}}
-{{CharTalk|Girl|...With who?}}
-{{CharTalk|Girl|I don't know...but I told "them".}}
-{{CharTalk|Girl|'I'll be waiting. At the end of the moonlight... At the promised place – the secret paradise.'}}
-{{CharTalk|Girl|That's why...I started walking.}}
-<hr>
-{{CharTalk|Doctor|"Oh... You're awake."}}
-{{CharTalk|Girl|When I wake up again, I see a gentle smile.}}
-{{CharTalk|Girl|"Where am I...?"}}
-{{CharTalk|Doctor|"This is my clinic. You passed out on the outskirts of town."}}
-{{CharTalk|Doctor|"You were plagued by the disease for three days and three nights... But it looks like the worst has passed. I'm glad the medicine worked."}}
-{{CharTalk|Girl|"You're the one who saved me..."}}
-{{CharTalk|Doctor|"Aw, shucks. It's a doctor's job to save people."}}
-{{CharTalk|Doctor|"What's your name? Why were you passed out in such a place?"}}
-{{CharTalk|Girl|"...I don't know."}}
-{{CharTalk|Doctor|"You don't know?"}}
-{{CharTalk|Girl|"Yes... My name, where I came from, where I'm supposed to go..."}}
-{{CharTalk|Doctor|"You don't know? Could it be the high fever you had from the disease has affected your memory somehow...?"}}
-{{CharTalk|Doctor|"If you've lost your memory, then this is a new discovery! I must investigate this further... Oh."}}
-{{CharTalk|Doctor|"S-Sorry. When I start thinking about illnesses, I get very excited..."}}
-{{CharTalk|Doctor|"What a troublesome disease."}}
-{{CharTalk|Girl|"Heh heh."}}
-{{CharTalk|Doctor|"Oh, you finally laughed. Looks like you might be able to have some soup for dinner at least."}}
-{{CharTalk|Girl|"Um... Can I ask you something?"}}
-{{CharTalk|Doctor|"What is it?"}}
-{{CharTalk|Girl|"This disease you've been talking about..."}}
-{{CharTalk|Doctor|"Oh, I'm talking about 'delusional fever'."}}
-{{CharTalk|Doctor|"An epidemic that started spreading like wildfire a few months ago. It's a terrifying disease that causes high fevers. Some patients don't wake up from it and pass away."}}
-{{CharTalk|Girl|"Delusional fever..."}}
-{{CharTalk|Doctor|"People call it an uncurable illness... I lost my father, mother, and sister, to this disease."}}
-{{CharTalk|Girl|"...!"}}
-{{CharTalk|Doctor|"After that, I dedicated all my time to researching this disease...and managed to make a specific medicine for it."}}
-{{CharTalk|Doctor|"So then... In order to save people who are suffering from this disease, I've been traveling all over the nation."}}
-{{CharTalk|Doctor|"That's how I found you."}}
-{{CharTalk|Girl|"Thank you, doctor... If you hadn't found me, it would've been the end of my journey."}}
-{{CharTalk|Doctor|"Journey? Were you on your way to somewhere?"}}
-{{CharTalk|Girl|"...I don't know."}}
-{{CharTalk|Doctor|"I see. Well, you've definitely recovered. You should take the time to rest now."}}
-{{CharTalk|Doctor|"...But whether or not you'll have the time depends on 'her'."}}
-{{CharTalk|Girl|"Huh...?"}}
-{{CharTalk|High Priestess|"That's right – your days of rest won't come. Nevermore—"}}
-{{CharTalk|Girl|Vatican knights wearing armor and spears appear together with the voice. And then—}}
-{{CharTalk|Doctor|"Looks like she's caught up after all... High Priestess!"}}
-{{CharTalk|High Priestess|"I've finally found you, felon."}}
-{{CharTalk|Doctor|"Nrgh... Let me go! I haven't committed any crimes!"}}
-{{CharTalk|High Priestess|"My, the audacity. You quack who's been misleading the people with your suspicious drugs..."}}
-{{CharTalk|High Priestess|"You've committed the 'crime of not believing in the miracle of God'..."}}
-{{CharTalk|High Priestess|"Saving people is the miracle of God – man cannot save another man."}}
-{{CharTalk|High Priestess|"Now, take him."}}
-{{CharTalk|Doctor|"If I'm a sham, then the Magician you've hired is an even bigger sham for always making things up!"}}
-{{CharTalk|High Priestess|"Your abuse toward me... I suppose I can take it as 'lese majesty'?"}}
-{{CharTalk|High Priestess|"Let's go...to the burning hill."}}
-{{CharTalk|Girl|"Oh... Doctor!"}}
-<hr>
-{{CharTalk|Girl|Unable to leave the bed, I was left behind... And the doctor was taken away by the High Priestess.}}
-|-|
-Part 11=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 11</span>
-{{CharTalk||*knock knock*}}
-{{CharTalk|High Priestess|"Who is it?"}}
-{{CharTalk|Magician|"It's me, Your Eminence."}}
-{{CharTalk|High Priestess|"Oh, Magician. Come in."}}
-{{CharTalk|Magician|"Excuse me."}}
-{{CharTalk|Magician|"The doctor has been detained in the underground prison."}}
-{{CharTalk|Magician|"The sentence will be executed tomorrow morning without delay—"}}
-{{CharTalk|High Priestess|"Good."}}
-{{CharTalk|Magician|"Medicine is a miracle that can be seen by the eye. It violates and denies the work of God."}}
-{{CharTalk|Magician|"Those who cast doubt on Your Eminence's authority..."}}
-{{CharTalk|High Priestess|"Oh my... Are you going to treat me like a barbarian too? A philistine who's filled with suspicions and clings to the Vatican's authority?"}}
-{{CharTalk|Magician|"Not at all."}}
-{{CharTalk|Magician|"I'm merely trying to fulfil my role as Your Eminence's aide."}}
-{{CharTalk|High Priestess|"That's fine."}}
-{{CharTalk|High Priestess|"Then, I shall also fulfill my role."}}
-{{CharTalk|High Priestess|"Eradicating the disease and saving man from death is a miracle of God. Only faith in God can save man."}}
-{{CharTalk|High Priestess|"Other possibilities... Other values... It only weakens one's loyalty to God."}}
-{{CharTalk|High Priestess|"Any possibility of salvation that's not faith... It can only be whisperings of the devil."}}
-{{CharTalk|High Priestess|"Only death awaits those who deny the work of God."}}
-{{CharTalk|Magician|"Most certainly."}}
-{{CharTalk|Magician|"Once that doctor is executed, Your Eminence's path will be secure—"}}
-{{CharTalk|Magician|"How about another glass of red wine to celebrate. This is the finest wine, granted by the His Holiness."}}
-{{CharTalk|High Priestess|"...Yes, let's."}}
-<hr>
-{{CharTalk|Girl|At that time, the doctor was in prison.}}
-{{CharTalk|Doctor|"Ugh... Open this! Open this door!"}}
-{{CharTalk|Doctor|"There are many patients with delusional fever who need my medicine! There are lives that can be saved!"}}
-{{CharTalk|Doctor|"Is God's influence more important than those who are dying?! Answer me, High Priestess!"}}
-{{CharTalk|Magician|"...Your abuse just now is lese majesty and has just earned you another 50 years to your sentence."}}
-{{CharTalk|Magician|"But I suppose it carries no meaning for one who is to be hanged tomorrow."}}
-{{CharTalk|Doctor|"...?! Who is it?"}}
-{{CharTalk|Magician|"...The sham Magician hired by the High Priestess."}}
-{{CharTalk|Doctor|"...What did you just say? Tomorrow morning, I will..."}}
-{{CharTalk|Magician|"That's right. You are to be hanged and burned at the stake for the crime of defiling God's influence."}}
-{{CharTalk|Doctor|"Ridiculous... This is all ridiculous. It's all a tasteless farce!"}}
-{{CharTalk|Magician|"It's meaningless to shout. Her Eminence has had a great deal of wine and is asleep."}}
-{{CharTalk|Doctor|"Are you messing with me?!"}}
-{{CharTalk|Magician|"..."}}
-{{CharTalk|Magician|"Doctor... So you don't want to die?"}}
-{{CharTalk|Doctor|"What? Of course I don't."}}
-{{CharTalk|Doctor|"But I'm not afraid of death. If I were, I wouldn't be able to treat delusional fever."}}
-{{CharTalk|Doctor|"If I die, so will those lives that could be saved. To have my ambition fall through... That's what's regrettable."}}
-{{CharTalk|Magician|"..."}}
-{{CharTalk|Magician|"You're right, this is a farce. This story has been decided a long time ago..."}}
-{{CharTalk|Magician|"But... What if it could be changed?"}}
-{{CharTalk|Doctor|"...What?"}}
-{{CharTalk|Magician|"You'll be the main character of this farce."}}
-{{CharTalk|Magician|"In exchange, you'll be cursed."}}
-{{CharTalk|Magician|"Happiness as a person, joy... Throw all of that away and you'll be able to walk down an even harsher path as the main character."}}
-{{CharTalk|Magician|"What do you say? Do you have the determination to go down that path?"}}
-{{CharTalk|Doctor|"...Determination, you say?"}}
-{{CharTalk|Doctor|"...I've had it long before I'd started walking down this path."}}
-{{CharTalk|Magician|"...That's fine."}}
-{{CharTalk|Magician|"..."}}
-{{CharTalk|Magician|"—You simply need to yell the words I've just said. The moment death approaches."}}
-{{CharTalk|Magician|"Whether or not you choose to believe me... Whether you'll become the main character – it all depends on you."}}
-{{CharTalk|Doctor|"...Why?"}}
-{{CharTalk|Doctor|"Why...would you do this for me?"}}
-{{CharTalk|Magician|"..."}}
-{{CharTalk|Magician|"I've also made up my mind—"}}
-{{CharTalk|Doctor|"..."}}
-<hr>
-{{CharTalk|Girl|And then morning came. The morning where the hanged doctor is to be executed.}}
-<hr>
-{{CharTalk|High Priestess|"Now is the time to test your faith in God!"}}
-{{CharTalk|High Priestess|"The delusional fever not subsiding is evidence of your wavering faith and loyalty..."}}
-{{CharTalk|High Priestess|"And the one who used dubious tricks to cast doubt in the people's hearts...is this 'Hanged Man'."}}
-{{CharTalk|High Priestess|"Now, throw rocks at and set fire to this 'Hanged Man'."}}
-{{CharTalk|High Priestess|"Then your faith will be reignited and your loyalty will become steadfast!"}}
-{{CharTalk|Girl|"Please stop!"}}
-{{CharTalk|Doctor|"...!"}}
-{{CharTalk|Girl|"Why would you do such a terrible thing?! That man saved my life!"}}
-{{CharTalk|Girl|"Many other people have also been saved by him... So... Why?!"}}
-{{CharTalk|Magician|"Young girl, step back. It's dangerous here."}}
-{{CharTalk|Girl|"But...!"}}
-{{CharTalk|Magician|"Believe. Not in God...but in him."}}
-{{CharTalk|Girl|"Huh?"}}
-{{CharTalk|High Priestess|"Now, let's begin."}}
-<hr>
-{{CharTalk|Girl|I try to stand my ground, but I am pushed away by the crowd and a fire is lit by his feet.}}
-|-|
-Part 12=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 12</span>
-{{CharTalk|High Priestess|"Now, repent in the flames."}}
-{{CharTalk|High Priestess|"Only the miracle of God can save man. Those who deny that are nothing but a criminal."}}
-{{CharTalk|High Priestess|"If you aren't a criminal, then God would save you."}}
-{{CharTalk|Doctor|"But... You're saying that my being burned is evidence that I'm a criminal?"}}
-{{CharTalk|Doctor|"A farce. This is all a farce. Ngh... Ahhhhh!"}}
-{{CharTalk|High Priestess|"No. That flame is the reality. The flame is the truth."}}
-{{CharTalk|High Priestess|"There is no other miracle that can save man except for faith."}}
-{{CharTalk|Doctor|"...No."}}
-{{CharTalk|Doctor|"It is people...who save people."}}
-{{CharTalk|Doctor|"Even in despair and shattered, I still shoulder the responsibility and go down the path I believe in. Only a person's belief can bring light to people."}}
-{{CharTalk|High Priestess|"You're wrong! Those are words of the devil! Everyone, you mustn't listen to him!"}}
-{{CharTalk|Doctor|"Deny it all you want, but whether or not this path leads to Hell—"}}
-{{CharTalk|Doctor|"I...am not going to stop walking!!"}}
-<hr>
-{{CharTalk|Magician|"Yes... Those words..."}}
-{{CharTalk|Magician|"You are the main character – 'Hanged Man'..."}}
-{{CharTalk|Girl|After saying those words, the Magician collapses.
-And then—}}
-{{CharTalk||*thump* *thump*}}
-{{CharTalk|Devil|"'Not going to stop walking'..."}}
-{{CharTalk|Devil|"—'The show must go on.'"}}
-{{CharTalk|Devil|"I've heard you loud and clear. Here's the contract!"}}
-{{CharTalk|Doctor|"W-What is this black shadow—"}}
-{{CharTalk|Devil|"The Devil has come to save you, 'Hanged Man'."}}
-{{CharTalk|Doctor|"The Devil? Me?! Why?!"}}
-{{CharTalk|Devil|"Why? Because you said the oath."}}
-{{CharTalk|Doctor|"'Not going to stop walking'...!"}}
-{{CharTalk|Devil|"Correct. And a soul has been used for the exchange. All that's left is to fulfill the contract."}}
-{{CharTalk|Doctor|"Soul...?"}}
-{{CharTalk|Devil|"Oh... Yeah, that Magician's soul."}}
-{{CharTalk|Doctor|"What?!"}}
-{{CharTalk|Devil|"One of the delusional fever patients you saved around two months ago... The redheaded young girl."}}
-{{CharTalk|Devil|"That was the magician's granddaughter."}}
-{{CharTalk|Doctor|"...!"}}
-{{CharTalk|Devil|"The magician knew while serving the High Priestess that the skill of man is what can save people."}}
-{{CharTalk|Devil|"That's why she struck a deal with me. To save the Hanged Man in exchange for her life..."}}
-{{CharTalk|Devil|"To change this world."}}
-{{CharTalk|Doctor|"...!"}}
-{{CharTalk|Devil|"Heh heh... To think the sham Magician's last act is to call upon the Devil using real magic. How clever."}}
-{{CharTalk|High Priestess|"You... Magician, how could you betray me at the last moment...!"}}
-{{CharTalk|High Priestess|"Devil, begone!"}}
-{{CharTalk|Devil|"Oh, who should be the one to leave? High Priestess."}}
-{{CharTalk|Devil|"The freed 'Hanged Man' uses his skills to save the people, meaning the values will change."}}
-{{CharTalk|Devil|"You gather faith through fear of burning at the stake and boast that only God can save man. High Priestess, your services are no longer needed."}}
-{{CharTalk|Devil|"If you've finished playing your role... It's time for you to step off the stage."}}
-{{CharTalk|High Priestess|"Eek... G-Get away from me, Devil! S-Someone, save me!"}}
-{{CharTalk|Devil|"Aren't you the one who hanged those who begged for their lives in the name of God, and burned them at the stake?"}}
-{{CharTalk|Devil|"Now it's your turn to dance as the criminal. On the stage of Hell, forevermore—"}}
-{{CharTalk|High Priestess|"No... No.... Ahhhhhh!"}}
-<hr>
-{{CharTalk|Devil|"'Hanged Man', our contract has been fulfilled."}}
-{{CharTalk|Devil|"Let's meet again in Hell when you have fulfilled your role one day."}}
-{{CharTalk|Doctor|"Yes... I'm grateful for your help, Devil."}}
-{{CharTalk|Girl|I thought it was enveloped in flames, but before I knew it, the High Priestess and Vatican knights had all disappeared.}}
-{{CharTalk|Girl|The Devil must have taken them to Hell.}}
-{{CharTalk|Girl|And that's how the doctor...the "Hanged Man" was saved.}}
-{{CharTalk|Doctor|"A life saved by the Devil... My role as the main character..."}}
-{{CharTalk|Doctor|"Create an era with no God, destined to face challenges – this IS a curse."}}
-{{CharTalk|Girl|"...No."}}
-{{CharTalk|Girl|"That's definitely...a promise."}}
-{{CharTalk|Girl|"I think it's a 'promise' with someone dear to you."}}
-{{CharTalk|Doctor|"Promise... I see, a promise."}}
-{{CharTalk|Doctor|"...It's gonna get busy."}}
-{{CharTalk|Doctor|"I was given this life at the expense of the Magician, so I must save as many people as I can."}}
-{{CharTalk|Doctor|"Would you be willing to lend me a hand?"}}
-{{CharTalk|Girl|"Huh?"}}
-{{CharTalk|Doctor|"If you continue on this journey to save people, you may be able to find your memories some day..."}}
-{{CharTalk|Girl|"I'm sorry...I have to go. To the promised place."}}
-{{CharTalk|Doctor|"Huh?"}}
-{{CharTalk|Girl|"'I'll be waiting. At the end of the moonlight... At that promised place – the secret paradise.' ...That's the promise I made."}}
-{{CharTalk|Doctor|"...I see."}}
-{{CharTalk|Doctor|"Have a safe journey. Don't push yourself too hard."}}
-{{CharTalk|Girl|"Thank you. I definitely won't let this life that you've saved go to waste."}}
-<hr>
-{{CharTalk|Girl|With that, I part ways with the doctor and continue on my journey.}}
-{{CharTalk|Girl|The journey to an unknown place where someone is waiting for me.}}
-{{CharTalk|Girl|But the person I met taught me this—}}
-{{CharTalk|Girl|Even if this path leads to Hell—}}
-<hr>
-{{CharTalk|Doctor|I...am not going to stop walking.}}
-|-|
-Part 13=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 13</span>
-{{CharTalk|Lalafin|Let's see, my role is... Um...}}
-{{CharTalk|Lalafin|Not at this moment, but something that is in— Belongs in? Seen in...? The future...}}
-{{CharTalk|Lalafin|Feels like something that'd be nice to have...}}
-{{CharTalk|Lalafin|Not in a heavy way, but more like— Clink! A bright atmosphere?!}}
-{{CharTalk|Lalafin|And also...like...someone that's full of "hope"!}}
-{{CharTalk|Aruru|Lalafin, stop right there!}}
-{{CharTalk|Lalafin|What!?}}
-{{CharTalk|Tsukasa|You're explaining the role of "Hope", so you can't use the word 'hope', right?}}
-{{CharTalk|Lalafin|Ohh, that's right! Oops...}}
-{{CharTalk|Lalafin|Aw, this "Self Introduction Etude" is too difficult!}}
-{{CharTalk|Shizuha|Heh, I guess so.}}
-{{CharTalk|Shizuha|By giving a self introduction, you'll be able to gain clarity for your role and come up with a better picture.}}
-{{CharTalk|Shizuha|I thought this practice method would be perfect for the tricky roles this time.}}
-{{CharTalk|Shizuha|Right, Misora-chan?}}
-{{CharTalk|Misora|Yes! My family's theater troupe often does the same thing.}}
-{{CharTalk|Tsukasa|That said...you're right – it is a tricky role.}}
-{{CharTalk|Tsukasa|Lalafin's "Hope".}}
-{{CharTalk|Tsukasa|Misora's "Faith".}}
-{{CharTalk|Tsukasa|And my "Charity"...}}
-{{CharTalk|Tsukasa|We're playing three Major Arcana cards from the Visconti-Sforza tarot deck.}}
-{{CharTalk|Aruru|Yes, that's right! I didn't know about the Vi... Bi... Biscotti one!}}
-{{CharTalk|Tsukasa|It's Visconti-Sforza. I'm interested in fortune-telling, so I knew about it, but...}}
-{{CharTalk|Tsukasa|The most commonly used one that everyone knows is the Tarot of Marseilles with the 22 Major Arcana cards.}}
-{{CharTalk|Lalafin|Is it a really old tarot deck? That um... What was it again? Vi... Bi... Big Bang...?}}
-{{CharTalk|Tsukasa|Visconti-Sforza. And yes, it's the oldest one in the world.}}
-{{CharTalk|Tsukasa|Both the numbers and Arcana cards are different from the Marseille version. There's no information on the upright and reverse positions either.}}
-{{CharTalk|Lalafin|Ngh, there are too many unknown aspects.}}
-{{CharTalk|Aruru|That's what makes it interesting! It's because it's unknown that we can create something new!}}
-{{CharTalk|Aruru|Creating a new future at the ends of the barren wilderness! That's definitely our stage!}}
-{{CharTalk|Lalafin|A perfect casting for us from Frontier School of Arts!}}
-{{CharTalk|Aruru|It'll be rewarding! Rewarding for sure!}}
-{{CharTalk|Lalafin|Aruru... Well, yeah, you might be right!}}
-{{CharTalk|Tsukasa|Amemiya-san from the script team said that to us, right?}}
-{{CharTalk|Tsukasa|How it's difficult, but is also exactly why she wants Frontier to make it into something new.}}
-{{CharTalk|Misora|Our Frontier Spirit is being tested!}}
-{{CharTalk|Lalafin|Whoa, this is a huge responsibility!}}
-{{CharTalk|Shizuha|Heh heh... We can't lose either, Aruru-chan.}}
-{{CharTalk|Shizuha|My Arcana, "Judgement"...}}
-{{CharTalk|Aruru|My Arcana, "Moon"!}}
-{{CharTalk|Shizuha|Both are used in numerous works.}}
-{{CharTalk|Shizuha|That's why we have to come up with a surprising portrayal to create a role that no one has ever seen before.}}
-{{CharTalk|Aruru|Of course! }}
-{{CharTalk|Aruru|Our "Wild Pirates" unity won't lose to anyone anywhere!}}
-{{CharTalk|Aruru|We'll captivate the whole theater with a performance no one has ever seen before!}}
-{{CharTalk|Aruru|The happiest stage we'll all create together! The lead roles in the "Performance Festival" will be us!}}
-{{CharTalk|Misora|Aruru...}}
-{{CharTalk|Lalafin & Tsukasa & Shizuha|......}}
-{{CharTalk|Aruru|Let's do our best at rehearsals from tomorrow!}}
-<hr>
-{{CharTalk|Aruru|"Let's do our best at rehearsals from tomorrow!"}}
-{{CharTalk|Aruru|...Even after I said that—}}
-<hr>
-{{CharTalk|Aruru|Why has no one come to rehearsals since then?!}}
-{{CharTalk|Aruru|I've been all by myself ever since the first script reading was over!}}
-{{CharTalk|Aruru|Why? I don't get it! Is Tsukasa-chan going to all the sweets shops?}}
-{{CharTalk|Aruru|Is Lalafin researching a new transformation pose?!}}
-{{CharTalk|Aruru|Is Shizuha-chan playing games overnight?}}
-{{CharTalk|Aruru|Is Misora busy with her part-time job?!}}
-{{CharTalk|Aruru|Where is everyone?!}}
-{{CharTalk|Aruru|Now's not the time to be practicing by myself... I have to go find them!}}
-|-|
-Part 14=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 14</span>
-{{CharTalk|Shizuha|"My... How arrogant..."}}
-{{CharTalk|Shizuha|"One day, 'Judgement' will fall upon this foolish decision...!"}}
-{{CharTalk|Shizuha|......}}
-{{CharTalk|Shizuha|...This is no good.}}
-{{CharTalk|Shizuha|This kind of ordinary acting... "It's not good enough".}}
-{{CharTalk|Shizuha|It needs to be more intense and persuasive, otherwise..."I can't win".}}
-{{CharTalk|Shizuha|What should I do...?}}
-{{CharTalk|Shizuha|...That's right.}}
-<hr>
-{{CharTalk|Aruru|Aww... They're nowhere in the school... Where did everyone go...?}}
-{{CharTalk|Aruru|Don't leave me all alone... Huh?}}
-{{CharTalk|Aruru|Oh... That's Shizuha-chan!}}
-{{CharTalk|Aruru|Shizuha-chan, I found you!}}
-{{CharTalk|Aruru|Hey! Why haven't you been coming to rehearsals?!}}
-{{CharTalk|Shizuha|...Oh... Aruru...chan.}}
-{{CharTalk|Aruru|No one's coming to rehearsals, you know?! Shizuha-chan, do you know anything—}}
-{{CharTalk|Aruru|...What are you doing?! Why are you pinching yourself?!}}
-{{CharTalk|Shizuha|My "Judgement"...still hasn't come to life.}}
-{{CharTalk|Shizuha|It's not good enough... My character isn't alive yet...}}
-{{CharTalk|Shizuha|That's why I have to wake it up with extreme pain—}}
-{{CharTalk|Aruru|S-Stop, stop!}}
-{{CharTalk|Shizuha|Aruru-chan, don't stop me!}}
-{{CharTalk|Shizuha|I need to feel strong pain to be able to play a role that casts 'judgement' on others!}}
-{{CharTalk|Aruru|T-This is for understanding your role...?!}}
-{{CharTalk|Aruru|This is wrong! Why do you have to push yourself to such lengths?!}}
-{{CharTalk|Shizuha|Because "it's not good enough"... Because "I can't win"!}}
-{{CharTalk|Aruru|...?!}}
-{{CharTalk|Aruru|Shizuha-chan, you ARE good enough!}}
-{{CharTalk|Aruru|You are you, so you just need to do your own acting! There's no need to beat anyone!}}
-{{CharTalk|Aruru|To have to corner yourself like this for role preparations... It won't become a fun and happy stage at all!}}
-{{CharTalk|Shizuha|Fun and...happy stage...}}
-{{CharTalk|Shizuha|Aruru-chan, do you really think that?}}
-{{CharTalk|Aruru|Huh...?}}
-{{CharTalk|Shizuha|Do you really think...that the "Performance Festival" stage is a happy stage?}}
-{{CharTalk|Shizuha|You didn't feel anything? After seeing everyone at the first script reading...}}
-{{CharTalk|Aruru|I-I did? Maya-chan's lightning and Akira-chan's thunder...!}}
-{{CharTalk|Aruru|Your gradual pace and Tamao-chan's brisk pace!}}
-{{CharTalk|Shizuha|Then you should know...}}
-{{CharTalk|Shizuha|The "Performance Festival"...is hell.}}
-{{CharTalk|Aruru|Huh...? Hell...?}}
-{{CharTalk|Shizuha|Even with the rough unfinished first draft of the script...everyone is competing fiercely to become the center of the play – the lead.}}
-{{CharTalk|Shizuha|Become the center of the stage, release the best brilliance under the brightest spotlight, insist on being the lead—}}
-{{CharTalk|Shizuha|Sing, dance, and compete...}}
-{{CharTalk|Aruru|......!}}
-{{CharTalk|Shizuha|If you go on with these half-baked feelings...you'll just get killed by the stage.}}
-{{CharTalk|Shizuha|Everyone knows this, so that's why we're all facing it by ourselves.}}
-{{CharTalk|Shizuha|Tsukasa, Lalafin, and Misora-chan too. In order to self-reflect and become stronger.}}
-{{CharTalk|Aruru|Th-That's... That's not right.}}
-{{CharTalk|Aruru|Because we're friends... No, family! We're a family creating the same stage.}}
-{{CharTalk|Aruru|Why do you have to do it by yourself?! Let's move forward together! We can do a camp or have sleepovers!}}
-{{CharTalk|Aruru|What's wrong with everyone?}}
-{{CharTalk|Aruru|What's the matter with all of you!?}}
-{{CharTalk|Shizuha|Aruru-chan...}}
-{{CharTalk|Shizuha|Aruru-chan, you're—}}
-<hr>
-{{CharTalk|Elle|Revue...}}
-{{CharTalk|Elle|A spellbinding performance conjured out of song and dance...}}
-<hr>
-{{CharTalk|Andrew|The one who shows the most brilliant Revue and lights the fire in the young girl's heart...}}
-{{CharTalk|Elle|—Will be on the path to become the "Unknown Lead".}}
-{{CharTalk|Elle & Andrew|Revue has begun.}}
-<hr>
-{{CharTalk|Shizuha|Heartbroken loneliness as I fall with broken feathers. The neon lights invite the stage of bonds.}}
-{{CharTalk|Shizuha|If "now" and "reality" are but a night's dream, I'll carve my flight onto the stage.}}
-{{CharTalk|Shizuha|Stage Girl — Shizuha Kocho! I spread my wings, to Frontier!}}
-<hr>
-{{CharTalk|Aruru|Sparkling bullets, loaded onto wings and heading into the wilderness, looking for a free stage.}}
-{{CharTalk|Aruru|The spotlight is a goldrush, and with both hands, grab onto that BIG DREAM!}}
-{{CharTalk|Aruru|Stage Girl — Aruru Otsuki! Against the wind, to Frontier!}}
-<hr>
-{{CharTalk|Elle|"Timeless Play"...}}
-{{CharTalk|Andrew|Struggling for the "Unknown Lead"—}}
-{{CharTalk|Elle|Sing.}}
-{{CharTalk|Andrew|Dance.}}
-{{CharTalk|Elle & Andrew|And compe—}}
-{{CharTalk|Aruru|No competing!}}
-{{CharTalk|Elle & Andrew|Wha—?!}}
-{{CharTalk|Aruru|I... No, we won't fight.}}
-{{CharTalk|Aruru|Elle, Andrew. I...will change the rules!}}
-{{CharTalk|Aruru|We're a family! Five in one! We're a family creating the same stage!}}
-{{CharTalk|Aruru|That's why there'll be no fighting between us. Never.}}
-{{CharTalk|Aruru|If we have to fight... I'll fight in everyone's stead!}}
-{{CharTalk|Aruru|I'll take everyone there! To the "Unknown Lead"—}}
-{{CharTalk|Aruru|I'll make everyone the "Unknown Lead"!}}
-{{CharTalk|Misora|Aruru, why are you still saying such things?}}
-{{CharTalk|Lalafin|"I'll make everyone the 'Unknown Lead'".}}
-{{CharTalk|Tsukasa|You think that would make us happy...?}}
-{{CharTalk|Elle|Huh...?!}}
-{{CharTalk|Andrew|W-Why are you guys here?!}}
-|-|
-Part 15=
-<span style="font-weight: bold; font-size: 20px;" >Curtain Rises - The Journey Begins</span>
-<span style="font-weight: bold; font-size: 16px;" >Part 15</span>
-{{CharTalk|Elle|Huh...?!}}
-{{CharTalk|Andrew|W-Why are you guys here?!}}
-{{CharTalk|Lalafin|Audio, backdrop, and stage equipment help carry out Stage Girls' dreams... That's what a stage is, right?}}
-{{CharTalk|Tsukasa|I have to go. To that stage— Hup!}}
-{{CharTalk|Misora|Aruru!}}
-{{CharTalk|Lalafin|Lalafin JUMP!}}
-{{CharTalk|Andrew|A-All three of you—}}
-{{CharTalk|Elle|They jumped onto the stage!?}}
-{{CharTalk|Aruru|Everyone...!}}
-{{CharTalk|Misora|Aruru...}}
-{{CharTalk|Misora|You... "How long are you going to stay standing there for"?}}
-{{CharTalk|Misora|As you are right now, you can't stand on the same stage as us.}}
-{{CharTalk|Aruru|Misora...?}}
-{{CharTalk|Lalafin|Be hungry, demand, compete... That is what Stage Girls are, no?}}
-{{CharTalk|Lalafin|Which is why...we can't stay as a close family forever.}}
-{{CharTalk|Aruru|Lalafin...!}}
-{{CharTalk|Tsukasa|No matter what stage, there's always only one lead. If someone is standing in the lead position...}}
-{{CharTalk|Tsukasa|You either get off the stage...or take over the lead. Those are the only two choices.}}
-{{CharTalk|Aruru|Tsukasa-chan, you too...!}}
-{{CharTalk|Shizuha|Creating the happiest stage with everyone is nothing but an illusion... A faint and fleeting night's dream...}}
-{{CharTalk|Shizuha|We are friends and rivals at the same time. We're rivals fighting to become the "Unknown Lead".}}
-{{CharTalk|Aruru|Shizuha-chan, stop...!}}
-{{CharTalk|Shizuha|That's why...we're disbanding the "Wild Pirates".}}
-{{CharTalk|Aruru|...!!}}
-{{CharTalk|Aruru|...No ...I don't want that...}}
-{{CharTalk|Aruru|No, I refuse! I refuse to do that!}}
-{{CharTalk|Aruru|We finally became friends... We finally became family.}}
-{{CharTalk|Aruru|Yet why do we have to fight among ourselves as family members?}}
-{{CharTalk|Lalafin|Aruru...}}
-{{CharTalk|Aruru|In which case... That's fine then.}}
-{{CharTalk|Aruru|If I have to fight everyone for it... I don't want to become the "Unknown Lead"!}}
-{{CharTalk|Misora|......}}
-{{CharTalk|Misora|Why are you against it so much? What are you afraid of?}}
-{{CharTalk|Misora|You, who lit up the path I needed to go down on with so much confidence—}}
-{{CharTalk|Lalafin|You, who gave me the strength to declare what is important to me—}}
-{{CharTalk|Tsukasa|You, who taught me the importance of seeking the best and continuing to think—}}
-{{CharTalk|Shizuha|You, who gave me the courage to not fear getting hurt— Why?}}
-{{CharTalk|Aruru|Because it was all for everyone's sake! I could do my best because it was for everyone!}}
-{{CharTalk|Aruru|Because I...}}
-{{CharTalk|Aruru|...I have nothing when I'm by myself. Without everyone, without the stage... I have nothing.}}
-{{CharTalk|Misora|Aruru...}}
-{{CharTalk|Shizuha|Andrew... I want to ask you to change the Revue battle card.}}
-{{CharTalk|Shizuha|Frontier's Revue...will be Aruru Otsuki against the four of us.}}
-{{CharTalk|Aruru|......?!}}
-{{CharTalk|Andrew|Y-You can't just decide that...}}
-{{CharTalk|Elle|...I understand. We'll change it.}}
-{{CharTalk|Andrew|E-Elle?!}}
-{{CharTalk|Shizuha|Stand up, Aruru Otsuki.}}
-{{CharTalk|Shizuha|This is what you dug up within me. Passion and determination...}}
-{{CharTalk|Shizuha|That's right... "Revue Frontier" is beginning.}}
-{{CharTalk|Shizuha|I'll be the one to dig it up this time – your brilliance.}}
-{{CharTalk|Tsukasa|If you don't have the strength to continue walking in the wilderness, take your fall here and put an end to it.}}
-{{CharTalk|Lalafin|If you have the will to move forward in the wilderness...defeat us and move on!}}
-{{CharTalk|Misora|Show us, Aruru Otsuki...}}
-{{CharTalk|Misora|—Who are you?}}
-{{CharTalk|Aruru|......!}}
-{{CharTalk|Aruru|My name is Aruru Otsuki.}}
-{{CharTalk|Aruru|I was raised surrounded by many people.}}
-{{CharTalk|Aruru|I have my dear friends and respected seniors...and my important stage.}}
-{{CharTalk|Aruru|I'm very happy.}}
-{{CharTalk|Aruru|But... I know nothing about myself.}}
-{{CharTalk|Aruru|About my parents or where I was born.}}
-{{CharTalk|Aruru|When I was picked up, I had a piece of paper with "Aruru" written on it with me.}}
-{{CharTalk|Aruru|I had nothing.}}
-{{CharTalk|Aruru|But... That day when the "Sky Blue Theater Troupe" visited the orphanage—}}
-{{CharTalk|Aruru|That's when I met the stage.}}
-{{CharTalk|Aruru|I was touched by Misora's acting and said I wanted to join the theater troupe...}}
-{{CharTalk|Aruru|The sister was really happy to see me show my own will for the first time and let me join the theater troupe.}}
-{{CharTalk|Aruru|After that...Misora played the lead, Dorothy, in "The Wonderful Wizard of Oz" and I stepped on my first stage as the dog, Toto.}}
-{{CharTalk|Aruru|That day...I met the stage.}}
-{{CharTalk|Aruru|But I... I know nothing about myself.}}
-{{CharTalk|Aruru|And neither do I want to know.}}
-{{CharTalk|Aruru|Because I have the stage now. A stage I can stand on with everyone—}}
-{{CharTalk|Aruru|—I have that. I do, I do have that.}}
+{{CharTalk|Andrew|...Hm. This is such a hot and sweaty script!}}
+{{CharTalk|Elle|Andrew, here's a handkerchief for your tears.}}
+{{CharTalk|Andrew|*sniff* Ahem... I could be the baseball mascot at the very least for the next professional baseball piece!}}
+{{CharTalk|Elle|Heh heh, a new story like that might exist somewhere.}}
+{{CharTalk|Elle|Stage girls who compete for one thing have become baseball girls who fight to become one...}}
+{{CharTalk|Elle|With everything combined, this signals the end of this play.}}
+{{CharTalk|Elle|Everyone, please be careful on your way back...}}
 </tabber>
-[[Category:Main Stories]]
+[[Category:Event Stories]]
+[[Category:Seisho Music Academy Stories]]
+[[Category:Transcripts]]

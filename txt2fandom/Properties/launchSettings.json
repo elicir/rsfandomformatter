@@ -2,7 +2,7 @@
   "profiles": {
     "t2f": {
       "commandName": "Project",
-      "commandLineArgs": "1000120001 -m \"Curtain Rises - The Journey Begins\" 15"
+      "commandLineArgs": "5000460001 -e 1"
     }
   }
 }

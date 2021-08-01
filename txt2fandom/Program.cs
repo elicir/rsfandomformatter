@@ -101,6 +101,7 @@ namespace t2f
                         string nameId = (string)args["nameId"];
                         if ((string)nameId != "0")
                         {
+                            // single speaker
                             string name = (string)charaNames[Convert.ToString(nameId)]["en"];
                             string speech = (string)args["body"]["en"];
                             int b = name.IndexOf('(');
@@ -117,16 +118,19 @@ namespace t2f
                         {
                             if ((int)characterId == 0)
                             {
+                                // sound effect
                                 outputLine = chartalk1 + "|" + (string)args["body"]["en"] + endCurlyBraces;
                             }
                             else
                             {
+                                // single speaker identifiable from live2d
                                 string name = GetNameFromCharacterId((int)characterId, charaNames, story.setting);
                                 outputLine = chartalk1 + name + "|" + (string)args["body"]["en"] + endCurlyBraces;
                             }
                         }
                         else if (characterId.Type == JTokenType.Array)
                         {
+                            // multiple speakers identifiable from live2ds
                             string name = "";
                             foreach (var chara in characterId)
                             {
@@ -220,11 +224,55 @@ namespace t2f
                         outfile.WriteLine(footer);
                 }
             }
-            else if (code[1] == '5')
+            else if (code[0] == '5')
             {
-                // Event Story: 6 chapters
+                // Event Story: 6 chapters, schools involved provided as arg after -e ie. 13 = seisho frontier
+                if (!noMeta)
+                {
+                    string header = "";
+                    header += tabber1;
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                        outfile.WriteLine(header);
+                }
+                long newCode = (long)Convert.ToDouble(code);
+                for (var i = 0; i < 6; i++)
+                {
+                    string num = (newCode % 100).ToString();
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                    {
+                        outfile.WriteLine(new_part + title1e + num);
+                    }
+                    await ProcessScript(newCode.ToString());
+                    newCode++;
+                }
+                if (!noMeta)
+                {
+                    string schools = "";
+                    for (var i = 0; i < args.Length; i++)
+                    {
+                        if (args[i] == "-e")
+                        {
+                            schools = args[i + 1];
+                        }
+                    }
+                    string footer = "";
+                    footer += tabber2 + "\n" + category + eventStories + endSquareBraces;
+                    if (schools.Contains("1"))
+                        footer += "\n" + category + "Seisho Music Academy " + stories + endSquareBraces;
+                    if (schools.Contains("2"))
+                        footer += "\n" + category + "Rinmeikan Girls School " + stories + endSquareBraces;
+                    if (schools.Contains("3"))
+                        footer += "\n" + category + "Frontier School of Arts " + stories + endSquareBraces;
+                    if (schools.Contains("4"))
+                        footer += "\n" + category + "Siegfeld Institute of Music " + stories + endSquareBraces;
+                    if (schools.Contains("5"))
+                        footer += "\n" + category + "Seiran General Art Institute " + stories + endSquareBraces;
+                    footer += "\n" + category + transcripts + endSquareBraces;
+                    using (System.IO.StreamWriter outfile = System.IO.File.AppendText("transcript.txt"))
+                        outfile.WriteLine(footer);
+                }
             }
-            else if (code[1] == '3')
+            else if (code[0] == '3')
             {
                 // Bond Story: 301,302 are Chapter 1,2 ; 311,312 are Bond Level 15 Talk, Bond Level 30 Talk
             }
@@ -233,16 +281,14 @@ namespace t2f
                 Console.WriteLine("Code is incorrect (not beginning with 1, 3, or 5)");
                 Environment.Exit(1);
             }
-            //var story = await GetStory(code);
-            //var charaNames = await GetCharaNames();
-            
-            //await ProcessScript(story, charaNames);
+
+            System.Diagnostics.Process.Start(@"C:\Program Files (x86)\Notepad++\notepad++.exe", "transcript.txt");
         }
 
 
 
 
-            static async Task Mai3n(string[] args)
+        static async Task Mai3n(string[] args)
         {
             string code = null;
             string fn;
