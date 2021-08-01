@@ -19,7 +19,7 @@ sample:
 t2f.exe -1070004 -a
 t2f.exe 5000460001 -e 1 -o baseball.txt
 t2f.exe 1000120001 -m "Curtain Rises - The Journey Begins" 15
-t2f.exe 1000120006 -m "Curtain Rises - The Journey Begins" 5
+t2f.exe 1000120006 -m "Curtain Rises - The Journey Begins" 5 --nometa
 ```
 
 ***TODO: make a batch file template to use for things like events***
