@@ -144,7 +144,7 @@ namespace t2f
                                 name = name[..(b - 1)];
                             }
                             if (name.Contains("Mei Fan")) 
-                                name.Replace("Mei Fan", "Meifan");
+                                name = name.Replace("Mei Fan", "Meifan");
                             outputLine = chartalk1 + name + "|" + speech + endCurlyBraces;
                         }
                         else if (characterId.Type == JTokenType.Integer)
@@ -198,7 +198,7 @@ namespace t2f
             string dressCode = (string)setting["character"][characterId-1];
             string name = (string)charaNames[dressCode[..3]]["en"];
             if (name.Contains("Mei Fan"))
-                name.Replace("Mei Fan", "Meifan");
+                name = name.Replace("Mei Fan", "Meifan");
             return name;
         }
 
