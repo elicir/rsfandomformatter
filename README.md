@@ -7,13 +7,19 @@
 * ***-o filename*** outputs to filename instead of transcript.txt
 * ***--nometa*** flag does not append header/footer wiki metadata (useful for main story updates)
 * ***-a*** flag changes "Chapter" to "Part" for Arcana Arcadia Bond Stories
+* ***-e*** designates which schools are involved in the story
+1. Seisho
+2. Rinmeikan
+3. Frontier
+4. Siegfeld
+5. Seiran
 
 sample:
 ```
 t2f.exe -1070004 -a
 t2f.exe 5000460001 -e 1 -o baseball.txt
 t2f.exe 1000120001 -m "Curtain Rises - The Journey Begins" 15
-t2f.exe 1000120006 -m "Curtain Rises - The Journey Begins" 5
+t2f.exe 1000120006 -m "Curtain Rises - The Journey Begins" 5 --nometa
 ```
 
 ***TODO: make a batch file template to use for things like events***
