@@ -1,8 +1,7 @@
 {
   "profiles": {
     "t2f": {
-      "commandName": "Project",
-      "commandLineArgs": "-4030017"
+      "commandName": "Project"
     }
   }
 }

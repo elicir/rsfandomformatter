@@ -205,6 +205,11 @@ namespace t2f
         #endregion
         static async Task Main(string[] args)
         {
+            if (args.Length == 0)
+            {
+                Console.WriteLine("t2f.exe -dresscode [-a] [-o filename]\nt2f.exe eventstorycode -e 12345 [-o filename] \nt2f.exe mainstorycode -m storyTitle numChapters [-o filename] [--nometa]");
+                Environment.Exit(0);
+            }
             string code = args[0];
 
             string filename = "transcript.txt";
