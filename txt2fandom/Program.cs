@@ -255,8 +255,7 @@ namespace t2f
                     string num = (newCode % 100).ToString();
                     using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                     {
-                        outfile.WriteLine(newPart + title1e + num + "=" + title2 + storyTitle + titleEnd);
-                        outfile.WriteLine(subtitle1[4..] + title1e + num + titleEnd);
+                        outfile.WriteLine(newPart + title1e + num + "=\n" + title2 + storyTitle + titleEnd + " " + subtitle1[4..] + title1e + num + titleEnd);
                     }
                         
                     await ProcessScript(newCode.ToString(), filename);
