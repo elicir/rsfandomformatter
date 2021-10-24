@@ -279,7 +279,7 @@ namespace t2f
                     using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                         outfile.WriteLine(header);
                 }
-                int chapters = 0;
+                int chapters = 6;
                 for (var i = 0; i < args.Length; i++)
                 {
                     if (args[i] == "-e")
@@ -288,7 +288,7 @@ namespace t2f
                     }
                 }
                 long newCode = (long)Convert.ToDouble(code);
-                for (var i = 0; i < 6; i++)
+                for (var i = 0; i < chapters; i++)
                 {
                     string num = (newCode % 100).ToString();
                     using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
