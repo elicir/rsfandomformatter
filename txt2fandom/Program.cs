@@ -271,13 +271,21 @@ namespace t2f
             }
             else if (code[0] == '5')
             {
-                // Event Story: 6 chapters, schools involved provided as arg after -e ie. 13 = seisho frontier
+                // Event Story: chapters provided as arg after -e ie. 6, 12 . after that schools involved ie. 13 = seisho frontier
                 if (!noMeta)
                 {
                     string header = "";
                     header += tabber1;
                     using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                         outfile.WriteLine(header);
+                }
+                int chapters = 0;
+                for (var i = 0; i < args.Length; i++)
+                {
+                    if (args[i] == "-e")
+                    {
+                        chapters = Int32.Parse(args[i + 1]);
+                    }
                 }
                 long newCode = (long)Convert.ToDouble(code);
                 for (var i = 0; i < 6; i++)
@@ -304,7 +312,7 @@ namespace t2f
                     {
                         if (args[i] == "-e")
                         {
-                            schools = args[i + 1];
+                            schools = args[i + 2];
                         }
                     }
                     string footer = "";
