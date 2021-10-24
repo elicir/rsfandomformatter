@@ -2,12 +2,12 @@
 
 **t2f.exe command line usage:**
 * t2f.exe -dresscode [-a] ***bond story***
-* t2f.exe storycode -e 12345 ***event story***
+* t2f.exe storycode -e numChapters schools ***event story***
 * t2f.exe storycode -m storyTitle numChapters ***main story***
 * ***-o filename*** outputs to filename instead of transcript.txt
 * ***--nometa*** flag does not append header/footer wiki metadata (useful for main story updates)
 * ***-a*** flag changes "Chapter" to "Part" for Arcana Arcadia Bond Stories
-* ***-e*** designates which schools are involved in the story
+* ***-e*** designates number of chapters and which schools are involved in the story
 1. Seisho
 2. Rinmeikan
 3. Frontier
@@ -17,7 +17,7 @@
 sample:
 ```
 t2f.exe -1070004 -a
-t2f.exe 5000460001 -e 1 -o baseball.txt
+t2f.exe 5000460001 -e 6 1 -o baseball.txt
 t2f.exe 1000120001 -m "Curtain Rises - The Journey Begins" 15
 t2f.exe 1000120006 -m "Curtain Rises - The Journey Begins" 5 --nometa
 ```
