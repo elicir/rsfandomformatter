@@ -207,7 +207,7 @@ namespace t2f
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("t2f.exe -dresscode [-a] [-o filename]\nt2f.exe eventstorycode -e 12345 [-o filename] \nt2f.exe mainstorycode -m storyTitle numChapters [-o filename] [--nometa]");
+                Console.WriteLine("t2f.exe -dresscode [-a] [-o filename]\nt2f.exe eventstorycode -e numChapters schools [-o filename] \nt2f.exe mainstorycode -m storyTitle numChapters [-o filename] [--nometa]");
                 Environment.Exit(0);
             }
             string code = args[0];
