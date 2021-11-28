@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 using System.Linq;
 
-namespace t2f
+namespace storyformatter
 {
     class Program
     {
@@ -207,7 +207,9 @@ namespace t2f
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("t2f.exe -dresscode [-a] [-o filename]\nt2f.exe eventstorycode -e numChapters schools [-o filename] \nt2f.exe mainstorycode -m storyTitle numChapters [-o filename] [--nometa]");
+                Console.WriteLine("storyformatter.exe -dresscode [-a] [-o filename]");
+                Console.WriteLine("storyformatter.exe eventstorycode -e numChapters schools [-o filename]");
+                Console.WriteLine("storyformatter.exe mainstorycode -m storyTitle numChapters [-o filename] [--nometa]");
                 Environment.Exit(0);
             }
             string code = args[0];
@@ -293,7 +295,7 @@ namespace t2f
                     string num = (newCode % 100).ToString();
                     using (System.IO.StreamWriter outfile = System.IO.File.AppendText(filename))
                     {
-                        if (i == 5)
+                        if (i == chapters-1)
                         {
                             outfile.WriteLine(newPart + title1final + "=");
                         }
@@ -389,8 +391,12 @@ namespace t2f
                 Console.WriteLine("Code is incorrect (not beginning with -, 3, or 5)");
                 Environment.Exit(1);
             }
-
-            System.Diagnostics.Process.Start(@"C:\Program Files (x86)\Notepad++\notepad++.exe", filename);
+            var p = new System.Diagnostics.Process();
+            p.StartInfo = new System.Diagnostics.ProcessStartInfo(filename)
+            {
+                UseShellExecute = true
+            };
+            p.Start();
         }
     }
 }

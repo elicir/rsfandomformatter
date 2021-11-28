@@ -1,4 +1,0 @@
-C:\Users\Frog\Videos\fandom\fandomstoryformatter\txt2fandom\obj\Debug\net48\t2f.csprojAssemblyReference.cache
-C:\Users\Frog\Videos\fandom\fandomstoryformatter\txt2fandom\obj\Debug\net48\t2f.AssemblyInfoInputs.cache
-C:\Users\Frog\Videos\fandom\fandomstoryformatter\txt2fandom\obj\Debug\net48\t2f.AssemblyInfo.cs
-C:\Users\Frog\Videos\fandom\fandomstoryformatter\txt2fandom\obj\Debug\net48\t2f.csproj.CoreCompileInputs.cache
