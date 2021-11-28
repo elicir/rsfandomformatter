@@ -63,6 +63,7 @@ storyformatter.exe mainstorycode -m storyTitle numChapters [-o filename] [--nome
 3. Frontier
 4. Siegfeld
 5. Seiran
+* `-m storyTitle numChapters` designates the title of the main story chapter in double quotes and the number of chapters to process starting from the chapter that was entered
 
 examples:
 ```
