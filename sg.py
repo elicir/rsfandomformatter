@@ -1,5 +1,5 @@
 import sys, os
-from common import NAMES, SCHOOLS, ATTR, TYPE, RARITY, Skill, get_json, download_img
+from common import NAMES, SCHOOLS, ATTR, TYPE, RARITY, Skill, get_json, download_img, ICONS
 
 class Dress:
     chara = ""
@@ -71,13 +71,19 @@ class Dress:
     def get_full_name(self):    
         return f"{self.role} {self.chara}"
 
+    def get_first_name(self):
+        name = self.chara.split()[0]
+        if name == 'Liu':
+            name = 'Meifan'
+        return name
+
     def get_rarity_word(self):
         return RARITY[self.rarity]
 
     def write_file(self):
-        self.write_line("{{Quote|{{|" + self.chara + "|" + self.message + "}}}}")
+        self.write_line("{{Quote|{{" + self.get_first_name() + "|" + self.message + "}}}}")
         self.write_line(self.get_img(self.code)+"\n")
-        self.write_line("=='''Details'''==\n" + \
+        self.write_line("==Details==\n" + \
             '{| class="article-table" style="margin:1em auto 1em auto; clear:both; text-align:center;' + \
                 'font-weight:900; width:100%" cellspacing="1" cellpadding="1" border="0"')
         self.write_line('!Stage Girl\n|<span style="font-weight: bold; font-size: 20px;" >' + \
@@ -88,7 +94,7 @@ class Dress:
         self.write_line(f"!Position\n|[[File:{self.position} Position.jpg]] {self.position}\n|-")
         self.write_line(f"!Act Type\n|[[File:{self.act_type} Act Type.png]] {self.act_type}\n|-")
         self.write_line("!Description\n|"+ self.desc + "\n|}")
-        self.write_line('\n==\'\'\'Acts\'\'\'==\n{| class="article-table" style="margin:1em auto 1em auto;' + \
+        self.write_line('\n==Acts==\n{| class="article-table" style="margin:1em auto 1em auto;' + \
             'clear:both; text-align:left; font-weight:900; width:100%" cellspacing="1" cellpadding="1" border="0"')
         for act in self.acts:
             self.write_line(act.get_info())
@@ -127,7 +133,7 @@ class ClimaxAct(Act):
     
     def get_info(self):
         return f'!style="background:#FC5252; color:#FFFFFF" |{self.name}\n' + \
-        '|style="background:#FFD1D1" |[[File: PLACEHOLDER.png|30px]]\n' + \
+        f'|style="background:#FFD1D1" |[[File:{ICONS[self.iconID]}.png|30px]]\n' + \
         f'|style="background:#FFD1D1" |{self.desc}\n|-'
 
 

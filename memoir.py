@@ -67,7 +67,7 @@ class Equip:
             self.__fix_name()
         self.write_line("{{Quote|" + self.profile + "}}")
         self.write_line(self.get_img(self.code)+"\n")
-        self.write_line("=='''Details'''==\n" + \
+        self.write_line("==Details==\n" + \
             '{| class="article-table" style="margin:1em auto 1em auto; clear:both; text-align:center;' + \
                 'font-weight:900; width:100%" cellspacing="1" cellpadding="1" border="0"')
         self.write_line(f'!Rarity\n| colspan="2"|[[File:{self.get_rarity_word()}_Star_icon.png|center|90px]]\n|-')
