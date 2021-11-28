@@ -19,7 +19,7 @@ For all scripts, the "code" that must be entered is the number in the url on Kar
 * Scene transitions are detected from a fade effect in the story data, and an `<hr>` is inserted.
   * This can lead to a lot of page breaks where they don't necessarily need to be, so some manual removal based on what seems most appropriate is required.
 * [usage](#storyformatterexe-command-line-usage)
-* [file location](./tree/master/storyformatter/bin/Debug/netcoreapp3.1)
+* [file location](../storyformatter/bin/Debug/netcoreapp3.1)
   * all of the files in this folder need to be in the same folder you are running the program from for it to work properly
   * minus batchtemplate.bat which is just a bat file you can use to run many commands at once
 
