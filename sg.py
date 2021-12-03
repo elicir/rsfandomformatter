@@ -98,6 +98,7 @@ class Dress:
             'clear:both; text-align:left; font-weight:900; width:100%" cellspacing="1" cellpadding="1" border="0"')
         for act in self.acts:
             self.write_line(act.get_info())
+        self.write_line(self.climax_act.get_info())
         self.write_line('! rowspan="3" |Auto Skill')
         for skill in self.auto_skills:
             self.write_line(skill.get_info() + "\n|-")
