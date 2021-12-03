@@ -1,6 +1,6 @@
 # Revue Starlight Fandom Wiki Page Formatting Scripts
 
-This is a series of command line scripts to format English Revue Starlight Re LIVE data for the [Revue Starlight Fandom Wiki](https://revuestarlight.fandom.com/wiki/Revue_Starlight_Wiki). They create and open text files that can be copy pasted into a new page on the wiki. The scripts make use of the [Project Karthuria](http://karth.top) API (thank you!)
+This is a series of command line scripts to format English Revue Starlight Re LIVE data for the [Revue Starlight Fandom Wiki](https://revuestarlight.fandom.com/wiki/Revue_Starlight_Wiki). The scripts create and open text files that can be copy pasted into a new page on the wiki, and make use of the [Project Karthuria](http://karth.top) API (thank you!)
 
 Developed on Windows 10 and have not tested in other environments yet. Python should be 3.6+ (f-strings are used) and only dependency is [requests](https://docs.python-requests.org/en/latest/user/install/#install).
 
@@ -19,8 +19,8 @@ For all scripts, the "code" that must be entered is the number in the url on Kar
 * Scene transitions are detected from a fade effect in the story data, and an `<hr>` is inserted.
   * This can lead to a lot of page breaks where they don't necessarily need to be, so some manual removal based on what seems most appropriate is required.
 * [usage](#storyformatterexe-command-line-usage)
-* [file location](storyformatter/bin/Debug/netcoreapp3.1/storyformatter.exe)
-  * all of the files in storyformatter/bin/Debug/netcoreapp3.1 need to be in the same folder you are running the program from for it to work properly
+* [file location](storyformatter/bin/Debug/netcoreapp3.1)
+  * all of the files in the folder need to be in the same folder you are running the program from for it to work properly
   * minus batchtemplate.bat which is just a bat file you can use to run many commands at once
 
 ### sg.py
@@ -63,6 +63,7 @@ storyformatter.exe mainstorycode -m storyTitle numChapters [-o filename] [--nome
 3. Frontier
 4. Siegfeld
 5. Seiran
+* `-m storyTitle numChapters` designates the title of the main story chapter in double quotes and the number of chapters to process starting from the chapter that was entered
 
 examples:
 ```
