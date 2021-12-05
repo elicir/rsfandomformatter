@@ -8,6 +8,8 @@ Developed on Windows 10 and have not tested in other environments yet.
 * Python 3.6+
 * [requests API](https://docs.python-requests.org/en/latest/user/install/#install)
 
+## Usage:
+
 For all scripts, the "code" that must be entered is the number in the url on Karthuria, ie. 
 * https://karth.top/dress/2040014 -> 2040014 (stage girl/bond story)
 * https://karth.top/adventure/1000140001 -> 1000140001 (main story)
