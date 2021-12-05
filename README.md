@@ -1,6 +1,6 @@
 # Revue Starlight Fandom Wiki Page Formatting Scripts
 
-This is a series of command line scripts to format English Revue Starlight Re LIVE data for the [Revue Starlight Fandom Wiki](https://revuestarlight.fandom.com/wiki/Revue_Starlight_Wiki). The scripts create and open text files that can be copy pasted into a new page on the wiki, and make use of the [Project Karthuria](http://karth.top) API (thank you!)
+This is a series of command line scripts to format English Revue Starlight Re LIVE data for the [Revue Starlight Fandom Wiki](https://revuestarlight.fandom.com/wiki/Revue_Starlight_Wiki). The scripts create and open text files that can be copy pasted into a page on the wiki, and make use of the [Project Karthuria](http://karth.top) API (thank you!)
 
 Developed on Windows 10 and have not tested in other environments yet. 
 
