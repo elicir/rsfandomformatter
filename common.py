@@ -252,9 +252,28 @@ RARITY = {
     4: "Four"
 }
 
+GACHA = {
+    "lim": "Premium",
+    "bf": "Brilliance Fest",
+    "season": "Season"
+}
+
 def get_json(url):
     res = requests.get(url).json()
     return res
+
+def get_story(code: str):
+    return get_json("https://karth.top/api/adventure/ww/" + code + ".json")
+
+def get_chara_names():
+    return get_json("https://karth.top/api/adventure_chara_name.json")
+
+def get_dress(code: str):
+    return get_json("https://karth.top/api/dress/" + code + ".json")
+
+def write_line(filename, line: str):
+    with open(filename, "a", encoding="utf-8") as file:
+        file.write(line + '\n')
 
 def download_img(filename, code, img_type):
     url = "https://cdn.starira.xyz/api/assets/dlc/res/" + img_type + "/cg/" + code + "/image.png"

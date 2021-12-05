@@ -1,5 +1,5 @@
 import sys, os
-from common import NAMES, SCHOOLS, ATTR, TYPE, RARITY, Skill, get_json, download_img, ICONS
+from common import NAMES, SCHOOLS, ATTR, TYPE, RARITY, Skill, get_dress, download_img, write_line, ICONS, GACHA
 
 class Dress:
     chara = ""
@@ -15,13 +15,12 @@ class Dress:
     climax_act = None
     auto_skills = []
     unit_skill = None
-    is_lim = False
+    gacha_type = ""
     filename = ""
     code = -1
     
-    def __init__(self, code, is_lim, filename):
-        url = "https://karth.top/api/dress/" + code + ".json"
-        info = get_json(url)
+    def __init__(self, code, gacha_type, filename):
+        info = get_dress(code)
 
         chara_code = info['basicInfo']['character']
         self.chara = NAMES[chara_code]
@@ -36,7 +35,7 @@ class Dress:
         self.__init_acts(info['act'])
         self.__init_auto_skills(info['skills'])
         self.__init_group_skills(info['groupSkills'])
-        self.is_lim = is_lim
+        self.gacha_type = gacha_type
         self.filename = filename
         self.code = code
 
@@ -59,56 +58,57 @@ class Dress:
         unit_skill = skills['unitSkill']
         self.unit_skill = UnitSkill(unit_skill['iconID'], unit_skill['info']['en'])
 
-    def get_img(self, code):
-        filename = self.get_full_name() + ".png"
+    def __get_img(self, code):
+        filename = self.__get_full_name() + ".png"
         download_img(filename, code, "dress")
         return f"[[File:{filename}|center|750px]]"
 
-    def write_line(self, line: str):
-        with open(self.filename, "a", encoding="utf-8") as file:
-            file.write(line + '\n')
+    def __write(self, line: str):
+        write_line(self.filename, line)
 
-    def get_full_name(self):    
+    def __get_full_name(self):    
         return f"{self.role} {self.chara}"
 
-    def get_first_name(self):
+    def __get_first_name(self):
         name = self.chara.split()[0]
         if name == 'Liu':
             name = 'Meifan'
         return name
 
-    def get_rarity_word(self):
+    def __get_rarity_word(self):
         return RARITY[self.rarity]
+    
+    def __get_gacha_type(self):
+        return GACHA[self.gacha_type]
 
     def write_file(self):
-        self.write_line("{{Quote|{{" + self.get_first_name() + "|" + self.message + "}}}}")
-        self.write_line(self.get_img(self.code)+"\n")
-        self.write_line("==Details==\n" + \
+        self.__write("{{Quote|{{" + self.__get_first_name() + "|" + self.message + "}}}}")
+        self.__write(self.__get_img(self.code)+"\n")
+        self.__write("==Details==\n" + \
             '{| class="article-table" style="margin:1em auto 1em auto; clear:both; text-align:center;' + \
                 'font-weight:900; width:100%" cellspacing="1" cellpadding="1" border="0"')
-        self.write_line('!Stage Girl\n|<span style="font-weight: bold; font-size: 20px;" >' + \
-            f'[[{self.chara}]]</span> [[{self.get_full_name()}/Bond Story|【Bond Story】]]\n|-')
-        self.write_line(f"!School\n|[[{self.school}]]\n|-")
-        self.write_line(f"!Initial Rarity\n|[[File:{self.get_rarity_word()}_Star_icon.png|center|90px]]\n|-")
-        self.write_line(f"!Element\n|[[File:{self.element} Element.png|30px]] {self.element}\n|-")
-        self.write_line(f"!Position\n|[[File:{self.position} Position.jpg]] {self.position}\n|-")
-        self.write_line(f"!Act Type\n|[[File:{self.act_type} Act Type.png]] {self.act_type}\n|-")
-        self.write_line("!Description\n|"+ self.desc + "\n|}")
-        self.write_line('\n==Acts==\n{| class="article-table" style="margin:1em auto 1em auto;' + \
+        self.__write('!Stage Girl\n|<span style="font-weight: bold; font-size: 20px;" >' + \
+            f'[[{self.chara}]]</span> [[{self.__get_full_name()}/Bond Story|【Bond Story】]]\n|-')
+        self.__write(f"!School\n|[[{self.school}]]\n|-")
+        self.__write(f"!Initial Rarity\n|[[File:{self.__get_rarity_word()}_Star_icon.png|center|90px]]\n|-")
+        self.__write(f"!Element\n|[[File:{self.element} Element.png|30px]] {self.element}\n|-")
+        self.__write(f"!Position\n|[[File:{self.position} Position.jpg]] {self.position}\n|-")
+        self.__write(f"!Act Type\n|[[File:{self.act_type} Act Type.png]] {self.act_type}\n|-")
+        self.__write("!Description\n|"+ self.desc + "\n|}")
+        self.__write('\n==Acts==\n{| class="article-table" style="margin:1em auto 1em auto;' + \
             'clear:both; text-align:left; font-weight:900; width:100%" cellspacing="1" cellpadding="1" border="0"')
         for act in self.acts:
-            self.write_line(act.get_info())
-        self.write_line(self.climax_act.get_info())
-        self.write_line('! rowspan="3" |Auto Skill')
+            self.__write(act.get_info())
+        self.__write(self.climax_act.get_info())
+        self.__write('! rowspan="3" |Auto Skill')
         for skill in self.auto_skills:
-            self.write_line(skill.get_info() + "\n|-")
-        self.write_line(self.unit_skill.get_info())
-        self.write_line(f"\n==Gallery==\n<tabber>\n3D Model=[[File:{self.get_full_name()} 3D Model.png|left|300px]]")
-        self.write_line(f"|-|\nLive2D=[[File:{self.code}_live2d.png|center|300px]]\n</tabber>")
-        self.write_line(f"[[Category:Cards]]\n[[Category:{self.rarity}✰ Cards]]\n[[Category:{self.element}]]" + \
+            self.__write(skill.get_info() + "\n|-")
+        self.__write(self.unit_skill.get_info())
+        self.__write(f"\n==Gallery==\n<tabber>\n3D Model=[[File:{self.__get_full_name()} 3D Model.png|left|300px]]")
+        self.__write(f"|-|\nLive2D=[[File:{self.code}_live2d.png|center|300px]]\n</tabber>")
+        self.__write(f"[[Category:Cards]]\n[[Category:{self.rarity}✰ Cards]]\n[[Category:{self.element}]]" + \
             f"\n[[Category:{self.act_type} Act Type]]\n[[Category:{self.position} Position]]")
-        if self.is_lim:
-            self.write_line("[[Category:Premium Gacha Cards]]")
+        self.__write(f"[[Category:{self.__get_gacha_type()} Gacha Cards]]")
 
 class UnitSkill(Skill):
     def __init__(self, iconID, desc):
@@ -141,24 +141,24 @@ class ClimaxAct(Act):
 if __name__ == "__main__":
     
     if len(sys.argv) < 2:
-        print("py sg.py dresscode [-o filename] [--lim]")
+        print("py sg.py dresscode [-o filename] [--lim/bf/season]")
         exit(1)
 
     code = sys.argv[1]
 
     filename = "sg.txt"
-    is_lim = False
+    gacha_type = ""
 
     for i in range(len(sys.argv)):
         if sys.argv[i] == "-o":
             filename = sys.argv[i + 1]
-        elif sys.argv[i] == "--lim":
-            is_lim = True
+        elif '--' in sys.argv[i]:
+            gacha_type = sys.argv[i][2:]
 
     with open(filename, "w", encoding="utf-8") as create:
         pass
 
-    dress = Dress(code, is_lim, filename)
+    dress = Dress(code, gacha_type, filename)
 
     dress.write_file()
 

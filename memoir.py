@@ -1,6 +1,6 @@
 import sys, os
 
-from common import NAMES, RARITY, Skill, get_json, download_img, is_naming_limit
+from common import NAMES, RARITY, Skill, get_json, download_img, is_naming_limit, write_line
 
 class Equip:
     name = ""
@@ -38,7 +38,7 @@ class Equip:
             self.instant_skill = InstantSkill(instant_skill['iconID'], instant_skill['info']['en'], cost, init, turns, limit)
         self.skill = Skill(skill['iconID'], skill['info']['en'])
 
-    def get_names(self):
+    def __get_names(self):
         result = ""
         for i in range(len(self.charas)):
             result += f"[[{self.charas[i]}]]"
@@ -46,16 +46,15 @@ class Equip:
                 result += ", "
         return result
         
-    def get_img(self, code):
+    def __get_img(self, code):
         filename = self.name + ".png"
         download_img(filename, code, "equip")
         return f"[[File:{filename}|center|750px]]"
 
-    def write_line(self, line: str):
-        with open(self.filename, "a", encoding="utf-8") as file:
-            file.write(line + '\n')
+    def __write(self, line: str):
+        write_line(self.filename, line)
 
-    def get_rarity_word(self):
+    def __get_rarity_word(self):
         return RARITY[self.rarity]
     
     def __fix_name(self):
@@ -63,23 +62,23 @@ class Equip:
 
     def write_file(self):
         if is_naming_limit(self.name):
-            self.write_line("{{NamingLimitNotice|" + self.name + "}}")
+            self.__write("{{NamingLimitNotice|" + self.name + "}}")
             self.__fix_name()
-        self.write_line("{{Quote|" + self.profile + "}}")
-        self.write_line(self.get_img(self.code)+"\n")
-        self.write_line("==Details==\n" + \
+        self.__write("{{Quote|" + self.profile + "}}")
+        self.__write(self.__get_img(self.code)+"\n")
+        self.__write("==Details==\n" + \
             '{| class="article-table" style="margin:1em auto 1em auto; clear:both; text-align:center;' + \
                 'font-weight:900; width:100%" cellspacing="1" cellpadding="1" border="0"')
-        self.write_line(f'!Rarity\n| colspan="2"|[[File:{self.get_rarity_word()}_Star_icon.png|center|90px]]\n|-')
-        self.write_line(f'!Stage Girl(s)\n| colspan="2"|{self.get_names()}\n|-')
-        self.write_line("!Auto Skill\n" + self.skill.get_info())
+        self.__write(f'!Rarity\n| colspan="2"|[[File:{self.__get_rarity_word()}_Star_icon.png|center|90px]]\n|-')
+        self.__write(f'!Stage Girl(s)\n| colspan="2"|{self.__get_names()}\n|-')
+        self.__write("!Auto Skill\n" + self.skill.get_info())
         if self.instant_skill is not None:
-            self.write_line("|-\n" + self.instant_skill.get_info())
-        self.write_line("|}")
+            self.__write("|-\n" + self.instant_skill.get_info())
+        self.__write("|}")
 
-        self.write_line(f"[[Category:Memoirs]]\n[[Category:{self.rarity}✰ Memoirs]]")
+        self.__write(f"[[Category:Memoirs]]\n[[Category:{self.rarity}✰ Memoirs]]")
         if self.instant_skill is not None:
-            self.write_line("[[Category:Instant Skill]]")
+            self.__write("[[Category:Instant Skill]]")
 
 class InstantSkill(Skill):
     cost = (0, 0)

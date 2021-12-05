@@ -2,7 +2,11 @@
 
 This is a series of command line scripts to format English Revue Starlight Re LIVE data for the [Revue Starlight Fandom Wiki](https://revuestarlight.fandom.com/wiki/Revue_Starlight_Wiki). The scripts create and open text files that can be copy pasted into a new page on the wiki, and make use of the [Project Karthuria](http://karth.top) API (thank you!)
 
-Developed on Windows 10 and have not tested in other environments yet. Python should be 3.6+ (f-strings are used) and only dependency is [requests](https://docs.python-requests.org/en/latest/user/install/#install).
+Developed on Windows 10 and have not tested in other environments yet. 
+
+## Requirements:
+* Python 3.6+
+* [requests API](https://docs.python-requests.org/en/latest/user/install/#install)
 
 For all scripts, the "code" that must be entered is the number in the url on Karthuria, ie. 
 * https://karth.top/dress/2040014 -> 2040014 (stage girl/bond story)
@@ -10,18 +14,12 @@ For all scripts, the "code" that must be entered is the number in the url on Kar
 * https://karth.top/adventure/5000380001 -> 5000380001 (event story)
 * https://karth.top/equip/4000190 -> 4000190 (memoir)
 
-### storyformatter.exe
+### story.py
 * For formatting bond stories, event stories, and main stories
 * Creates/overwrites a file `transcript.txt` (or other filename)
-* Written in C# (for no reason other than I wanted to practice C#)
-  * Can be run without installing anything else on Windows
-  * May change to python eventually
-* Scene transitions are detected from a fade effect in the story data, and an `<hr>` is inserted.
+* Scene transitions are detected from a fade out effect in the story data, and an `<hr>` is inserted.
   * This can lead to a lot of page breaks where they don't necessarily need to be, so some manual removal based on what seems most appropriate is required.
-* [usage](#storyformatterexe-command-line-usage)
-* [file location](storyformatter/bin/Debug/netcoreapp3.1)
-  * all of the files in the folder need to be in the same folder you are running the program from for it to work properly
-  * minus batchtemplate.bat which is just a bat file you can use to run many commands at once
+* [usage](#storypy-command-line-usage)
 
 ### sg.py
 * For formatting stage girl card pages
@@ -40,24 +38,24 @@ For all scripts, the "code" that must be entered is the number in the url on Kar
 ### common.py
 * Mappings and common functions/classes used by `sg` and `memoir`
 
-## storyformatter.exe command line usage:
+## story.py command line usage:
 ***bond story***
 ```
-storyformatter.exe -dresscode [-a] [-o filename] [--nometa]
+py story.py -dresscode [-a] [-o filename] [--nometa]
 ```
 ***event story***
 ```
-storyformatter.exe eventstorycode -e numChapters schools [-o filename] [--nometa]
+py story.py eventstorycode -e numChapters schools [-o filename] [--nometa]
 ```
 ***main story***
 ```
-storyformatter.exe mainstorycode -m storyTitle numChapters [-o filename] [--nometa]
+py story.py mainstorycode -m storyTitle numChapters [-o filename] [--nometa]
 ```
 * there must be a `-` before the dresscode
 * `-o filename` outputs to `filename` instead of `transcript.txt`
 * `--nometa` flag does not append header/footer wiki metadata (useful for incremental main story updates)
 * `-a` flag changes "Chapter" to "Part" for Arcana Arcadia Bond Stories and adds relevant header blurb
-* `-e numChapters ` designates number of chapters and which schools are involved in the story:
+* `-e numChapters schools` designates number of chapters and which schools are involved in the story:
 1. Seisho
 2. Rinmeikan
 3. Frontier
@@ -67,23 +65,25 @@ storyformatter.exe mainstorycode -m storyTitle numChapters [-o filename] [--nome
 
 examples:
 ```
-storyformatter.exe -1070004 -a
-storyformatter.exe 5000460001 -e 6 1 -o baseball.txt
-storyformatter.exe 5000470001 -e 12 5 -o threekingdoms.txt
-storyformatter.exe 1000120001 -m "Curtain Rises - The Journey Begins" 15
-storyformatter.exe 1000120006 -m "Curtain Rises - The Journey Begins" 5 --nometa
+py story.py -1070004 -a
+py story.py 5000460001 -e 6 1 -o baseball.txt
+py story.py 5000470001 -e 12 5 -o threekingdoms.txt
+py story.py 1000120001 -m "Curtain Rises - The Journey Begins" 15
+py story.py 1000120006 -m "Curtain Rises - The Journey Begins" 5 --nometa
 ```
 ## sg.py command line usage:
 ```
-py sg.py dresscode [-o filename] [--lim]
+py sg.py dresscode [-o filename] [--lim/bf/season]
 ```
 * `-o filename` outputs to `filename` instead of `sg.txt`
-* `--lim` designates if the card is a limited card (for adding the *Premium Gacha Cards* category)
-  * I forgot that there were categories for Season/Brilliance Fest so this will be changed to account for those too lol
+* `--lim` designates if the card is a limited card
+* `--bf` designates if the card is a Brilliance Fest card
+* `--season` designates if the card is a Season card
 
 examples:
 ```
-py sg.py 1070019 -o helldiver.txt
+py sg.py 1070019 -o helldiver.txt --season
+py sg.py 3050008 -o judgement.txt --bf
 py sg.py 2040014 --lim
 ```
 
