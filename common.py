@@ -167,7 +167,7 @@ ICONS = {
     235: 'Positive Effects Immunity Act',
     236: 'Daze Act',
     237: 'Impudence Act',
-    238: 'idk sparkly crescent moon',
+    238: 'Hope Act',
     239: 'Lovesickness Bonus Damage Act',
     24: 'idk wow what the hell orange heart with plus',
     240: 'Weak Spot Act',
