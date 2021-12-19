@@ -83,7 +83,7 @@ class Story:
             footer = ""
             footer += TABBER_END + "\n" + CATEGORY + EVENT_STORIES + END_SQUARE_BRACES
             for char in str(self.extra_args['schools']):
-                footer += "\n" + CATEGORY + SCHOOLS[int(char)] + STORIES + END_SQUARE_BRACES
+                footer += "\n" + CATEGORY + SCHOOLS[int(char)] + ' ' + STORIES + END_SQUARE_BRACES
             footer += "\n" + CATEGORY + TRANSCRIPTS + END_SQUARE_BRACES
             self.__write(footer)
 
