@@ -278,6 +278,7 @@ def write_line(filename, line: str):
 def download_img(filename, code, img_type):
     url = "https://cdn.starira.xyz/api/assets/dlc/res/" + img_type + "/cg/" + code + "/image.png"
     img_data = requests.get(url).content
+    filename = filename.replace('\"', '')
     with open(f'{filename}', 'wb') as handler:
         handler.write(img_data)
 
