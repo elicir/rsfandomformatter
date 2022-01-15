@@ -169,7 +169,7 @@ class Story:
     def __get_name_live2d(self, chara_id, chara_names, setting):
         code = str(setting["character"][chara_id-1])
         name = str(chara_names[code[:3]]["en"])
-        return name.replace("Mei Fan", "Meifan")
+        return name
 
     def __format_line_chara_name(self, chara_names, args, name_id):
         name = chara_names[str(name_id)]["en"]
