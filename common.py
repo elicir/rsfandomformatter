@@ -171,6 +171,7 @@ ICONS = {
     239: 'Lovesickness Bonus Damage Act',
     24: '24 idk wow what the hell orange heart with plus',
     240: 'Weak Spot Act',
+    241: 'Frostbite Act',
     25: '25 idk purple heart minus',
     27: '27 idk opposite of NER',
     41: '41 idk shield explosion',
