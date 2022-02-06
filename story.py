@@ -131,28 +131,33 @@ class Story:
             item = story["script"][key]
             if not isinstance(item, str):
                 type = item["type"]
-                args = item["args"];
+                args = item["args"]
                 if isinstance(args, list):
                     continue
                 if type == "message":
-                    name_id = args["nameId"];
-                    chara_id = args["characterId"];
+                    name_id = args["nameId"]
+                    chara_id = args["characterId"]
+                    characters = story["setting"]["character"]
                     if name_id != 0:
                         # single speaker identifiable from chara names json
-                        out_line = self.__format_line_chara_name(chara_names, args, name_id)
+                        out_line, name = self.__format_line_chara_name(chara_names, args, name_id)
+                        if isinstance(chara_id, int) and 0 < chara_id <= len(characters) and self.__get_name_live2d(chara_id, chara_names, characters) not in name:
+                            real_name = self.__get_name_live2d(chara_id, chara_names, characters)
+                            out_line = out_line.replace(name + '|', real_name + '|')
+                            out_line = out_line.replace(END_CURLY_BRACES, '|' + name + END_CURLY_BRACES)
                     elif isinstance(chara_id, int):
                         if chara_id == 0:
                             # sound effect
                             out_line = CHAR_TALK + "|" + args["body"]["en"] + END_CURLY_BRACES
                         else:
                             # single speaker identifiable from live2d
-                            name = self.__get_name_live2d(chara_id, chara_names, story["setting"])
+                            name = self.__get_name_live2d(chara_id, chara_names, characters)
                             out_line = CHAR_TALK + name + "|" + args["body"]["en"] + END_CURLY_BRACES
                     elif isinstance(chara_id, list):
                         # multiple speakers identifiable from live2ds
                         name = "";
                         for chara in chara_id:
-                            chara_name = self.__get_name_live2d(chara, chara_names, story["setting"])
+                            chara_name = self.__get_name_live2d(chara, chara_names, characters)
                             name += chara_name + " & "
                             out_line = CHAR_TALK + name[:-3] + "|" + args["body"]["en"] + END_CURLY_BRACES
                 elif type == "showTitle":
@@ -166,8 +171,8 @@ class Story:
                     write_line(self.filename, out_line)
         return True
 
-    def __get_name_live2d(self, chara_id, chara_names, setting):
-        code = str(setting["character"][chara_id-1])
+    def __get_name_live2d(self, chara_id, chara_names, characters):
+        code = str(characters[chara_id-1])
         name = str(chara_names[code[:3]]["en"])
         return name
 
@@ -177,9 +182,9 @@ class Story:
         if '(' in name:
             b = name.index('(')
             speech = "'''(" + name[(b + 1):] + "'''<br>" + speech
-            name = name[:(b - 1)].replace("Mei Fan", "Meifan")
+            name = name[:(b - 1)]
         out_line = CHAR_TALK + name + "|" + speech + END_CURLY_BRACES
-        return out_line
+        return out_line, name
 
     def write_file(self):
         if self.type == "main":
