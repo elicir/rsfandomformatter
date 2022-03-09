@@ -141,10 +141,12 @@ class Story:
                     if name_id != 0:
                         # single speaker identifiable from chara names json
                         out_line, name = self.__format_line_chara_name(chara_names, args, name_id)
-                        if isinstance(chara_id, int) and 0 < chara_id <= len(characters) and self.__get_name_live2d(chara_id, chara_names, characters) not in name:
-                            real_name = self.__get_name_live2d(chara_id, chara_names, characters)
-                            out_line = out_line.replace(name + '|', real_name + '|')
-                            out_line = out_line.replace(END_CURLY_BRACES, '|' + name + END_CURLY_BRACES)
+                        live2d_name = self.__get_name_live2d(chara_id, chara_names, characters)
+                        if live2d_name: # live2d_name is None if it is not a stage girl
+                            if isinstance(chara_id, int) and 0 < chara_id <= len(characters) and live2d_name not in name:
+                                real_name = self.__get_name_live2d(chara_id, chara_names, characters)
+                                out_line = out_line.replace(name + '|', real_name + '|')
+                                out_line = out_line.replace(END_CURLY_BRACES, '|' + name + END_CURLY_BRACES)
                     elif isinstance(chara_id, int):
                         if chara_id == 0:
                             # sound effect
@@ -172,9 +174,11 @@ class Story:
         return True
 
     def __get_name_live2d(self, chara_id, chara_names, characters):
-        code = str(characters[chara_id-1])
-        name = str(chara_names[code[:3]]["en"])
-        return name
+        code = str(characters[chara_id-1])[:3]
+        if code not in chara_names:
+            return None
+        else: 
+            return str(chara_names[code]["en"])
 
     def __format_line_chara_name(self, chara_names, args, name_id):
         name = chara_names[str(name_id)]["en"]
