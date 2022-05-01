@@ -141,7 +141,7 @@ class Story:
                     if name_id != 0:
                         # single speaker identifiable from chara names json
                         out_line, name = self.__format_line_chara_name(chara_names, args, name_id)
-                        if isinstance(chara_id, int): # ie. All does not need role check
+                        if isinstance(chara_id, int) and len(characters) > 0: # ie. All does not need role check
                             live2d_name = self.__get_name_live2d(chara_id, chara_names, characters)
                             if live2d_name: # live2d_name is None if it is not a stage girl
                                 if isinstance(chara_id, int) and 0 < chara_id <= len(characters) and live2d_name not in name:
