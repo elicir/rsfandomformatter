@@ -13,8 +13,8 @@ Outdated, txt2fandom does not use Karth APIs and other scripts were written befo
   * |Bond Level 30 Talk
   * \>subheading
   * \>|subheading but next to main title
-  * \>.empty line (br)
-  * <no speaker
+  * \>. horizontal break (<hr>)
+  * <no speaker (sfx,etc)
   * Name\Line
 
 **yt2frames.sh usage:**
