@@ -161,7 +161,11 @@ class Story:
                         name = "";
                         for chara in chara_id:
                             chara_name = self.__get_name_live2d(chara, chara_names, characters)
-                            name += chara_name + " & "
+                            if chara_name: # live2d_name is None if it is not a stage girl
+                                name += chara_name + " & "
+                            else:
+                                chara_code = str(characters[chara-1])[:3]
+                                name += str(chara_code) + " & "
                             out_line = CHAR_TALK + name[:-3] + "|" + args["body"]["en"] + END_CURLY_BRACES
                 elif type == "showTitle":
                     temp_title = SUBTITLE
@@ -175,11 +179,16 @@ class Story:
         return True
 
     def __get_name_live2d(self, chara_id, chara_names, characters):
-        code = str(characters[chara_id-1])[:3]
-        if code not in chara_names:
-            return None
-        else: 
-            return str(chara_names[code]["en"])
+        try:
+            code = str(characters[chara_id-1])[:3]
+            if code not in chara_names:
+                return None
+            else: 
+                return str(chara_names[code]["en"])
+        except:
+            print(chara_id)
+            print(characters)
+            return ""
 
     def __format_line_chara_name(self, chara_names, args, name_id):
         name = chara_names[str(name_id)]["en"]
