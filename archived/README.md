@@ -2,7 +2,7 @@ Outdated, txt2fandom does not use Karth APIs and other scripts were written befo
 
 **txt2fandom.py usage:**
 
-* python3 caps2transcript.py input.txt -e/-b (-e for event story, -b for bond story)
+* python3 txt2fandom.py input.txt -e/-b (-e for event story, -b for bond story)
 * outputs to transcript.txt
 * no dependencies
 
@@ -13,8 +13,8 @@ Outdated, txt2fandom does not use Karth APIs and other scripts were written befo
   * |Bond Level 30 Talk
   * \>subheading
   * \>|subheading but next to main title
-  * \>.empty line (br)
-  * <no speaker
+  * \>. horizontal break (<hr>)
+  * <no speaker (sfx,etc)
   * Name\Line
 
 **yt2frames.sh usage:**

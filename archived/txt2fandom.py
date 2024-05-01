@@ -31,7 +31,7 @@ for line in f:
         if line[1] == "|":
             new = title2[2:] + line[2:] + title_end
         elif line[1] == ".":
-            new = "<br>"
+            new = "<hr>"
         else:
             new = subtitle1 + line[1:] + title_end
     elif line[0] == "<":
@@ -50,6 +50,5 @@ for line in f:
     with open('transcript.txt', 'a') as transcript:
         transcript.write(new + '\n')
 f.close()
-
 
 
